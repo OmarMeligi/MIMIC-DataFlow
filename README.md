@@ -73,8 +73,7 @@ graph TB
 
 ### 🎯 **ONE-COMMAND DEPLOYMENT**
 
-</div>
-
+---
 ```bash
 #  CLONE AND START 
 git clone [https://github.com/your-repo/mimic-analytics.git](https://github.com/OmarMeligi/MIMIC-DataFlow.git)
