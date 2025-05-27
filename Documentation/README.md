@@ -23,3 +23,9 @@ Build a Big Data pipeline to cleanse, transform, and analyze the MIMIC-III medic
 - Structured star schema model in Hive
 - Optimized storage with Parquet
 - Efficient querying via Hive
+
+### Architecture Diagram
+![Architecture Diagram](architecture_diagram.PNG)
+
+### Technology Stack
+![Technology Stack](Technology%20Stack.PNG)
