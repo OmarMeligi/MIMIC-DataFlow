@@ -11,7 +11,7 @@
 
 ---
 
-## 🏗️ **REVOLUTIONARY ARCHITECTURE**
+## 🏗️ **ARCHITECTURE**
 
 <div align="center">
 
@@ -79,7 +79,7 @@ graph TB
 
 ```bash
 # 🔥 CLONE AND START THE MAGIC
-git clone https://github.com/your-repo/mimic-analytics.git
+git clone [https://github.com/your-repo/mimic-analytics.git](https://github.com/OmarMeligi/MIMIC-DataFlow.git)
 cd mimic-analytics
 
 # ⚡ ONE-CLICK DOCKER DEPLOYMENT
