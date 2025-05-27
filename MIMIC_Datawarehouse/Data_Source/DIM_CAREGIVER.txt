@@ -1,0 +1,7568 @@
+CG_ID,label,description
+14001,RO,Read Only
+14002,RO,Read Only
+14003,Not Specified,Not Specified
+14004,AR,Not Specified
+14005,MD,Not Specified
+14006,MD,Not Specified
+14007,MD,Read Only
+14008,RO,Read Only
+14009,MDs,Not Specified
+14010,MDs,Resident/Fellow/PA/NP
+14011,RO,Read Only
+14012,MedSt,Not Specified
+14013,RO,Read Only
+14014,RO,Read Only
+14015,RO,Read Only
+14016,RO,Read Only
+14017,MD,Not Specified
+14018,RO,Read Only
+14019,Res,Resident/Fellow/PA/NP
+14020,RN,Not Specified
+14021,Res,Resident/Fellow/PA/NP
+14022,Res,Resident/Fellow/PA/NP
+14023,RN,RN
+14024,MD,Attending
+14025,MD,Not Specified
+14026,MDs,Not Specified
+14027,Res,Resident/Fellow/PA/NP
+14028,Res,Resident/Fellow/PA/NP
+14029,MD,Not Specified
+14030,RO,Read Only
+14031,RO,Read Only
+14032,MD,Read Only
+14033,RT,Respiratory
+14034,Res,Resident/Fellow/PA/NP
+14035,RO,Read Only
+14036,RO,Read Only
+14037,PHD,Attending
+14038,Res,Resident/Fellow/PA/NP
+14039,RO,Read Only
+14040,MD,Not Specified
+14041,MD,Not Specified
+14042,RO,Read Only
+14043,MD,Not Specified
+14044,RO,Read Only
+14045,MD,Attending
+14046,RO,Read Only
+14047,RO,Read Only
+14048,RO,Read Only
+14049,MD,Not Specified
+14050,MD,Not Specified
+14051,MD,Not Specified
+14052,MD,Not Specified
+14053,RO,Read Only
+14054,MD,Resident/Fellow/PA/NP
+14055,MD,Not Specified
+14056,MDs,Resident/Fellow/PA/NP
+14057,MD,Not Specified
+14058,Dr,Read Only
+14059,RO,Read Only
+14060,RO,Read Only
+14061,MD,Read Only
+14062,MD,Not Specified
+14063,Res,Resident/Fellow/PA/NP
+14064,RO,Read Only
+14065,MD,Not Specified
+14066,RO,Read Only
+14067,MD,Not Specified
+14068,MD,Not Specified
+14069,Rehab,Rehabilitation
+14070,RO,Read Only
+14071,RO,Read Only
+14072,MD,Read Only
+14073,MedStu,Not Specified
+14074,RO,Read Only
+14075,RO,Read Only
+14076,RO,Read Only
+14077,Not Specified,Not Specified
+14078,RN,RN
+14079,Res,Resident/Fellow/PA/NP
+14080,MD,Attending
+14081,SW,Social Worker
+14082,RO,Read Only
+14083,RT,Respiratory
+14084,RN,RN
+14085,Res,Resident/Fellow/PA/NP
+14086,Res,Resident/Fellow/PA/NP
+14087,Res,Resident/Fellow/PA/NP
+14088,RO,Read Only
+14089,Res,Resident/Fellow/PA/NP
+14090,Res,Resident/Fellow/PA/NP
+14091,MDs,Resident/Fellow/PA/NP
+14092,MedSt,Not Specified
+14093,Res,Resident/Fellow/PA/NP
+14094,RD,Dietitian
+14095,RO,Read Only
+14096,MD,Not Specified
+14097,MD,Not Specified
+14098,RN,Not Specified
+14099,MD,Not Specified
+14100,RO,Read Only
+14101,RA,Read Only
+14102,MD,Not Specified
+14103,MD,Resident/Fellow/PA/NP
+14104,Res,Resident/Fellow/PA/NP
+14105,Fell,Resident/Fellow/PA/NP
+14106,MD,Not Specified
+14107,MD,Not Specified
+14108,MD,Not Specified
+14109,RO,Read Only
+14110,MD,Attending
+14111,Res,Resident/Fellow/PA/NP
+14112,MD,Not Specified
+14113,MD,Attending
+14114,PA,Resident/Fellow/PA/NP
+14115,H,Not Specified
+14116,MD,Attending
+14117,RO,Read Only
+14118,MDs,Not Specified
+14119,RO,Read Only
+14120,RO,Read Only
+14121,St,Not Specified
+14122,RO,Read Only
+14123,MDs,Resident/Fellow/PA/NP
+14124,RO,Read Only
+14125,RO,Read Only
+14126,Res,Resident/Fellow/PA/NP
+14127,Res,Resident/Fellow/PA/NP
+14128,MD,Resident/Fellow/PA/NP
+14129,RO,Read Only
+14130,Res,Resident/Fellow/PA/NP
+14131,RO,Read Only
+14132,MD,Not Specified
+14133,RN,Not Specified
+14134,RO,Read Only
+14135,MD,Resident/Fellow/PA/NP
+14136,MD,Read Only
+14137,IMD,IMD
+14138,MS,Not Specified
+14139,UA,Not Specified
+14140,MD,Not Specified
+14141,RO,Read Only
+14142,MDs,Not Specified
+14143,MD,Resident/Fellow/PA/NP
+14144,MD,Not Specified
+14145,PA,Not Specified
+14146,MD,Read Only
+14147,RO,Read Only
+14148,RO,Read Only
+14149,MD,Not Specified
+14150,MD,Not Specified
+14151,RN,RN
+14152,MD,Not Specified
+14153,RO,Read Only
+14154,MDs,Resident/Fellow/PA/NP
+14155,RO,Read Only
+14156,DI,Dietitian
+14157,MD,Not Specified
+14158,RO,Read Only
+14159,MD,Read Only
+14160,RN,Not Specified
+14161,RO,Read Only
+14162,CoOpSt,Not Specified
+14163,PCA,Not Specified
+14164,UCO,UCO
+14165,RN,Not Specified
+14166,RN,Not Specified
+14167,RRT,Not Specified
+14168,MD,Resident/Fellow/PA/NP
+14169,RRT,Respiratory
+14170,MDs,Not Specified
+14171,MD,Resident/Fellow/PA/NP
+14172,RO,Read Only
+14173,Res,Resident/Fellow/PA/NP
+14174,Res,Resident/Fellow/PA/NP
+14175,MD,Not Specified
+14176,RO,Read Only
+14177,MD,Not Specified
+14178,RO,Read Only
+14179,MD,Not Specified
+14180,MDs,Resident/Fellow/PA/NP
+14181,RO,Read Only
+14182,RN,RN
+14183,RPh,Not Specified
+14184,NP,Resident/Fellow/PA/NP
+14185,MD,Not Specified
+14186,RN,Not Specified
+14187,RN,Read Only
+14188,MS,Not Specified
+14189,RO,Read Only
+14190,MD,Not Specified
+14191,RN,Not Specified
+14192,MD,Resident/Fellow/PA/NP
+14193,RO,Read Only
+14194,CM,Case Manager
+14195,Rehab,Rehabilitation
+14196,MD,Not Specified
+14197,SW,Social Worker
+14198,Res,Resident/Fellow/PA/NP
+14199,RO,Read Only
+14200,MD,Read Only
+14201,CRT,Not Specified
+14202,RT,Respiratory
+14203,RO,Read Only
+14204,RN,Not Specified
+14205,RN,Not Specified
+14206,RN,RN
+14207,RO,Read Only
+14208,RO,Read Only
+14209,CoWkr,Not Specified
+14210,RO,Read Only
+14211,RRT,Respiratory
+14212,RN,RN
+14213,RN,RN
+14214,RN,RN
+14215,SN,Not Specified
+14216,Res,Resident/Fellow/PA/NP
+14217,Res,Resident/Fellow/PA/NP
+14218,RO,Read Only
+14219,MD,Read Only
+14220,RO,Read Only
+14221,MD,Attending
+14222,RN,RN
+14223,MedSt,Not Specified
+14224,MD,Attending
+14225,Res,Resident/Fellow/PA/NP
+14226,Res,Resident/Fellow/PA/NP
+14227,RO,Read Only
+14228,RN,RN
+14229,RO,Read Only
+14230,RO,Read Only
+14231,RO,Read Only
+14232,RO,Read Only
+14233,RO,Read Only
+14234,UA,UCO
+14235,Medst,Not Specified
+14236,RRT,Not Specified
+14237,MD,Read Only
+14238,MD,Not Specified
+14239,MD,Not Specified
+14240,MD,Resident/Fellow/PA/NP
+14241,RN,Not Specified
+14242,MDs,Read Only
+14243,RO,Read Only
+14244,RO,Read Only
+14245,MD,Not Specified
+14246,RN,Not Specified
+14247,RO,Read Only
+14248,Rehab,Rehabilitation
+14249,MD,Not Specified
+14250,RO,Read Only
+14251,Res,Resident/Fellow/PA/NP
+14252,MDs,Attending
+14253,RO,Read Only
+14254,MSIV,Not Specified
+14255,MD,Not Specified
+14256,MD,Not Specified
+14257,RO,Read Only
+14258,RO,Read Only
+14259,MDs,Not Specified
+14260,MD,Not Specified
+14261,SW,Social Worker
+14262,STD,Not Specified
+14263,RO,Read Only
+14264,RN,Not Specified
+14265,NP,RN
+14266,RN,Not Specified
+14267,RO,Read Only
+14268,MD,Read Only
+14269,MDs,Resident/Fellow/PA/NP
+14270,SNP,Not Specified
+14271,MD,Read Only
+14272,MD,Not Specified
+14273,MD,Not Specified
+14274,RN,Not Specified
+14275,MD,Not Specified
+14276,MD,Not Specified
+14277,RN,Not Specified
+14278,MD,Not Specified
+14279,MD,Not Specified
+14280,MD,Not Specified
+14281,ajm,Resident/Fellow/PA/NP
+14282,RN,Not Specified
+14283,OTR/L,Not Specified
+14284,RN,RN
+14285,RO,Read Only
+14286,PCT,Not Specified
+14287,MD,Resident/Fellow/PA/NP
+14288,RO,Read Only
+14289,RPh,Not Specified
+14290,DI,Dietitian
+14291,MD,Not Specified
+14292,RO,Read Only
+14293,LICSW,Not Specified
+14294,MD,Not Specified
+14295,RN,Not Specified
+14296,RN,Not Specified
+14297,MD,Not Specified
+14298,rn,Not Specified
+14299,PCT,Not Specified
+14300,LICSW,Not Specified
+14301,RO,Read Only
+14302,RN,Not Specified
+14303,RO,Read Only
+14304,RO,Read Only
+14305,MD,Resident/Fellow/PA/NP
+14306,Stu,Not Specified
+14307,Res,Resident/Fellow/PA/NP
+14308,MedStu,Read Only
+14309,MD,Not Specified
+14310,RO,Read Only
+14311,MD,Not Specified
+14312,MD,Not Specified
+14313,UCO,Not Specified
+14314,Res,Resident/Fellow/PA/NP
+14315,RD,Dietitian
+14316,Rehab,Rehabilitation
+14317,RN,RN
+14318,MD,Not Specified
+14319,MedStu,Not Specified
+14320,RO,Read Only
+14321,RO,Read Only
+14322,RN,Not Specified
+14323,MD,Read Only
+14324,CoWkr,Not Specified
+14325,RN,Not Specified
+14326,RO,Read Only
+14327,MDs,Read Only
+14328,RO,Read Only
+14329,RRT,Not Specified
+14330,MS,Resident/Fellow/PA/NP
+14331,MDs,Resident/Fellow/PA/NP
+14332,RNs,RN
+14333,MD,Not Specified
+14334,RT,Respiratory
+14335,Rehab,Rehabilitation
+14336,RO,Read Only
+14337,MedStu,Not Specified
+14338,MDs,Read Only
+14339,RPh,Not Specified
+14340,MD,Not Specified
+14341,MS,Not Specified
+14342,Medst,Not Specified
+14343,MD,Not Specified
+14344,RO,Read Only
+14345,Rn,RN
+14346,MD,Not Specified
+14347,MS,Not Specified
+14348,RO,Read Only
+14349,RO,Read Only
+14350,RO,Read Only
+14351,MS,Not Specified
+14352,MD,Not Specified
+14353,DI,Dietitian
+14354,MD,Resident/Fellow/PA/NP
+14355,RO,Read Only
+14356,MD,Resident/Fellow/PA/NP
+14357,RN,RN
+14358,MD,Not Specified
+14359,Res,Resident/Fellow/PA/NP
+14360,MD,Not Specified
+14361,MD,Not Specified
+14362,MSIV,Not Specified
+14363,MD,Not Specified
+14364,RO,Read Only
+14365,MD,Resident/Fellow/PA/NP
+14366,SRT,Not Specified
+14367,RN,Not Specified
+14368,RO,Read Only
+14369,RO,Read Only
+14370,RO,Read Only
+14371,SRT,Respiratory
+14372,R.Ph,Not Specified
+14373,RO,Read Only
+14374,MD,Resident/Fellow/PA/NP
+14375,RN,Not Specified
+14376,RN,Not Specified
+14377,RN,Not Specified
+14378,RO,Read Only
+14379,RN,RN
+14380,RO,Read Only
+14381,RRT,Respiratory
+14382,PhStud,Not Specified
+14383,MD,Not Specified
+14384,MD,Resident/Fellow/PA/NP
+14385,MD,Not Specified
+14386,MD,Not Specified
+14387,RN,RN
+14388,Res,Resident/Fellow/PA/NP
+14389,MD,Not Specified
+14390,NSV,Not Specified
+14391,RO,Read Only
+14392,RO,Read Only
+14393,MD,Attending
+14394,RO,Read Only
+14395,RO,Read Only
+14396,RO,Read Only
+14397,RO,Read Only
+14398,RO,Read Only
+14399,RN,Not Specified
+14400,RO,Read Only
+14401,RO,Read Only
+14402,RO,Read Only
+14403,MD,Not Specified
+14404,MD,Not Specified
+14405,MSI,Not Specified
+14406,RO,Read Only
+14407,RO,Read Only
+14408,AL,Respiratory
+14409,MD,Not Specified
+14410,RO,Read Only
+14411,RN,RN
+14412,MD,Not Specified
+14413,RN,Not Specified
+14414,MD,Resident/Fellow/PA/NP
+14415,RNC,Read Only
+14416,RO,Read Only
+14417,MDs,Resident/Fellow/PA/NP
+14418,RN,RN
+14419,RN,RN
+14420,STD,Not Specified
+14421,RN,Not Specified
+14422,RN,Not Specified
+14423,RO,Read Only
+14424,MD,Not Specified
+14425,RN,Read Only
+14426,RN,Not Specified
+14427,RN,RN
+14428,RO,Read Only
+14429,RN,Not Specified
+14430,RO,Read Only
+14431,RN,RN
+14432,RN,Not Specified
+14433,RN,Not Specified
+14434,RO,Read Only
+14435,RN,RN
+14436,RN,Not Specified
+14437,RRT,Not Specified
+14438,UA,UCO
+14439,RN,Not Specified
+14440,RN,Read Only
+14441,RN,RN
+14442,RN,RN
+14443,RN,Not Specified
+14444,MDs,Resident/Fellow/PA/NP
+14445,RO,Read Only
+14446,MD,Attending
+14447,MD,Attending
+14448,MEDST,Not Specified
+14449,MDs,Resident/Fellow/PA/NP
+14450,RO,Read Only
+14451,MD,Not Specified
+14452,MD,Not Specified
+14453,MD,Not Specified
+14454,RPh,Read Only
+14455,MD,Not Specified
+14456,Res,Resident/Fellow/PA/NP
+14457,RPh,Not Specified
+14458,MD,Resident/Fellow/PA/NP
+14459,MD,Not Specified
+14460,RO,Read Only
+14461,PCA,Not Specified
+14462,MD,Resident/Fellow/PA/NP
+14463,RO,Read Only
+14464,RO,Read Only
+14465,MS,Resident/Fellow/PA/NP
+14466,MD,Not Specified
+14467,STD,Read Only
+14468,RO,Read Only
+14469,MD,Not Specified
+14470,RN,Not Specified
+14471,RO,Read Only
+14472,RO,Read Only
+14473,MDs,Resident/Fellow/PA/NP
+14474,RO,Read Only
+14475,MD,Read Only
+14476,MD,Not Specified
+14477,ms,Resident/Fellow/PA/NP
+14478,Res,Resident/Fellow/PA/NP
+14479,MD,Not Specified
+14480,MD,Not Specified
+14481,MedStu,Not Specified
+14482,Res,Resident/Fellow/PA/NP
+14483,RN,RN
+14484,R.Ph,Pharmacist
+14485,Res,Read Only
+14486,MDs,Resident/Fellow/PA/NP
+14487,RO,Read Only
+14488,RO,Read Only
+14489,RN,Not Specified
+14490,MD,Not Specified
+14491,MedSt,Not Specified
+14492,MD,Not Specified
+14493,RO,Read Only
+14494,MD,Resident/Fellow/PA/NP
+14495,MD,Attending
+14496,RO,Read Only
+14497,RPH,Pharmacist
+14498,RO,Read Only
+14499,NP,Read Only
+14500,RO,Read Only
+14501,RO,Read Only
+14502,RO,Read Only
+14503,MD,Not Specified
+14504,RO,Read Only
+14505,Res,Resident/Fellow/PA/NP
+14506,MD,Not Specified
+14507,RO,Read Only
+14508,MDs,Resident/Fellow/PA/NP
+14509,RO,Read Only
+14510,MD,Attending
+14511,DI,Dietitian
+14512,MD,Not Specified
+14513,RO,Read Only
+14514,Res,Resident/Fellow/PA/NP
+14515,MD,Not Specified
+14516,RO,Read Only
+14517,MD,Resident/Fellow/PA/NP
+14518,RN,RN
+14519,PCA,Not Specified
+14520,RO,Read Only
+14521,MDs,Resident/Fellow/PA/NP
+14522,RO,Read Only
+14523,DI,Not Specified
+14524,MD,Resident/Fellow/PA/NP
+14525,RO,Read Only
+14526,MD,Not Specified
+14527,RO,Read Only
+14528,Res,Resident/Fellow/PA/NP
+14529,Res,Resident/Fellow/PA/NP
+14530,Rehab,Rehabilitation
+14531,MDs,Read Only
+14532,RO,Read Only
+14533,Res,Resident/Fellow/PA/NP
+14534,MS,Not Specified
+14535,RPh,Not Specified
+14536,MD,Not Specified
+14537,Rehab,Rehabilitation
+14538,RO,Read Only
+14539,MD,Not Specified
+14540,UA,Not Specified
+14541,Res,Resident/Fellow/PA/NP
+14542,RN,RN
+14543,MD,Attending
+14544,Res,Resident/Fellow/PA/NP
+14545,MD,Not Specified
+14546,Res,Resident/Fellow/PA/NP
+14547,UCO,UCO
+14548,RN,RN
+14549,RPH,Pharmacist
+14550,Res,Resident/Fellow/PA/NP
+14551,RD,Dietitian
+14552,MD,Resident/Fellow/PA/NP
+14553,MD,Not Specified
+14554,MDs,Resident/Fellow/PA/NP
+14555,CoWkr,Not Specified
+14556,RO,Read Only
+14557,RO,Read Only
+14558,MD,Not Specified
+14559,RPh,Not Specified
+14560,Res,Resident/Fellow/PA/NP
+14561,PCT,PCT/NA
+14562,RN,Not Specified
+14563,Rehab,Rehabilitation
+14564,RO,Read Only
+14565,RN,RN
+14566,Rehab,Rehabilitation
+14567,MD,Attending
+14568,Res,Resident/Fellow/PA/NP
+14569,RO,Read Only
+14570,Res,Resident/Fellow/PA/NP
+14571,PCT,PCT/NA
+14572,Res,Resident/Fellow/PA/NP
+14573,MD,Attending
+14574,Res,Resident/Fellow/PA/NP
+14575,Res,Resident/Fellow/PA/NP
+14576,RN,RN
+14577,Res,Resident/Fellow/PA/NP
+14578,MD,Attending
+14579,RO,Read Only
+14580,Res,Resident/Fellow/PA/NP
+14581,MD,Not Specified
+14582,Res,Resident/Fellow/PA/NP
+14583,RO,Read Only
+14584,RN,RN
+14585,Res,Resident/Fellow/PA/NP
+14586,MD,Not Specified
+14587,Res,Resident/Fellow/PA/NP
+14588,RN,RN
+14589,RO,Read Only
+14590,RO,Read Only
+14591,RO,Read Only
+14592,UCO,UCO
+14593,MD,Not Specified
+14594,Res,Resident/Fellow/PA/NP
+14595,Res,Resident/Fellow/PA/NP
+14596,RO,Read Only
+14597,RN,RN
+14598,RNC,Read Only
+14599,RO,Read Only
+14600,RN,Not Specified
+14601,RO,Read Only
+14602,MDs,Resident/Fellow/PA/NP
+14603,NEOB,UCO
+14604,RN,Not Specified
+14605,RN,RN
+14606,RN,RN
+14607,RN,RN
+14608,RN,Not Specified
+14609,RN,Not Specified
+14610,RO,Read Only
+14611,Res,Resident/Fellow/PA/NP
+14612,RT,Respiratory
+14613,MD,Read Only
+14614,Res,Resident/Fellow/PA/NP
+14615,Res,Resident/Fellow/PA/NP
+14616,Res,Resident/Fellow/PA/NP
+14617,Rehab,Rehabilitation
+14618,Res,Resident/Fellow/PA/NP
+14619,Res,Resident/Fellow/PA/NP
+14620,MD,Attending
+14621,RD,Dietitian
+14622,UCO,UCO
+14623,CM,Case Manager
+14624,Res,Resident/Fellow/PA/NP
+14625,Rn,RN
+14626,RN,RN
+14627,ISSupp,Administrator
+14628,RO,Read Only
+14629,MD,Resident/Fellow/PA/NP
+14630,RRts,Not Specified
+14631,PCT,PCT/NA
+14632,RPH,Pharmacist
+14633,RO,Read Only
+14634,RO,Read Only
+14635,RT,Respiratory
+14636,RO,Read Only
+14637,MD,Attending
+14638,RN,RN
+14639,Res,Resident/Fellow/PA/NP
+14640,RN,RN
+14641,Rehab,Rehabilitation
+14642,RT,Respiratory
+14643,Res,Resident/Fellow/PA/NP
+14644,Res,Resident/Fellow/PA/NP
+14645,RD,Dietitian
+14646,Res,Resident/Fellow/PA/NP
+14647,Rehab,Rehabilitation
+14648,Res,Resident/Fellow/PA/NP
+14649,Res,Resident/Fellow/PA/NP
+14650,PCT,PCT/NA
+14651,Res,Resident/Fellow/PA/NP
+14652,Res,Resident/Fellow/PA/NP
+14653,RO,Read Only
+14654,Res,Resident/Fellow/PA/NP
+14655,RT,Respiratory
+14656,Res,Resident/Fellow/PA/NP
+14657,RN,RN
+14658,RN,Not Specified
+14659,MD,Attending
+14660,RO,Read Only
+14661,RO,Read Only
+14662,MDs,Resident/Fellow/PA/NP
+14663,MD,Not Specified
+14664,MD,Read Only
+14665,MD,Not Specified
+14666,Res,Resident/Fellow/PA/NP
+14667,MD,Read Only
+14668,RO,Read Only
+14669,RO,Read Only
+14670,MD,Not Specified
+14671,RO,Read Only
+14672,RO,Read Only
+14673,MDs,Resident/Fellow/PA/NP
+14674,Studen,Not Specified
+14675,MDs,Resident/Fellow/PA/NP
+14676,Res,Resident/Fellow/PA/NP
+14677,Res,Resident/Fellow/PA/NP
+14678,RN,RN
+14679,Res,Resident/Fellow/PA/NP
+14680,MD,Resident/Fellow/PA/NP
+14681,Res,Resident/Fellow/PA/NP
+14682,Res,Resident/Fellow/PA/NP
+14683,RN,RN
+14684,Res,Resident/Fellow/PA/NP
+14685,Res,Resident/Fellow/PA/NP
+14686,Res,Resident/Fellow/PA/NP
+14687,SW,Social Worker
+14688,Rehab,Rehabilitation
+14689,UCO,UCO
+14690,Res,Resident/Fellow/PA/NP
+14691,Res,Resident/Fellow/PA/NP
+14692,Rehab,Rehabilitation
+14693,MD,Attending
+14694,RO,Read Only
+14695,RN,RN
+14696,RO,Read Only
+14697,MD,Not Specified
+14698,RO,Read Only
+14699,RO,Read Only
+14700,RRT,Respiratory
+14701,NP,Not Specified
+14702,MD,Not Specified
+14703,Res,Resident/Fellow/PA/NP
+14704,Res,Resident/Fellow/PA/NP
+14705,RO,Read Only
+14706,RN,RN
+14707,Rehab,Rehabilitation
+14708,MD,Read Only
+14709,Res,Resident/Fellow/PA/NP
+14710,RN,RN
+14711,RO,Read Only
+14712,RN,Not Specified
+14713,RO,Read Only
+14714,RN,RN
+14715,MD,Not Specified
+14716,RN,Not Specified
+14717,RN,Not Specified
+14718,MDs,Resident/Fellow/PA/NP
+14719,RN,RN
+14720,LICSW,Not Specified
+14721,RN,Read Only
+14722,MD,Read Only
+14723,U A,Not Specified
+14724,RO,Read Only
+14725,RN,Not Specified
+14726,RN,Not Specified
+14727,Res,Resident/Fellow/PA/NP
+14728,Res,Resident/Fellow/PA/NP
+14729,Res,Resident/Fellow/PA/NP
+14730,MD,Not Specified
+14731,Res,Resident/Fellow/PA/NP
+14732,RD,Dietitian
+14733,MD,Not Specified
+14734,StPHa,Not Specified
+14735,Res,Resident/Fellow/PA/NP
+14736,RN,RN
+14737,Res,Resident/Fellow/PA/NP
+14738,RPH,Pharmacist
+14739,MD,Resident/Fellow/PA/NP
+14740,RN,Not Specified
+14741,MS,Not Specified
+14742,RO,Read Only
+14743,RRT,Not Specified
+14744,Rehab,Rehabilitation
+14745,Res,Resident/Fellow/PA/NP
+14746,RO,Read Only
+14747,Res,Resident/Fellow/PA/NP
+14748,RO,Read Only
+14749,Res,Resident/Fellow/PA/NP
+14750,Res,Resident/Fellow/PA/NP
+14751,RN,RN
+14752,MD,Resident/Fellow/PA/NP
+14753,RO,Read Only
+14754,RO,Read Only
+14755,RO,Read Only
+14756,RO,Read Only
+14757,RN,RN
+14758,RN,RN
+14759,RN,RN
+14760,Rehab,Rehabilitation
+14761,Res,Resident/Fellow/PA/NP
+14762,RN,Not Specified
+14763,RN,RN
+14764,RD,Dietitian
+14765,Res,Resident/Fellow/PA/NP
+14766,Res,Resident/Fellow/PA/NP
+14767,Res,Resident/Fellow/PA/NP
+14768,RN,RN
+14769,Res,Resident/Fellow/PA/NP
+14770,MD,Resident/Fellow/PA/NP
+14771,CoOPSt,Not Specified
+14772,RN,RN
+14773,NEOB,Not Specified
+14774,RN,Not Specified
+14775,Res,Resident/Fellow/PA/NP
+14776,PCT,PCT/NA
+14777,MD,Attending
+14778,Res,Resident/Fellow/PA/NP
+14779,SW,Social Worker
+14780,MedStu,Not Specified
+14781,MD,Attending
+14782,Res,Resident/Fellow/PA/NP
+14783,Rehab,Rehabilitation
+14784,RN,RN
+14785,Res,Resident/Fellow/PA/NP
+14786,MD,Not Specified
+14787,RN,RN
+14788,Res,Resident/Fellow/PA/NP
+14789,Rehab,Rehabilitation
+14790,Res,Resident/Fellow/PA/NP
+14791,RO,Read Only
+14792,PCT,PCT/NA
+14793,RO,Read Only
+14794,MD,Resident/Fellow/PA/NP
+14795,RO,Read Only
+14796,RO,Read Only
+14797,MD,Not Specified
+14798,RPH,Pharmacist
+14799,RA,Research Assistant
+14800,MedStu,Not Specified
+14801,RN,RN
+14802,RN,RN
+14803,Rehab,Rehabilitation
+14804,RN,RN
+14805,Res,Resident/Fellow/PA/NP
+14806,RO,Read Only
+14807,MD,Not Specified
+14808,RO,Read Only
+14809,RRT,Not Specified
+14810,RO,Read Only
+14811,RN,RN
+14812,Res,Resident/Fellow/PA/NP
+14813,RO,Read Only
+14814,RO,Read Only
+14815,RRT,Read Only
+14816,RNC,Not Specified
+14817,RN,Read Only
+14818,RN,Not Specified
+14819,RPh,Not Specified
+14820,MS,Not Specified
+14821,PT,Not Specified
+14822,MD,Not Specified
+14823,MD,Not Specified
+14824,Rehab,Rehabilitation
+14825,RO,Read Only
+14826,MD,Not Specified
+14827,MD,Not Specified
+14828,RN,Read Only
+14829,MDs,Read Only
+14830,RO,Read Only
+14831,Admin,Administrator
+14832,RO,Read Only
+14833,MD,Resident/Fellow/PA/NP
+14834,RN,Not Specified
+14835,RO,Read Only
+14836,RO,Read Only
+14837,MD,Not Specified
+14838,MD,Resident/Fellow/PA/NP
+14839,MDs,Resident/Fellow/PA/NP
+14840,MedSt,Not Specified
+14841,RO,Read Only
+14842,MS,Resident/Fellow/PA/NP
+14843,MD,Not Specified
+14844,MDs,Resident/Fellow/PA/NP
+14845,RO,Read Only
+14846,Intern,Resident/Fellow/PA/NP
+14847,MDs,Not Specified
+14848,MD,Not Specified
+14849,RO,Read Only
+14850,StNurs,Not Specified
+14851,MD,Not Specified
+14852,RO,Read Only
+14853,Res,Resident/Fellow/PA/NP
+14854,MD,Not Specified
+14855,RN,Not Specified
+14856,RO,Read Only
+14857,PCA,Not Specified
+14858,RO,Read Only
+14859,RN,RN
+14860,rn,Not Specified
+14861,MD,Not Specified
+14862,RRT,Not Specified
+14863,RN,Not Specified
+14864,MD,Not Specified
+14865,RN,Not Specified
+14866,MD,Not Specified
+14867,MDs,Not Specified
+14868,MD,Not Specified
+14869,Res,Resident/Fellow/PA/NP
+14870,RT,Respiratory
+14871,Not Specified,Not Specified
+14872,RN,Not Specified
+14873,RO,Read Only
+14874,RO,Read Only
+14875,RO,Read Only
+14876,Res,Resident/Fellow/PA/NP
+14877,Res,Resident/Fellow/PA/NP
+14878,Res,Resident/Fellow/PA/NP
+14879,Res,Resident/Fellow/PA/NP
+14880,RO,Read Only
+14881,RT,Respiratory
+14882,RO,Read Only
+14883,Res,Resident/Fellow/PA/NP
+14884,Res,Resident/Fellow/PA/NP
+14885,UCO,UCO
+14886,Res,Resident/Fellow/PA/NP
+14887,MD,Not Specified
+14888,MD,Not Specified
+14889,CoWker,Not Specified
+14890,Res,Resident/Fellow/PA/NP
+14891,RN,RN
+14892,MD,Read Only
+14893,Res,Resident/Fellow/PA/NP
+14894,Res,Resident/Fellow/PA/NP
+14895,Res,Resident/Fellow/PA/NP
+14896,MD,Not Specified
+14897,Res,Resident/Fellow/PA/NP
+14898,MD,Attending
+14899,RT,Respiratory
+14900,MD,Attending
+14901,RN,RN
+14902,Res,Resident/Fellow/PA/NP
+14903,Res,Resident/Fellow/PA/NP
+14904,RN,RN
+14905,MD,Not Specified
+14906,RN,RN
+14907,Res,Resident/Fellow/PA/NP
+14908,RO,Read Only
+14909,Res,Resident/Fellow/PA/NP
+14910,Res,Resident/Fellow/PA/NP
+14911,MD,Attending
+14912,MD,Attending
+14913,RT,Respiratory
+14914,Res,Resident/Fellow/PA/NP
+14915,Res,Resident/Fellow/PA/NP
+14916,RT,Respiratory
+14917,Res,Resident/Fellow/PA/NP
+14918,DI,Not Specified
+14919,MD,Attending
+14920,Res,Resident/Fellow/PA/NP
+14921,MS,Not Specified
+14922,RN,RN
+14923,Rehab,Rehabilitation
+14924,Res,Resident/Fellow/PA/NP
+14925,MD,Not Specified
+14926,SNP,Not Specified
+14927,RN,Not Specified
+14928,RO,Read Only
+14929,RO,Read Only
+14930,MD,Read Only
+14931,RO,Read Only
+14932,RO,Read Only
+14933,Res,Resident/Fellow/PA/NP
+14934,RN,RN
+14935,MD,Attending
+14936,RO,Read Only
+14937,RO,Read Only
+14938,ISOPS,Administrator
+14939,RN,RN
+14940,MD,Not Specified
+14941,RO,Read Only
+14942,RO,Read Only
+14943,MD,Not Specified
+14944,MD,Not Specified
+14945,MD,Attending
+14946,RN,RN
+14947,Res,Resident/Fellow/PA/NP
+14948,RRT,Read Only
+14949,RN,RN
+14950,MD,Not Specified
+14951,SRT,Not Specified
+14952,Res,Resident/Fellow/PA/NP
+14953,RN,RN
+14954,RN,RN
+14955,Admin,Administrator
+14956,Res,Resident/Fellow/PA/NP
+14957,RN,Read Only
+14958,MD,Not Specified
+14959,RO,Read Only
+14960,RO,Read Only
+14961,Res,Resident/Fellow/PA/NP
+14962,RN,Not Specified
+14963,Res,Resident/Fellow/PA/NP
+14964,MD,Not Specified
+14965,Rehab,Rehabilitation
+14966,RO,Read Only
+14967,RN,Not Specified
+14968,RN,Read Only
+14969,RO,Read Only
+14970,CoWker,Not Specified
+14971,RN,Not Specified
+14972,MD,Not Specified
+14973,RN,RN
+14974,RO,Read Only
+14975,RO,Read Only
+14976,Med ST,Not Specified
+14977,PCT,PCT/NA
+14978,MD,Not Specified
+14979,ISSupp,Administrator
+14980,RO,Read Only
+14981,RO,Read Only
+14982,RO,Read Only
+14983,RPH,Pharmacist
+14984,RO,Read Only
+14985,RN,RN
+14986,RN,RN
+14987,RN,RN
+14988,RN,RN
+14989,RN,Not Specified
+14990,RN,Not Specified
+14991,CoWkr,Not Specified
+14992,RN,RN
+14993,RN,Not Specified
+14994,CoWker,Not Specified
+14995,RO,Read Only
+14996,RN,Not Specified
+14997,RN,RN
+14998,RN,Not Specified
+14999,MD,Not Specified
+15000,RO,Read Only
+15001,RN,RN
+15002,RNC,Not Specified
+15003,MD,Not Specified
+15004,RN,RN
+15005,PCA,Not Specified
+15006,RO,Read Only
+15007,MD,Read Only
+15008,MD,Not Specified
+15009,HMSIV,Not Specified
+15010,MedSty,Not Specified
+15011,MD,Not Specified
+15012,RRT,Respiratory
+15013,UA,Not Specified
+15014,PCT,RN
+15015,RO,Read Only
+15016,UC,Not Specified
+15017,RN,RN
+15018,RN,Read Only
+15019,RRT,Not Specified
+15020,RN,Read Only
+15021,RA,Research Assistant
+15022,Res,Resident/Fellow/PA/NP
+15023,RN,RN
+15024,RN,Not Specified
+15025,RN,RN
+15026,RO,Read Only
+15027,RN,Not Specified
+15028,RO,Read Only
+15029,RN,RN
+15030,Res,Resident/Fellow/PA/NP
+15031,RT,Respiratory
+15032,RT,Respiratory
+15033,Res,Resident/Fellow/PA/NP
+15034,MD,Attending
+15035,Res,Resident/Fellow/PA/NP
+15036,Rehab,Rehabilitation
+15037,Rehab,Rehabilitation
+15038,RNs,RN
+15039,RN,RN
+15040,UC,PCT/NA
+15041,Rehab,Rehabilitation
+15042,RO,Read Only
+15043,Res,Resident/Fellow/PA/NP
+15044,Res,Resident/Fellow/PA/NP
+15045,MD,Read Only
+15046,RN,RN
+15047,RN,RN
+15048,RN,Not Specified
+15049,NP,Not Specified
+15050,MD,Not Specified
+15051,RO,Read Only
+15052,MD,Resident/Fellow/PA/NP
+15053,RN,RN
+15054,RO,Read Only
+15055,RN,RN
+15056,Np,Not Specified
+15057,RO,Read Only
+15058,MDs,Resident/Fellow/PA/NP
+15059,MDs,Resident/Fellow/PA/NP
+15060,MD,Not Specified
+15061,RRT,Not Specified
+15062,RN,RN
+15063,RO,Read Only
+15064,RN,Not Specified
+15065,RN,RN
+15066,MD,Not Specified
+15067,RN,Not Specified
+15068,RN,Not Specified
+15069,Studen,Not Specified
+15070,RN,RN
+15071,Admin,Administrator
+15072,RN,RN
+15073,MD,Not Specified
+15074,SW,Social Worker
+15075,RN,RN
+15076,RO,Read Only
+15077,RO,Read Only
+15078,Res,Resident/Fellow/PA/NP
+15079,MD,Attending
+15080,Studen,Not Specified
+15081,Rehab,Rehabilitation
+15082,RO,Read Only
+15083,RN,RN
+15084,CM,Case Manager
+15085,MD,Attending
+15086,Res,Resident/Fellow/PA/NP
+15087,RO,Read Only
+15088,Res,Resident/Fellow/PA/NP
+15089,RN,RN
+15090,MS,Not Specified
+15091,Res,Resident/Fellow/PA/NP
+15092,Res,Resident/Fellow/PA/NP
+15093,Res,Resident/Fellow/PA/NP
+15094,MD,Not Specified
+15095,RO,Read Only
+15096,MD,Not Specified
+15097,Res,Resident/Fellow/PA/NP
+15098,RO,Read Only
+15099,RO,Read Only
+15100,RN,Not Specified
+15101,MD,Not Specified
+15102,CoWker,PCT/NA
+15103,Med St,Resident/Fellow/PA/NP
+15104,RN,Not Specified
+15105,Co-Wkr,Not Specified
+15106,MD,Resident/Fellow/PA/NP
+15107,RO,Read Only
+15108,SW,Social Worker
+15109,MD,Not Specified
+15110,MD,Not Specified
+15111,MD,Attending
+15112,RO,Read Only
+15113,PCT,PCT/NA
+15114,RO,Read Only
+15115,CoOpst,Not Specified
+15116,MDs,Resident/Fellow/PA/NP
+15117,MD,Not Specified
+15118,Res,Resident/Fellow/PA/NP
+15119,Res,Resident/Fellow/PA/NP
+15120,MD,Resident/Fellow/PA/NP
+15121,Res,Resident/Fellow/PA/NP
+15122,RT,Respiratory
+15123,Res,Resident/Fellow/PA/NP
+15124,Res,Resident/Fellow/PA/NP
+15125,Res,Resident/Fellow/PA/NP
+15126,SW,Social Worker
+15127,Res,Resident/Fellow/PA/NP
+15128,Res,Resident/Fellow/PA/NP
+15129,Res,Resident/Fellow/PA/NP
+15130,Rehab,Rehabilitation
+15131,CM,Case Manager
+15132,CM,Case Manager
+15133,pct,Read Only
+15134,Res,Resident/Fellow/PA/NP
+15135,Res,Resident/Fellow/PA/NP
+15136,Res,Resident/Fellow/PA/NP
+15137,Res,Resident/Fellow/PA/NP
+15138,Res,Resident/Fellow/PA/NP
+15139,Res,Resident/Fellow/PA/NP
+15140,Rehab,Rehabilitation
+15141,Res,Resident/Fellow/PA/NP
+15142,Res,Resident/Fellow/PA/NP
+15143,MDS,Read Only
+15144,Res,Resident/Fellow/PA/NP
+15145,RPH,Pharmacist
+15146,Res,Resident/Fellow/PA/NP
+15147,MS,Not Specified
+15148,RO,Read Only
+15149,MDs,Resident/Fellow/PA/NP
+15150,RN,Not Specified
+15151,MD,Not Specified
+15152,Res,Resident/Fellow/PA/NP
+15153,RPh,Not Specified
+15154,RO,Read Only
+15155,MD,Not Specified
+15156,RN,Not Specified
+15157,RN,Not Specified
+15158,MD,Not Specified
+15159,RO,Read Only
+15160,RO,Read Only
+15161,RN,Not Specified
+15162,RRT,Not Specified
+15163,UCO,Not Specified
+15164,RN,Read Only
+15165,MDs,Resident/Fellow/PA/NP
+15166,Res,Resident/Fellow/PA/NP
+15167,MD,Not Specified
+15168,RO,Read Only
+15169,MS,Not Specified
+15170,MD,Not Specified
+15171,Res,Resident/Fellow/PA/NP
+15172,Res,Resident/Fellow/PA/NP
+15173,RD,Dietitian
+15174,Res,Resident/Fellow/PA/NP
+15175,MD,Not Specified
+15176,RPH,Pharmacist
+15177,PCT,PCT/NA
+15178,Res,Resident/Fellow/PA/NP
+15179,RPH,Pharmacist
+15180,RO,Read Only
+15181,Res,Resident/Fellow/PA/NP
+15182,Res,Resident/Fellow/PA/NP
+15183,Res,Resident/Fellow/PA/NP
+15184,RPH,Pharmacist
+15185,Res,Resident/Fellow/PA/NP
+15186,Res,Resident/Fellow/PA/NP
+15187,Res,Resident/Fellow/PA/NP
+15188,RPh,Not Specified
+15189,RN,Not Specified
+15190,RPh,Not Specified
+15191,RRT,Not Specified
+15192,MD,Not Specified
+15193,Rehab,Rehabilitation
+15194,MSIV,Not Specified
+15195,RO,Read Only
+15196,RO,Read Only
+15197,RA,Research Assistant
+15198,DI,Not Specified
+15199,MS,Not Specified
+15200,PharmD,Pharmacist
+15201,MD,Not Specified
+15202,MD,Not Specified
+15203,SRT,Respiratory
+15204,DI,Dietitian
+15205,RO,Read Only
+15206,MDs,Not Specified
+15207,NP,Read Only
+15208,RO,Read Only
+15209,RO,Read Only
+15210,RO,Read Only
+15211,RO,Read Only
+15212,RN,RN
+15213,RO,Read Only
+15214,RO,Read Only
+15215,MD,Not Specified
+15216,RN,RN
+15217,RN,RN
+15218,RN,RN
+15219,RO,Read Only
+15220,MDs,Not Specified
+15221,RO,Read Only
+15222,RN,RN
+15223,RS,Read Only
+15224,RN,Not Specified
+15225,RN,RN
+15226,RN,Read Only
+15227,MDs,Not Specified
+15228,RO,Read Only
+15229,RN,Not Specified
+15230,RO,Read Only
+15231,SRT,Not Specified
+15232,RO,Read Only
+15233,RO,Read Only
+15234,MD,Resident/Fellow/PA/NP
+15235,MDs,Resident/Fellow/PA/NP
+15236,RPH,Not Specified
+15237,MDs,Resident/Fellow/PA/NP
+15238,RO,Read Only
+15239,RD,Dietitian
+15240,RO,Read Only
+15241,RN,Not Specified
+15242,RN,Not Specified
+15243,RO,Read Only
+15244,RN,Not Specified
+15245,RO,Read Only
+15246,MS,Not Specified
+15247,RO,Read Only
+15248,MDs,Not Specified
+15249,RO,Read Only
+15250,Res,Not Specified
+15251,MD,Attending
+15252,MD,Attending
+15253,MD,Not Specified
+15254,Med St,Not Specified
+15255,RN,Not Specified
+15256,UA,Not Specified
+15257,MD,Not Specified
+15258,MD,Not Specified
+15259,MD,Not Specified
+15260,MD,Not Specified
+15261,MD,Not Specified
+15262,RN,Not Specified
+15263,MD,Not Specified
+15264,MD,Not Specified
+15265,MD,Not Specified
+15266,RPh,Pharmacist
+15267,MD,Not Specified
+15268,Nurse,UCO
+15269,MD,Not Specified
+15270,MD,Not Specified
+15271,RO,Read Only
+15272,RO,Read Only
+15273,RO,Read Only
+15274,MD,Not Specified
+15275,RRT,Not Specified
+15276,MD,Not Specified
+15277,RPh,Not Specified
+15278,RT,Not Specified
+15279,RO,Read Only
+15280,RN,Not Specified
+15281,RPh,Not Specified
+15282,MD,Not Specified
+15283,RN,Not Specified
+15284,MD,Not Specified
+15285,RN,RN
+15286,RN,RN
+15287,RO,Read Only
+15288,Rehab,Rehabilitation
+15289,RO,Read Only
+15290,Res,Resident/Fellow/PA/NP
+15291,RO,Read Only
+15292,UCO,UCO
+15293,MD,Not Specified
+15294,MD,Not Specified
+15295,Res,Resident/Fellow/PA/NP
+15296,MD,Not Specified
+15297,MD,Not Specified
+15298,RO,Read Only
+15299,UA,Not Specified
+15300,RN,Not Specified
+15301,RN,Not Specified
+15302,RO,Read Only
+15303,RO,Read Only
+15304,RO,Read Only
+15305,MD,Not Specified
+15306,MD,Not Specified
+15307,MDs,Not Specified
+15308,RN,RN
+15309,Res,Resident/Fellow/PA/NP
+15310,RO,Read Only
+15311,RO,Read Only
+15312,RN,Not Specified
+15313,RO,Read Only
+15314,RN,Not Specified
+15315,RO,Read Only
+15316,RO,Read Only
+15317,RN,Not Specified
+15318,RD,LDN,Dietitian
+15319,RO,Read Only
+15320,RN,Not Specified
+15321,MD,Not Specified
+15322,RO,Read Only
+15323,RN,RN
+15324,Res,Resident/Fellow/PA/NP
+15325,RO,Read Only
+15326,MDs,Resident/Fellow/PA/NP
+15327,MD,Resident/Fellow/PA/NP
+15328,MD,Not Specified
+15329,RO,Read Only
+15330,Not Specified,Not Specified
+15331,Not Specified,Not Specified
+15332,SW,Social Worker
+15333,RRT,Not Specified
+15334,PCT,PCT/NA
+15335,RN,RN
+15336,Res,Resident/Fellow/PA/NP
+15337,Admin,Administrator
+15338,MD,Not Specified
+15339,MD,Attending
+15340,Res,Resident/Fellow/PA/NP
+15341,Res,Resident/Fellow/PA/NP
+15342,Res,Resident/Fellow/PA/NP
+15343,Rehab,Rehabilitation
+15344,Res,Resident/Fellow/PA/NP
+15345,Res,Resident/Fellow/PA/NP
+15346,Res,Resident/Fellow/PA/NP
+15347,MD,Not Specified
+15348,MD,Not Specified
+15349,Res,Resident/Fellow/PA/NP
+15350,3874,Resident/Fellow/PA/NP
+15351,RN,RN
+15352,RN,RN
+15353,RO,Read Only
+15354,PCA,Not Specified
+15355,RN,RN
+15356,RNC,Not Specified
+15357,PA,Not Specified
+15358,RO,Read Only
+15359,RO,Read Only
+15360,SW,Social Worker
+15361,RO,Read Only
+15362,RO,Read Only
+15363,Res,Resident/Fellow/PA/NP
+15364,PC,Pastoral Care
+15365,RO,Read Only
+15366,Res,Resident/Fellow/PA/NP
+15367,MD,Attending
+15368,Res,Resident/Fellow/PA/NP
+15369,RN,RN
+15370,CCRN,Not Specified
+15371,MD,Resident/Fellow/PA/NP
+15372,RN,RN
+15373,SW,Social Worker
+15374,RO,Read Only
+15375,RPH,Pharmacist
+15376,SW,Social Worker
+15377,Res,Resident/Fellow/PA/NP
+15378,Res,Resident/Fellow/PA/NP
+15379,CM,Case Manager
+15380,Res,Resident/Fellow/PA/NP
+15381,Res,Resident/Fellow/PA/NP
+15382,Admin,Administrator
+15383,PCT,PCT/NA
+15384,Res,Resident/Fellow/PA/NP
+15385,MD,Resident/Fellow/PA/NP
+15386,Rehab,Rehabilitation
+15387,Admin,Administrator
+15388,MD,Not Specified
+15389,MD,Read Only
+15390,MD,Not Specified
+15391,RO,Read Only
+15392,RN,Not Specified
+15393,RN,Not Specified
+15394,RT,Respiratory
+15395,Res,Resident/Fellow/PA/NP
+15396,MD,Not Specified
+15397,Res,Resident/Fellow/PA/NP
+15398,Res,Resident/Fellow/PA/NP
+15399,Rehab,Rehabilitation
+15400,Rehab,Rehabilitation
+15401,RO,Read Only
+15402,RN,Not Specified
+15403,MS,Not Specified
+15404,RO,Read Only
+15405,RN,RN
+15406,PCT,PCT/NA
+15407,RN,RN
+15408,MD,Not Specified
+15409,RO,Read Only
+15410,RO,Read Only
+15411,RRT,Respiratory
+15412,RN,RN
+15413,Res,Resident/Fellow/PA/NP
+15414,Rehab,Rehabilitation
+15415,Res,Resident/Fellow/PA/NP
+15416,Res,Resident/Fellow/PA/NP
+15417,RN,Not Specified
+15418,PCT,PCT/NA
+15419,RPH,Not Specified
+15420,MD,Attending
+15421,Rehab,Rehabilitation
+15422,SW,Social Worker
+15423,UCO,UCO
+15424,Res,Resident/Fellow/PA/NP
+15425,RN,Not Specified
+15426,Rehab,Rehabilitation
+15427,Res,Resident/Fellow/PA/NP
+15428,RN,RN
+15429,CM,Case Manager
+15430,UCO,UCO
+15431,RN,RN
+15432,Rehab,Rehabilitation
+15433,PCT,PCT/NA
+15434,Res,Resident/Fellow/PA/NP
+15435,Res,Resident/Fellow/PA/NP
+15436,Rehab,Rehabilitation
+15437,MD,Attending
+15438,RRT,Not Specified
+15439,RRT,Not Specified
+15440,rn,RN
+15441,RN,Not Specified
+15442,RN,Not Specified
+15443,RN,RN
+15444,MD,Not Specified
+15445,MD,Not Specified
+15446,RO,Read Only
+15447,RN,RN
+15448,SNP,Not Specified
+15449,RN,Not Specified
+15450,Stu,Not Specified
+15451,RN,Not Specified
+15452,PCT,PCT/NA
+15453,RO,Read Only
+15454,MD,Not Specified
+15455,RN,Not Specified
+15456,RN,Not Specified
+15457,MD,Attending
+15458,Res,Resident/Fellow/PA/NP
+15459,PC,Pastoral Care
+15460,MD,Attending
+15461,Rehab,Rehabilitation
+15462,RO,Read Only
+15463,Res,Resident/Fellow/PA/NP
+15464,CM,Case Manager
+15465,Res,Resident/Fellow/PA/NP
+15466,RD,Dietitian
+15467,RO,Read Only
+15468,Res,Resident/Fellow/PA/NP
+15469,RN,Not Specified
+15470,CM,Case Manager
+15471,Res,Resident/Fellow/PA/NP
+15472,Res,Resident/Fellow/PA/NP
+15473,Res,Resident/Fellow/PA/NP
+15474,MD,Not Specified
+15475,MD,Not Specified
+15476,RRT,Not Specified
+15477,RN,Not Specified
+15478,RO,Read Only
+15479,MFD,Not Specified
+15480,CoWork,Not Specified
+15481,MD,Read Only
+15482,MS,Not Specified
+15483,Res,Resident/Fellow/PA/NP
+15484,RN,Read Only
+15485,Res,Resident/Fellow/PA/NP
+15486,RTStu,Not Specified
+15487,MDs,Resident/Fellow/PA/NP
+15488,RO,Read Only
+15489,MDs,Read Only
+15490,RO,Read Only
+15491,MD,Not Specified
+15492,MD,Not Specified
+15493,RO,Read Only
+15494,RO,Read Only
+15495,MD,Not Specified
+15496,RO,Read Only
+15497,MedStu,Not Specified
+15498,RRT,Respiratory
+15499,HMS MS,Resident/Fellow/PA/NP
+15500,MD,Not Specified
+15501,MDs,Read Only
+15502,MD,Not Specified
+15503,MD,Not Specified
+15504,RPH,Pharmacist
+15505,MD,Not Specified
+15506,MD,Not Specified
+15507,MDs,Resident/Fellow/PA/NP
+15508,MD,Read Only
+15509,MDs,Not Specified
+15510,RO,Read Only
+15511,MD,Attending
+15512,MedStu,Resident/Fellow/PA/NP
+15513,RO,Read Only
+15514,MD,Not Specified
+15515,RO,Read Only
+15516,RO,Read Only
+15517,RO,Read Only
+15518,MD,Not Specified
+15519,RO,Read Only
+15520,MD,Not Specified
+15521,RN,Not Specified
+15522,RN,Not Specified
+15523,RD,Dietitian
+15524,DietIn,Not Specified
+15525,RPh,Not Specified
+15526,RN,RN
+15527,RN,RN
+15528,MS,Not Specified
+15529,MD,Not Specified
+15530,RN,Not Specified
+15531,RO,Read Only
+15532,RO,Read Only
+15533,MDs,Not Specified
+15534,MD,Not Specified
+15535,MD,Not Specified
+15536,Res,Resident/Fellow/PA/NP
+15537,Co-wkr,Not Specified
+15538,RO,Read Only
+15539,MD,Read Only
+15540,RD,Dietitian
+15541,RO,Read Only
+15542,NP,Not Specified
+15543,UA,Not Specified
+15544,RN,RN
+15545,MD,Not Specified
+15546,RO,Read Only
+15547,MS,Not Specified
+15548,MD,Not Specified
+15549,RO,Read Only
+15550,Res,Resident/Fellow/PA/NP
+15551,RD,Dietitian
+15552,RO,Read Only
+15553,Res,Resident/Fellow/PA/NP
+15554,RO,Read Only
+15555,RPh,Not Specified
+15556,Admin,Administrator
+15557,MD,Not Specified
+15558,MD,Not Specified
+15559,RO,Read Only
+15560,RN,Not Specified
+15561,MD,Read Only
+15562,RO,Read Only
+15563,MD,Not Specified
+15564,RN,RN
+15565,RO,Read Only
+15566,MSII,Not Specified
+15567,MD,Not Specified
+15568,MD,Not Specified
+15569,MD,Not Specified
+15570,MD,Not Specified
+15571,MD,Attending
+15572,MD,Not Specified
+15573,MD,Not Specified
+15574,MD,Read Only
+15575,RO,Read Only
+15576,MD,Attending
+15577,MDs,Resident/Fellow/PA/NP
+15578,MD,Not Specified
+15579,MD,Read Only
+15580,MD,Not Specified
+15581,RO,Read Only
+15582,SN,PCT/NA
+15583,RO,Read Only
+15584,MD,Not Specified
+15585,RO,Read Only
+15586,ISSC,Administrator
+15587,MD,Not Specified
+15588,MD,Resident/Fellow/PA/NP
+15589,MD,Not Specified
+15590,RO,Read Only
+15591,DML,Resident/Fellow/PA/NP
+15592,RO,Read Only
+15593,RO,Read Only
+15594,RO,Read Only
+15595,RO,Read Only
+15596,RO,Read Only
+15597,RRT,Not Specified
+15598,RO,Read Only
+15599,MDs,Read Only
+15600,RO,Read Only
+15601,RN,Not Specified
+15602,RO,Read Only
+15603,RO,Read Only
+15604,MD,Not Specified
+15605,MD,Not Specified
+15606,MD,Read Only
+15607,MD,Not Specified
+15608,MD,Not Specified
+15609,MD,Not Specified
+15610,RN,Not Specified
+15611,MD,Not Specified
+15612,RO,Read Only
+15613,RO,Read Only
+15614,RO,Read Only
+15615,MD,Read Only
+15616,RD Int,Not Specified
+15617,RO,Read Only
+15618,Res,Resident/Fellow/PA/NP
+15619,Res,Resident/Fellow/PA/NP
+15620,RO,Read Only
+15621,RD,Dietitian
+15622,Res,Resident/Fellow/PA/NP
+15623,RN,RN
+15624,RO,Read Only
+15625,Not Specified,Not Specified
+15626,RN,Resident/Fellow/PA/NP
+15627,RN,RN
+15628,RO,Read Only
+15629,RO,Read Only
+15630,RN,Not Specified
+15631,MedStu,Not Specified
+15632,Res,Resident/Fellow/PA/NP
+15633,UCO,UCO
+15634,RO,Read Only
+15635,PC,Pastoral Care
+15636,PC,Pastoral Care
+15637,Res,Resident/Fellow/PA/NP
+15638,MD,Not Specified
+15639,RO,Read Only
+15640,MD,Not Specified
+15641,RN,Not Specified
+15642,SW,Social Worker
+15643,RD,Dietitian
+15644,RN,Not Specified
+15645,RN,Not Specified
+15646,RN,Not Specified
+15647,MD,Not Specified
+15648,Res,Resident/Fellow/PA/NP
+15649,Res,Resident/Fellow/PA/NP
+15650,PT,Rehabilitation
+15651,MDs,Resident/Fellow/PA/NP
+15652,RN,Read Only
+15653,RN,RN
+15654,RN,RN
+15655,RO,Read Only
+15656,RNBA,Case Manager
+15657,RN,RN
+15658,RNC,Not Specified
+15659,RN,RN
+15660,MD,Not Specified
+15661,RN,RN
+15662,Coor,Not Specified
+15663,RN,UCO
+15664,RO,Read Only
+15665,RO,Read Only
+15666,RN,RN
+15667,RN,RN
+15668,Admin,Read Only
+15669,RO,Read Only
+15670,RN,Not Specified
+15671,RN,Not Specified
+15672,UCO/PC,Not Specified
+15673,Cowork,PCT/NA
+15674,RN,RN
+15675,RO,Read Only
+15676,MD,Not Specified
+15677,RTStu,Not Specified
+15678,RO,Read Only
+15679,RN,Not Specified
+15680,RN,RN
+15681,MD,Not Specified
+15682,MDs,Not Specified
+15683,Rehab,Rehabilitation
+15684,CoWker,Not Specified
+15685,RO,Read Only
+15686,CoWker,Not Specified
+15687,MD,Not Specified
+15688,Res,Resident/Fellow/PA/NP
+15689,Res,Resident/Fellow/PA/NP
+15690,RN,Not Specified
+15691,Rehab,Rehabilitation
+15692,Res,Resident/Fellow/PA/NP
+15693,Rehab,Rehabilitation
+15694,Rn,RN
+15695,Rehab,Rehabilitation
+15696,RN,RN
+15697,MD,Not Specified
+15698,MDs,Resident/Fellow/PA/NP
+15699,Res,Resident/Fellow/PA/NP
+15700,RO,Read Only
+15701,RO,Read Only
+15702,MD,Resident/Fellow/PA/NP
+15703,RPh,Not Specified
+15704,RN,Read Only
+15705,RO,Read Only
+15706,RO,Read Only
+15707,RO,Read Only
+15708,UCO,UCO
+15709,RNs,RN
+15710,RN,Read Only
+15711,PCT,PCT/NA
+15712,RN,Not Specified
+15713,RRT,Read Only
+15714,RO,Read Only
+15715,MDs,Read Only
+15716,MD,Not Specified
+15717,RN,RN
+15718,UCO,UCO
+15719,MedSt,Not Specified
+15720,RO,Read Only
+15721,RPH,Not Specified
+15722,MD,Read Only
+15723,SRT,Not Specified
+15724,MD,Not Specified
+15725,PCT,PCT/NA
+15726,St,Not Specified
+15727,Res,Resident/Fellow/PA/NP
+15728,PCT,PCT/NA
+15729,CoWker,Not Specified
+15730,Res,Resident/Fellow/PA/NP
+15731,Rehab,Rehabilitation
+15732,Res,Resident/Fellow/PA/NP
+15733,MD,Attending
+15734,Not Specified,Not Specified
+15735,MD,Not Specified
+15736,RPH,Pharmacist
+15737,MD,Not Specified
+15738,Res,Resident/Fellow/PA/NP
+15739,MD,Attending
+15740,Res,Resident/Fellow/PA/NP
+15741,RN,RN
+15742,RO,Read Only
+15743,MD,Not Specified
+15744,RT,Respiratory
+15745,RPH,Pharmacist
+15746,RN,RN
+15747,MD,Not Specified
+15748,RN,PCT/NA
+15749,RO,Read Only
+15750,MDs,Resident/Fellow/PA/NP
+15751,MD,Attending
+15752,RO,Read Only
+15753,MD,Not Specified
+15754,RO,Read Only
+15755,RO,Read Only
+15756,RO,Read Only
+15757,St,Not Specified
+15758,RO,Read Only
+15759,MD,Not Specified
+15760,MD,Not Specified
+15761,RO,Read Only
+15762,RN,Not Specified
+15763,RO,Read Only
+15764,RN,Not Specified
+15765,RO,Read Only
+15766,MDs,Resident/Fellow/PA/NP
+15767,RN,RN
+15768,RO,Read Only
+15769,RPh,Pharmacist
+15770,RO,Read Only
+15771,RO,Read Only
+15772,MD,Read Only
+15773,Res,Resident/Fellow/PA/NP
+15774,Res,Resident/Fellow/PA/NP
+15775,MD,Not Specified
+15776,Res,Resident/Fellow/PA/NP
+15777,Res,Resident/Fellow/PA/NP
+15778,MDS,Resident/Fellow/PA/NP
+15779,MD,Not Specified
+15780,RO,Read Only
+15781,RO,Read Only
+15782,studen,Not Specified
+15783,SRT,Not Specified
+15784,RRT,Read Only
+15785,RO,Read Only
+15786,Res,Resident/Fellow/PA/NP
+15787,MD,Not Specified
+15788,MD,Not Specified
+15789,UCO,UCO
+15790,MD,Attending
+15791,Res,Resident/Fellow/PA/NP
+15792,Rehab,Rehabilitation
+15793,DRM,Not Specified
+15794,MD,Not Specified
+15795,RN,RN
+15796,RRT,Not Specified
+15797,MD,Not Specified
+15798,ISOPS,Administrator
+15799,RN,RN
+15800,RO,Read Only
+15801,RO,Read Only
+15802,Res,Resident/Fellow/PA/NP
+15803,RN,RN
+15804,RO,Read Only
+15805,RN,RN
+15806,RO,Read Only
+15807,RRT,Respiratory
+15808,RN,Not Specified
+15809,RN,Read Only
+15810,RN,Not Specified
+15811,RO,Read Only
+15812,RN,Not Specified
+15813,RO,Read Only
+15814,RN,RN
+15815,RN,RN
+15816,RN,RN
+15817,RO,Read Only
+15818,LICSW,Not Specified
+15819,RN,Read Only
+15820,RO,Read Only
+15821,RN,Not Specified
+15822,RN,RN
+15823,RN,Not Specified
+15824,RN,Not Specified
+15825,MD,Attending
+15826,Rehab,Rehabilitation
+15827,RN,RN
+15828,Res,Resident/Fellow/PA/NP
+15829,PCT,UCO
+15830,RN,RN
+15831,UCO,Not Specified
+15832,RO,Read Only
+15833,RN,RN
+15834,RRT,Respiratory
+15835,RPh,Not Specified
+15836,RO,Read Only
+15837,RO,Read Only
+15838,RN,Not Specified
+15839,RO,Read Only
+15840,RO,Read Only
+15841,RN,Not Specified
+15842,Rehab,Rehabilitation
+15843,RN,RN
+15844,RO,Read Only
+15845,MD,Attending
+15846,RO,Read Only
+15847,MD,PhD,Attending
+15848,RO,Read Only
+15849,MedStu,Resident/Fellow/PA/NP
+15850,MD,Not Specified
+15851,RO,Read Only
+15852,MD,Attending
+15853,Res,Resident/Fellow/PA/NP
+15854,Res,Resident/Fellow/PA/NP
+15855,PCT,PCT/NA
+15856,dht,Read Only
+15857,Res,Resident/Fellow/PA/NP
+15858,RN,RN
+15859,CM,Case Manager
+15860,Rehab,Rehabilitation
+15861,Res,Resident/Fellow/PA/NP
+15862,Res,Resident/Fellow/PA/NP
+15863,RO,Read Only
+15864,Res,Resident/Fellow/PA/NP
+15865,Res,Resident/Fellow/PA/NP
+15866,PCT,PCT/NA
+15867,Rehab,Rehabilitation
+15868,Res,Resident/Fellow/PA/NP
+15869,RO,Read Only
+15870,Res,Resident/Fellow/PA/NP
+15871,RPH,Pharmacist
+15872,PC,Pastoral Care
+15873,MD,Not Specified
+15874,RO,Read Only
+15875,Res,Resident/Fellow/PA/NP
+15876,RT,Respiratory
+15877,PC,Pastoral Care
+15878,RN,RN
+15879,RN,RN
+15880,RD,Dietitian
+15881,RO,Read Only
+15882,RN,RN
+15883,RO,Read Only
+15884,PCT,PCT/NA
+15885,Res,Resident/Fellow/PA/NP
+15886,RO,Read Only
+15887,RO,Read Only
+15888,RO,Read Only
+15889,Res,Resident/Fellow/PA/NP
+15890,Res,Resident/Fellow/PA/NP
+15891,Res,Resident/Fellow/PA/NP
+15892,Res,Resident/Fellow/PA/NP
+15893,RPH,Pharmacist
+15894,RPh,Not Specified
+15895,RO,Read Only
+15896,Res,Resident/Fellow/PA/NP
+15897,RN,RN
+15898,MD,Not Specified
+15899,MD,Not Specified
+15900,RN,RN
+15901,MD,Not Specified
+15902,RO,Read Only
+15903,RRT,Not Specified
+15904,MDs,Not Specified
+15905,MDs,Resident/Fellow/PA/NP
+15906,RO,Read Only
+15907,CoWker,PCT/NA
+15908,RRT,Not Specified
+15909,MD,Not Specified
+15910,UCO,UCO
+15911,Res,Resident/Fellow/PA/NP
+15912,RO,Read Only
+15913,Res,Resident/Fellow/PA/NP
+15914,Res,Resident/Fellow/PA/NP
+15915,Res,Resident/Fellow/PA/NP
+15916,RN,Not Specified
+15917,RRT,Not Specified
+15918,RN,Read Only
+15919,RN,RN
+15920,RO,Read Only
+15921,UCO,Read Only
+15922,RN,RN
+15923,MDs,Not Specified
+15924,RPh,Not Specified
+15925,Res,Resident/Fellow/PA/NP
+15926,Res,Resident/Fellow/PA/NP
+15927,RO,Read Only
+15928,RN,RN
+15929,RRT,Not Specified
+15930,RN,Not Specified
+15931,RN,Not Specified
+15932,MDs,Not Specified
+15933,MD,Not Specified
+15934,MD,Not Specified
+15935,RN,RN
+15936,RO,Read Only
+15937,RO,Read Only
+15938,NP,Read Only
+15939,UCO,Not Specified
+15940,RO,Read Only
+15941,MDS,Resident/Fellow/PA/NP
+15942,RO,Read Only
+15943,MD,Attending
+15944,MD,Not Specified
+15945,MD,Not Specified
+15946,MDs,Not Specified
+15947,RO,Read Only
+15948,MD,Attending
+15949,RO,Read Only
+15950,MD,Not Specified
+15951,MD,Not Specified
+15952,DI,Not Specified
+15953,Res,Resident/Fellow/PA/NP
+15954,RO,Read Only
+15955,RO,Read Only
+15956,MedSt,Not Specified
+15957,RO,Read Only
+15958,RO,Read Only
+15959,MD,Resident/Fellow/PA/NP
+15960,RO,Read Only
+15961,MD,Read Only
+15962,RO,Read Only
+15963,RRT,Not Specified
+15964,MD,Read Only
+15965,MD,Not Specified
+15966,MD,Not Specified
+15967,RO,Read Only
+15968,RN,RN
+15969,CoWker,Not Specified
+15970,MD,Not Specified
+15971,RO,Read Only
+15972,PCA,Not Specified
+15973,RO,Read Only
+15974,RO,Read Only
+15975,RO,Read Only
+15976,MD,Not Specified
+15977,MDs,Resident/Fellow/PA/NP
+15978,RN,Not Specified
+15979,MD,Read Only
+15980,MS,Dietitian
+15981,Res,Resident/Fellow/PA/NP
+15982,RO,Read Only
+15983,RN,Not Specified
+15984,RO,Read Only
+15985,PCA,Not Specified
+15986,RN,Not Specified
+15987,RO,Read Only
+15988,MS,Not Specified
+15989,RO,Read Only
+15990,RN,Not Specified
+15991,SRN,Not Specified
+15992,RO,Read Only
+15993,MDs,Resident/Fellow/PA/NP
+15994,CoOpSt,Not Specified
+15995,RO,Read Only
+15996,RN,Not Specified
+15997,RN,RN
+15998,RN,Not Specified
+15999,RO,Read Only
+16000,RO,Read Only
+16001,RO,Read Only
+16002,RO,Read Only
+16003,STD,Resident/Fellow/PA/NP
+16004,MD,Not Specified
+16005,RN,Not Specified
+16006,RO,Read Only
+16007,MD,Read Only
+16008,RO,Read Only
+16009,Nurs,RN
+16010,RN,Not Specified
+16011,Ms,Resident/Fellow/PA/NP
+16012,RN,Not Specified
+16013,RN,Not Specified
+16014,RO,Read Only
+16015,RN,Not Specified
+16016,RO,Read Only
+16017,RO,Read Only
+16018,RN,Not Specified
+16019,MDs,Not Specified
+16020,RN,Case Manager
+16021,RN,RN
+16022,RN,Not Specified
+16023,RN,Read Only
+16024,RN,Not Specified
+16025,RN,Case Manager
+16026,RN,Not Specified
+16027,RN,RN
+16028,RO,Read Only
+16029,RO,Read Only
+16030,Rehab,Rehabilitation
+16031,Res,Resident/Fellow/PA/NP
+16032,RD,Dietitian
+16033,Res,Resident/Fellow/PA/NP
+16034,MD,Not Specified
+16035,RN,RN
+16036,RN,Not Specified
+16037,RN,RN
+16038,Res,Resident/Fellow/PA/NP
+16039,MD,Not Specified
+16040,RO,Read Only
+16041,RN,RN
+16042,RN,RN
+16043,RT,Not Specified
+16044,RO,Read Only
+16045,Mds,Resident/Fellow/PA/NP
+16046,RO,Read Only
+16047,RN,Not Specified
+16048,RO,Read Only
+16049,UC,Not Specified
+16050,MDs,Resident/Fellow/PA/NP
+16051,MD,Not Specified
+16052,MDs,Resident/Fellow/PA/NP
+16053,NS,RN
+16054,MD,Not Specified
+16055,MD,Resident/Fellow/PA/NP
+16056,RO,Read Only
+16057,RN,Not Specified
+16058,MD,Not Specified
+16059,RO,Read Only
+16060,UCO,UCO
+16061,UCO,UCO
+16062,Res,Resident/Fellow/PA/NP
+16063,Res,Resident/Fellow/PA/NP
+16064,Res,Resident/Fellow/PA/NP
+16065,RT,Respiratory
+16066,MedStu,Not Specified
+16067,SW,Social Worker
+16068,MD,Attending
+16069,MD,Not Specified
+16070,MD,Not Specified
+16071,MD,Resident/Fellow/PA/NP
+16072,ISSupp,Not Specified
+16073,MDs,Resident/Fellow/PA/NP
+16074,RO,Read Only
+16075,RO,Read Only
+16076,MDs,Resident/Fellow/PA/NP
+16077,MD,Not Specified
+16078,MD,Not Specified
+16079,Res,Resident/Fellow/PA/NP
+16080,MD,Not Specified
+16081,MD,Not Specified
+16082,MS,Resident/Fellow/PA/NP
+16083,RN,Not Specified
+16084,MD,Not Specified
+16085,MD,Not Specified
+16086,MD,Not Specified
+16087,MedSt,Not Specified
+16088,eaw,Resident/Fellow/PA/NP
+16089,MD,Resident/Fellow/PA/NP
+16090,MD,Resident/Fellow/PA/NP
+16091,RO,Read Only
+16092,MDs,Read Only
+16093,RD,Dietitian
+16094,PA,Resident/Fellow/PA/NP
+16095,DI,Dietitian
+16096,RO,Read Only
+16097,RN,Not Specified
+16098,PCA,Not Specified
+16099,RO,Read Only
+16100,RO,Read Only
+16101,MD,Not Specified
+16102,RN,RN
+16103,MD,Not Specified
+16104,Res,Not Specified
+16105,MD,Not Specified
+16106,MDs,Resident/Fellow/PA/NP
+16107,MedSt,Not Specified
+16108,MDs,Read Only
+16109,RO,Read Only
+16110,RO,Read Only
+16111,Admin,Not Specified
+16112,SRT,Not Specified
+16113,RA,Read Only
+16114,RN,Not Specified
+16115,RO,Read Only
+16116,RN,Not Specified
+16117,Res,Resident/Fellow/PA/NP
+16118,RN,Not Specified
+16119,OTR/L,Not Specified
+16120,RN,Not Specified
+16121,RN,Not Specified
+16122,PA,Not Specified
+16123,OTR/L,Not Specified
+16124,RN,Not Specified
+16125,RO,Read Only
+16126,MD,Resident/Fellow/PA/NP
+16127,MD,Not Specified
+16128,RO,Read Only
+16129,StNRS,Not Specified
+16130,MD,Not Specified
+16131,RN,Not Specified
+16132,RO,Read Only
+16133,RN,Not Specified
+16134,RO,Read Only
+16135,PCA,Not Specified
+16136,MDs,Resident/Fellow/PA/NP
+16137,RO,Read Only
+16138,DI,Not Specified
+16139,RN,RN
+16140,RN,Not Specified
+16141,RO,Read Only
+16142,RN,Not Specified
+16143,RO,Read Only
+16144,DI,Dietitian
+16145,MD,Resident/Fellow/PA/NP
+16146,RO,Read Only
+16147,CM,Case Manager
+16148,RO,Read Only
+16149,Res,Resident/Fellow/PA/NP
+16150,SW,Social Worker
+16151,RO,Read Only
+16152,MD,Not Specified
+16153,MDs,Resident/Fellow/PA/NP
+16154,MD,Resident/Fellow/PA/NP
+16155,MD,Not Specified
+16156,MD,Not Specified
+16157,RO,Read Only
+16158,PhD,Not Specified
+16159,MD,Not Specified
+16160,RO,Read Only
+16161,MDs,Resident/Fellow/PA/NP
+16162,RN,Not Specified
+16163,RO,Read Only
+16164,MD,Resident/Fellow/PA/NP
+16165,MDs,Resident/Fellow/PA/NP
+16166,MD,Not Specified
+16167,MedStu,Not Specified
+16168,RO,Read Only
+16169,MD,Resident/Fellow/PA/NP
+16170,Rehab,Rehabilitation
+16171,UCO,UCO
+16172,RO,Read Only
+16173,RO,Read Only
+16174,RO,Read Only
+16175,RO,Read Only
+16176,Res,Resident/Fellow/PA/NP
+16177,RO,Read Only
+16178,RT,Respiratory
+16179,Res,Resident/Fellow/PA/NP
+16180,Rehab,Rehabilitation
+16181,MD,Not Specified
+16182,CM,Case Manager
+16183,Rehab,Rehabilitation
+16184,RN,RN
+16185,MD,Attending
+16186,RN,RN
+16187,RN,RN
+16188,SW,Social Worker
+16189,RO,Read Only
+16190,RO,Read Only
+16191,MD,Not Specified
+16192,RO,Read Only
+16193,Res,Resident/Fellow/PA/NP
+16194,Res,Resident/Fellow/PA/NP
+16195,RO,Read Only
+16196,RPH,Pharmacist
+16197,CM,Case Manager
+16198,MDs,Resident/Fellow/PA/NP
+16199,MD,Not Specified
+16200,RN,RN
+16201,Res,Resident/Fellow/PA/NP
+16202,NP,Read Only
+16203,RO,Read Only
+16204,Res,Resident/Fellow/PA/NP
+16205,RO,Read Only
+16206,MD,Not Specified
+16207,MD,Not Specified
+16208,MD,Not Specified
+16209,Res,Read Only
+16210,RO,Read Only
+16211,RPh,Pharmacist
+16212,RO,Read Only
+16213,Rehab,Rehabilitation
+16214,Res,Resident/Fellow/PA/NP
+16215,MD,Attending
+16216,Res,Resident/Fellow/PA/NP
+16217,CM,Case Manager
+16218,SRT,Not Specified
+16219,Res,Resident/Fellow/PA/NP
+16220,MD,Attending
+16221,RO,Read Only
+16222,Res,Resident/Fellow/PA/NP
+16223,RD,Dietitian
+16224,PCT,PCT/NA
+16225,MD,Not Specified
+16226,Res,Resident/Fellow/PA/NP
+16227,RD,Dietitian
+16228,Res,Resident/Fellow/PA/NP
+16229,RN,RN
+16230,MD,Not Specified
+16231,RO,Read Only
+16232,RO,Read Only
+16233,CM,Case Manager
+16234,RN,RN
+16235,MD,Not Specified
+16236,CoWork,PCT/NA
+16237,MD,Attending
+16238,Res,Resident/Fellow/PA/NP
+16239,Res,Resident/Fellow/PA/NP
+16240,Admin,Administrator
+16241,Res,Resident/Fellow/PA/NP
+16242,RO,Read Only
+16243,Res,Resident/Fellow/PA/NP
+16244,RO,Read Only
+16245,Res,Resident/Fellow/PA/NP
+16246,RN,RN
+16247,Res,Resident/Fellow/PA/NP
+16248,PCT,PCT/NA
+16249,CoWker,Not Specified
+16250,MD,Read Only
+16251,Res,Resident/Fellow/PA/NP
+16252,UCO,Not Specified
+16253,MD,Not Specified
+16254,PC,Pastoral Care
+16255,RO,Read Only
+16256,Rehab,Rehabilitation
+16257,MD,Attending
+16258,Res,Resident/Fellow/PA/NP
+16259,Res,Resident/Fellow/PA/NP
+16260,Res,Resident/Fellow/PA/NP
+16261,RO,Read Only
+16262,Res,Resident/Fellow/PA/NP
+16263,Res,Resident/Fellow/PA/NP
+16264,RN,RN
+16265,RO,Read Only
+16266,RPH,Pharmacist
+16267,CM,Case Manager
+16268,co-wor,PCT/NA
+16269,Res,Resident/Fellow/PA/NP
+16270,Res,Resident/Fellow/PA/NP
+16271,Res,Resident/Fellow/PA/NP
+16272,Res,Resident/Fellow/PA/NP
+16273,RN,RN
+16274,RRT,Not Specified
+16275,RO,Read Only
+16276,MD,Resident/Fellow/PA/NP
+16277,MD,Not Specified
+16278,MD,Not Specified
+16279,MD,Resident/Fellow/PA/NP
+16280,MDs,Resident/Fellow/PA/NP
+16281,MDs,Not Specified
+16282,Res,Resident/Fellow/PA/NP
+16283,Res,Resident/Fellow/PA/NP
+16284,RN,RN
+16285,SW,Social Worker
+16286,MS,Not Specified
+16287,MDs,Read Only
+16288,RN,Not Specified
+16289,Res,Resident/Fellow/PA/NP
+16290,RO,Read Only
+16291,RO,Read Only
+16292,RO,Read Only
+16293,MD,Resident/Fellow/PA/NP
+16294,RN,RN
+16295,Rehab,Rehabilitation
+16296,RO,Read Only
+16297,RTH,Respiratory
+16298,RO,Read Only
+16299,MD,Not Specified
+16300,Res,Resident/Fellow/PA/NP
+16301,MD,Not Specified
+16302,RN,RN
+16303,Stu,Not Specified
+16304,MS,Not Specified
+16305,RO,Read Only
+16306,Res,Resident/Fellow/PA/NP
+16307,RN,RN
+16308,RO,Read Only
+16309,RO,Read Only
+16310,Res,Resident/Fellow/PA/NP
+16311,RN,RN
+16312,MD,Not Specified
+16313,Res,Resident/Fellow/PA/NP
+16314,Res,Resident/Fellow/PA/NP
+16315,MD,Attending
+16316,RS,Read Only
+16317,Res,Resident/Fellow/PA/NP
+16318,RD,Dietitian
+16319,SW,Social Worker
+16320,Res,Resident/Fellow/PA/NP
+16321,MD,Not Specified
+16322,MDs,Not Specified
+16323,MDs,Read Only
+16324,RO,Read Only
+16325,RO,Read Only
+16326,RN,RN
+16327,RN,RN
+16328,RO,Read Only
+16329,Res,Resident/Fellow/PA/NP
+16330,Res,Resident/Fellow/PA/NP
+16331,MS,Dietitian
+16332,Res,Resident/Fellow/PA/NP
+16333,RN,RN
+16334,RO,Read Only
+16335,RN,RN
+16336,LICSW,Not Specified
+16337,Res,Resident/Fellow/PA/NP
+16338,MD,Not Specified
+16339,RN,RN
+16340,PCT,PCT/NA
+16341,SW,Social Worker
+16342,Res,Resident/Fellow/PA/NP
+16343,Res,Resident/Fellow/PA/NP
+16344,Res,Resident/Fellow/PA/NP
+16345,MD,Not Specified
+16346,Res,Resident/Fellow/PA/NP
+16347,Res,Resident/Fellow/PA/NP
+16348,MD,Attending
+16349,Res,Resident/Fellow/PA/NP
+16350,Res,Resident/Fellow/PA/NP
+16351,RT,Respiratory
+16352,MD,Attending
+16353,MS,Resident/Fellow/PA/NP
+16354,Res,Resident/Fellow/PA/NP
+16355,MDs,Not Specified
+16356,RRT,Respiratory
+16357,MD,Not Specified
+16358,Res,Resident/Fellow/PA/NP
+16359,Res,Resident/Fellow/PA/NP
+16360,Res,Resident/Fellow/PA/NP
+16361,Res,Resident/Fellow/PA/NP
+16362,Res,Resident/Fellow/PA/NP
+16363,RO,Read Only
+16364,MD,Not Specified
+16365,Admin,Administrator
+16366,MD,Attending
+16367,RN,Not Specified
+16368,Res,Resident/Fellow/PA/NP
+16369,Res,Resident/Fellow/PA/NP
+16370,RO,Read Only
+16371,SW,Social Worker
+16372,PC,Pastoral Care
+16373,Res,Resident/Fellow/PA/NP
+16374,MD,Attending
+16375,Res,Resident/Fellow/PA/NP
+16376,RPh,Read Only
+16377,Res,Resident/Fellow/PA/NP
+16378,UCO,Not Specified
+16379,RO,Read Only
+16380,RO,Read Only
+16381,RO,Read Only
+16382,Res,Resident/Fellow/PA/NP
+16383,MD,Attending
+16384,MDs,Read Only
+16385,MD,Not Specified
+16386,PCT,PCT/NA
+16387,RD,Dietitian
+16388,DI,Not Specified
+16389,MD,Not Specified
+16390,MD,Read Only
+16391,MD,Not Specified
+16392,RO,Read Only
+16393,MD,Not Specified
+16394,MD,Not Specified
+16395,RN,Not Specified
+16396,MD,Resident/Fellow/PA/NP
+16397,RD,Dietitian
+16398,Res,Resident/Fellow/PA/NP
+16399,LICSW,Social Worker
+16400,Res,Resident/Fellow/PA/NP
+16401,Res,Resident/Fellow/PA/NP
+16402,PC,Pastoral Care
+16403,St,Not Specified
+16404,Res,Resident/Fellow/PA/NP
+16405,RO,Read Only
+16406,Res,Resident/Fellow/PA/NP
+16407,Res,Resident/Fellow/PA/NP
+16408,Res,Resident/Fellow/PA/NP
+16409,Res,Resident/Fellow/PA/NP
+16410,RO,Read Only
+16411,CM,Case Manager
+16412,RN,RN
+16413,RO,Read Only
+16414,RO,Read Only
+16415,MD,Attending
+16416,RO,Read Only
+16417,RN,RN
+16418,PCT,PCT/NA
+16419,RD,Dietitian
+16420,Res,Resident/Fellow/PA/NP
+16421,Res,Resident/Fellow/PA/NP
+16422,RO,Read Only
+16423,RPH,Pharmacist
+16424,Res,Resident/Fellow/PA/NP
+16425,Co-Wkr,Not Specified
+16426,RN,Not Specified
+16427,RN,Not Specified
+16428,UA,Not Specified
+16429,RO,Read Only
+16430,RTStu,Respiratory
+16431,RO,Read Only
+16432,RO,Read Only
+16433,RN,Not Specified
+16434,CsMngm,Not Specified
+16435,RN,Not Specified
+16436,RN,RN
+16437,RO,Read Only
+16438,MDs,Resident/Fellow/PA/NP
+16439,RO,Read Only
+16440,Res,Resident/Fellow/PA/NP
+16441,RO,Read Only
+16442,Res,Resident/Fellow/PA/NP
+16443,Res,Resident/Fellow/PA/NP
+16444,RO,Read Only
+16445,RO,Read Only
+16446,RRT,Read Only
+16447,SRT,Not Specified
+16448,MD,Not Specified
+16449,RN,Not Specified
+16450,PhD,Not Specified
+16451,Res,Resident/Fellow/PA/NP
+16452,RPh,Not Specified
+16453,Rehab,Rehabilitation
+16454,Res,Resident/Fellow/PA/NP
+16455,Res,Resident/Fellow/PA/NP
+16456,Res,Resident/Fellow/PA/NP
+16457,RN,RN
+16458,MD,Read Only
+16459,MD,Not Specified
+16460,Res,Resident/Fellow/PA/NP
+16461,Res,Resident/Fellow/PA/NP
+16462,MD,Not Specified
+16463,Res,Resident/Fellow/PA/NP
+16464,Res,Resident/Fellow/PA/NP
+16465,UCO,UCO
+16466,PCT,PCT/NA
+16467,RO,Read Only
+16468,Res,Resident/Fellow/PA/NP
+16469,MD,Not Specified
+16470,Res,Resident/Fellow/PA/NP
+16471,Res,Resident/Fellow/PA/NP
+16472,Res,Resident/Fellow/PA/NP
+16473,CM,Case Manager
+16474,SW,Social Worker
+16475,MD,Not Specified
+16476,UCO,UCO
+16477,Res,Resident/Fellow/PA/NP
+16478,Res,Resident/Fellow/PA/NP
+16479,RO,Read Only
+16480,RO,Read Only
+16481,MD,Not Specified
+16482,Res,Resident/Fellow/PA/NP
+16483,Res,Resident/Fellow/PA/NP
+16484,Not Specified,UCO
+16485,MD,Not Specified
+16486,MDs,Resident/Fellow/PA/NP
+16487,MD,Read Only
+16488,PCT,Not Specified
+16489,MD,Resident/Fellow/PA/NP
+16490,RO,Read Only
+16491,MD,Not Specified
+16492,UCO,UCO
+16493,Nurse,RN
+16494,MDs,Read Only
+16495,CM,Case Manager
+16496,Res,Resident/Fellow/PA/NP
+16497,MD,Not Specified
+16498,COOPST,Not Specified
+16499,RO,Read Only
+16500,RN,RN
+16501,RA,Research Assistant
+16502,Res,Resident/Fellow/PA/NP
+16503,PC,Pastoral Care
+16504,CM,Case Manager
+16505,Rehab,Rehabilitation
+16506,Rehab,Rehabilitation
+16507,MD,Attending
+16508,MD,Read Only
+16509,MD,Not Specified
+16510,RRT,Respiratory
+16511,RO,Read Only
+16512,MS,Not Specified
+16513,RO,Read Only
+16514,RPh,Not Specified
+16515,Res,Resident/Fellow/PA/NP
+16516,MD,Resident/Fellow/PA/NP
+16517,MD,Not Specified
+16518,RPH,Read Only
+16519,MD,Not Specified
+16520,RRT,Respiratory
+16521,Res,Resident/Fellow/PA/NP
+16522,RO,Read Only
+16523,NP,Not Specified
+16524,RN,Not Specified
+16525,RN,Not Specified
+16526,RN,RN
+16527,PCT,Not Specified
+16528,PC,Pastoral Care
+16529,Res,Resident/Fellow/PA/NP
+16530,RN,RN
+16531,SW,Social Worker
+16532,Res,Resident/Fellow/PA/NP
+16533,Res,Resident/Fellow/PA/NP
+16534,RN,RN
+16535,Res,Resident/Fellow/PA/NP
+16536,Res,Resident/Fellow/PA/NP
+16537,Res,Resident/Fellow/PA/NP
+16538,CM,Case Manager
+16539,Res,Resident/Fellow/PA/NP
+16540,RO,Read Only
+16541,Res,Resident/Fellow/PA/NP
+16542,RN,RN
+16543,Res,Resident/Fellow/PA/NP
+16544,Res,Resident/Fellow/PA/NP
+16545,MD,Attending
+16546,Res,Resident/Fellow/PA/NP
+16547,Res,Resident/Fellow/PA/NP
+16548,Res,Resident/Fellow/PA/NP
+16549,RO,Read Only
+16550,CM,Case Manager
+16551,RO,Read Only
+16552,RN,Read Only
+16553,Res,Resident/Fellow/PA/NP
+16554,RO,Read Only
+16555,RD,Dietitian
+16556,PC,Pastoral Care
+16557,MD,Not Specified
+16558,Res,Resident/Fellow/PA/NP
+16559,Res,Resident/Fellow/PA/NP
+16560,RN,Not Specified
+16561,MD,Attending
+16562,UCO,UCO
+16563,MD,Attending
+16564,MD,Resident/Fellow/PA/NP
+16565,Res,Resident/Fellow/PA/NP
+16566,DataMg,Not Specified
+16567,RO,Read Only
+16568,CM,Case Manager
+16569,Res,Resident/Fellow/PA/NP
+16570,Res,Resident/Fellow/PA/NP
+16571,RN,Read Only
+16572,UCO,UCO
+16573,Res,Resident/Fellow/PA/NP
+16574,UCO,UCO
+16575,MDs,Resident/Fellow/PA/NP
+16576,Res,Resident/Fellow/PA/NP
+16577,CM,Case Manager
+16578,Res,Resident/Fellow/PA/NP
+16579,Res,Resident/Fellow/PA/NP
+16580,MD,Attending
+16581,RN,RN
+16582,Rehab,Rehabilitation
+16583,Res,Resident/Fellow/PA/NP
+16584,MD,Attending
+16585,RPH,Pharmacist
+16586,RN,RN
+16587,MD,Not Specified
+16588,Res,Resident/Fellow/PA/NP
+16589,MedStu,Not Specified
+16590,RO,Read Only
+16591,RO,Read Only
+16592,SN,Not Specified
+16593,RN,RN
+16594,MD,Not Specified
+16595,RO,Read Only
+16596,MSIV,Not Specified
+16597,RT,Respiratory
+16598,Res,Resident/Fellow/PA/NP
+16599,Res,Resident/Fellow/PA/NP
+16600,RO,Read Only
+16601,STD,Not Specified
+16602,Res,Resident/Fellow/PA/NP
+16603,RN,RN
+16604,RN,RN
+16605,Res,Resident/Fellow/PA/NP
+16606,PC,Pastoral Care
+16607,RO,Read Only
+16608,Res,Resident/Fellow/PA/NP
+16609,RN,RN
+16610,SRT,Not Specified
+16611,Coor,Not Specified
+16612,Res,Resident/Fellow/PA/NP
+16613,Res,Resident/Fellow/PA/NP
+16614,MD,Attending
+16615,Res,Resident/Fellow/PA/NP
+16616,Res,Resident/Fellow/PA/NP
+16617,RN,RN
+16618,MD,Attending
+16619,MD,Attending
+16620,Res,Resident/Fellow/PA/NP
+16621,Res,Resident/Fellow/PA/NP
+16622,Res,Resident/Fellow/PA/NP
+16623,CM,Case Manager
+16624,RO,Read Only
+16625,Res,Resident/Fellow/PA/NP
+16626,MD,Attending
+16627,Res,Resident/Fellow/PA/NP
+16628,Res,Resident/Fellow/PA/NP
+16629,Res,Resident/Fellow/PA/NP
+16630,MD,Not Specified
+16631,RO,Read Only
+16632,RO,Read Only
+16633,RN,Not Specified
+16634,RN,RN
+16635,RO,Read Only
+16636,RO,Read Only
+16637,MD,Not Specified
+16638,MD,Not Specified
+16639,MS,Not Specified
+16640,PT,Not Specified
+16641,RO,Read Only
+16642,RO,Read Only
+16643,RN,RN
+16644,MS,Not Specified
+16645,MD,Resident/Fellow/PA/NP
+16646,RPh,Not Specified
+16647,RO,Read Only
+16648,MD,Read Only
+16649,RN,RN
+16650,Res,Resident/Fellow/PA/NP
+16651,Md,Not Specified
+16652,RO,Read Only
+16653,MD,Not Specified
+16654,Res,Resident/Fellow/PA/NP
+16655,Res,Resident/Fellow/PA/NP
+16656,Res,Resident/Fellow/PA/NP
+16657,MDs,Resident/Fellow/PA/NP
+16658,RN,Not Specified
+16659,RO,Read Only
+16660,RN,Read Only
+16661,PCT,Not Specified
+16662,RO,Read Only
+16663,RO,Read Only
+16664,RO,Read Only
+16665,RN,Not Specified
+16666,UA,Not Specified
+16667,MD,Attending
+16668,RO,Read Only
+16669,RO,Read Only
+16670,RN,Case Manager
+16671,Res,Resident/Fellow/PA/NP
+16672,RN,Case Manager
+16673,RN,Not Specified
+16674,RN,Not Specified
+16675,MDs,Not Specified
+16676,Studen,Not Specified
+16677,PCT,PCT/NA
+16678,Rehab,Rehabilitation
+16679,PCT,PCT/NA
+16680,Res,Resident/Fellow/PA/NP
+16681,MD,Attending
+16682,Res,Resident/Fellow/PA/NP
+16683,RO,Read Only
+16684,Studen,Not Specified
+16685,RO,Read Only
+16686,RO,Read Only
+16687,MD,Attending
+16688,RO,Read Only
+16689,RO,Read Only
+16690,Rehab,Rehabilitation
+16691,Res,Resident/Fellow/PA/NP
+16692,Res,Resident/Fellow/PA/NP
+16693,PCT,PCT/NA
+16694,RN,RN
+16695,RO,Read Only
+16696,Rehab,Rehabilitation
+16697,Res,Resident/Fellow/PA/NP
+16698,RO,Read Only
+16699,MD,Not Specified
+16700,Res,Resident/Fellow/PA/NP
+16701,Res,Resident/Fellow/PA/NP
+16702,Res,Resident/Fellow/PA/NP
+16703,RT,Respiratory
+16704,RN,RN
+16705,RO,Read Only
+16706,RN,Not Specified
+16707,RN,RN
+16708,MD,Not Specified
+16709,RN,RN
+16710,Rehab,Rehabilitation
+16711,MD,Not Specified
+16712,MD,Not Specified
+16713,MD,Not Specified
+16714,RN,RN
+16715,Res,Resident/Fellow/PA/NP
+16716,MD,Attending
+16717,MSIV,Not Specified
+16718,Not Specified,Not Specified
+16719,UCO,Not Specified
+16720,RT,Respiratory
+16721,MD,Attending
+16722,Rehab,Rehabilitation
+16723,RN,RN
+16724,Res,Resident/Fellow/PA/NP
+16725,RD,Dietitian
+16726,Res,Resident/Fellow/PA/NP
+16727,Res,Resident/Fellow/PA/NP
+16728,RN,RN
+16729,Rehab,Rehabilitation
+16730,Res,Resident/Fellow/PA/NP
+16731,Rehab,Rehabilitation
+16732,RO,Read Only
+16733,RPH,Pharmacist
+16734,MD,Not Specified
+16735,RN,Not Specified
+16736,MD,Not Specified
+16737,Rehab,Rehabilitation
+16738,RO,Read Only
+16739,Res,Resident/Fellow/PA/NP
+16740,MD,Attending
+16741,MD,Not Specified
+16742,RN,RN
+16743,Res,Resident/Fellow/PA/NP
+16744,RN,RN
+16745,MD,Not Specified
+16746,RT,Respiratory
+16747,MD,Attending
+16748,RO,Read Only
+16749,Res,Resident/Fellow/PA/NP
+16750,Res,Resident/Fellow/PA/NP
+16751,Res,Resident/Fellow/PA/NP
+16752,Res,Resident/Fellow/PA/NP
+16753,Res,Resident/Fellow/PA/NP
+16754,RO,Read Only
+16755,MD,Read Only
+16756,RO,Read Only
+16757,Res,Resident/Fellow/PA/NP
+16758,Res,Resident/Fellow/PA/NP
+16759,Res,Resident/Fellow/PA/NP
+16760,Res,Resident/Fellow/PA/NP
+16761,Res,Resident/Fellow/PA/NP
+16762,Res,Resident/Fellow/PA/NP
+16763,Res,Resident/Fellow/PA/NP
+16764,CM,Case Manager
+16765,Res,Resident/Fellow/PA/NP
+16766,RN,RN
+16767,MD,Not Specified
+16768,Res,Resident/Fellow/PA/NP
+16769,RN,Not Specified
+16770,MD,Read Only
+16771,RPH,Pharmacist
+16772,RO,Read Only
+16773,Res,Resident/Fellow/PA/NP
+16774,Res,Resident/Fellow/PA/NP
+16775,Res,Resident/Fellow/PA/NP
+16776,Res,Resident/Fellow/PA/NP
+16777,CM,Case Manager
+16778,Res,Resident/Fellow/PA/NP
+16779,Res,Resident/Fellow/PA/NP
+16780,Res,Resident/Fellow/PA/NP
+16781,PCT,PCT/NA
+16782,UCO,UCO
+16783,Rehab,Rehabilitation
+16784,MD,Attending
+16785,Res,Resident/Fellow/PA/NP
+16786,RPH,Pharmacist
+16787,Res,Resident/Fellow/PA/NP
+16788,RO,Read Only
+16789,Rehab,Rehabilitation
+16790,RO,Read Only
+16791,MD,Not Specified
+16792,PCT,PCT/NA
+16793,MD,Not Specified
+16794,MD,Read Only
+16795,RO,Read Only
+16796,Res,Resident/Fellow/PA/NP
+16797,RN,RN
+16798,PharmD,Not Specified
+16799,md,Read Only
+16800,RO,Read Only
+16801,RO,Read Only
+16802,Res,Resident/Fellow/PA/NP
+16803,UA,UCO
+16804,MD,Not Specified
+16805,RO,Read Only
+16806,IMD,IMD
+16807,SW,Social Worker
+16808,RO,Read Only
+16809,RO,Read Only
+16810,MD,Resident/Fellow/PA/NP
+16811,Res,Resident/Fellow/PA/NP
+16812,RO,Read Only
+16813,MDs,Not Specified
+16814,Res,Resident/Fellow/PA/NP
+16815,RO,Read Only
+16816,RO,Read Only
+16817,MS,Not Specified
+16818,RN,RN
+16819,MD,Not Specified
+16820,RO,Read Only
+16821,RO,Read Only
+16822,RO,Read Only
+16823,UCO,Not Specified
+16824,RTStu,Not Specified
+16825,MS,UCO
+16826,MD,Not Specified
+16827,UA,UCO
+16828,Res,Resident/Fellow/PA/NP
+16829,Prog,Not Specified
+16830,RO,Read Only
+16831,MS,Not Specified
+16832,UCO,Not Specified
+16833,RO,Read Only
+16834,RO,Read Only
+16835,RO,Read Only
+16836,UCO,UCO
+16837,RN,RN
+16838,RD,Dietitian
+16839,RO,Read Only
+16840,RO,Read Only
+16841,RO,Read Only
+16842,RPh,Not Specified
+16843,ReschA,Not Specified
+16844,RO,Read Only
+16845,StPHa,Not Specified
+16846,CoWker,Not Specified
+16847,CRA,Not Specified
+16848,RRT,Not Specified
+16849,RO,Read Only
+16850,PT,Not Specified
+16851,MD,Not Specified
+16852,Res,Resident/Fellow/PA/NP
+16853,DI,Dietitian
+16854,RT,Respiratory
+16855,MS,Not Specified
+16856,RO,Read Only
+16857,Res,Resident/Fellow/PA/NP
+16858,PHaD,Not Specified
+16859,Res,Resident/Fellow/PA/NP
+16860,MD,Read Only
+16861,rn,RN
+16862,SW,Social Worker
+16863,Res,Resident/Fellow/PA/NP
+16864,rn,Not Specified
+16865,RN,Not Specified
+16866,RN,RN
+16867,MD,Attending
+16868,RO,Read Only
+16869,RN,Not Specified
+16870,RN,RN
+16871,RO,Read Only
+16872,RO,Read Only
+16873,MD,Not Specified
+16874,RO,Read Only
+16875,MD,Not Specified
+16876,RO,Read Only
+16877,Res,Not Specified
+16878,RO,Read Only
+16879,RO,Read Only
+16880,RO,Read Only
+16881,Stu,Not Specified
+16882,Res,Not Specified
+16883,Not Specified,Not Specified
+16884,RO,Read Only
+16885,MD,Attending
+16886,RN,RPh,Not Specified
+16887,MD,Not Specified
+16888,MD,Read Only
+16889,RO,Read Only
+16890,RN,RN
+16891,UCO,UCO
+16892,RO,Read Only
+16893,RO,Read Only
+16894,RN,Not Specified
+16895,RO,Read Only
+16896,MD,Not Specified
+16897,MD,Not Specified
+16898,MD,Not Specified
+16899,RN,Not Specified
+16900,RO,Read Only
+16901,RN,RN
+16902,MS,Not Specified
+16903,RN,Not Specified
+16904,MD,Not Specified
+16905,MD,Not Specified
+16906,ISSUPP,Not Specified
+16907,MD,Resident/Fellow/PA/NP
+16908,MD,Not Specified
+16909,RO,Read Only
+16910,MD,Not Specified
+16911,RO,Read Only
+16912,RO,Read Only
+16913,MD,Not Specified
+16914,RN,Not Specified
+16915,RN,RN
+16916,RN,Not Specified
+16917,RO,Read Only
+16918,Stud,Not Specified
+16919,RO,Read Only
+16920,RO,Read Only
+16921,MDs,Not Specified
+16922,MD,Not Specified
+16923,RNC,Not Specified
+16924,RRT,Respiratory
+16925,RO,Read Only
+16926,RN,RN
+16927,Rph,Pharmacist
+16928,RNC,Not Specified
+16929,MD,Read Only
+16930,RO,Read Only
+16931,CoOpst,Read Only
+16932,MDs,Not Specified
+16933,RO,Read Only
+16934,RN,RN
+16935,RO,Read Only
+16936,MD,Not Specified
+16937,MD,Not Specified
+16938,MedSt.,Not Specified
+16939,RN,RN
+16940,RO,Read Only
+16941,RRT,Not Specified
+16942,PT,Not Specified
+16943,Res,Resident/Fellow/PA/NP
+16944,Res,Resident/Fellow/PA/NP
+16945,RRT,Respiratory
+16946,RN,Read Only
+16947,MDs,Resident/Fellow/PA/NP
+16948,RN,RN
+16949,RN,Not Specified
+16950,RN,Not Specified
+16951,RN,Respiratory
+16952,RO,Read Only
+16953,UCO,UCO
+16954,RRT,Not Specified
+16955,RO,Read Only
+16956,MS,Not Specified
+16957,RN,RN
+16958,STD,Not Specified
+16959,MD,Not Specified
+16960,RN,RN
+16961,MD,Resident/Fellow/PA/NP
+16962,MD,Not Specified
+16963,RO,Read Only
+16964,RN,RN
+16965,Co-Wor,PCT/NA
+16966,RO,Read Only
+16967,RO,Read Only
+16968,RO,Read Only
+16969,MS,Not Specified
+16970,MD,Not Specified
+16971,PT,Not Specified
+16973,MD,Read Only
+16974,MD,Resident/Fellow/PA/NP
+16975,RRT,Not Specified
+16976,MD,Not Specified
+16977,MD,Resident/Fellow/PA/NP
+16978,RN,RN
+16979,RO,Read Only
+16980,MD,Resident/Fellow/PA/NP
+16981,MSIV,Not Specified
+16982,MD,Not Specified
+16983,MD,Read Only
+16984,MD,Not Specified
+16985,RRT,Respiratory
+16986,MD,Not Specified
+16987,PhStud,Not Specified
+16988,MD,Read Only
+16989,RO,Read Only
+16990,RO,Read Only
+16991,MD,Not Specified
+16992,RO,Read Only
+16993,MD,Not Specified
+16994,RO,Read Only
+16995,MDs,Resident/Fellow/PA/NP
+16996,RO,Read Only
+16997,RO,Read Only
+16998,RO,Read Only
+16999,RO,Read Only
+17000,MD,Not Specified
+17001,RN,Not Specified
+17002,RN,Not Specified
+17003,MS,Not Specified
+17004,MD,Not Specified
+17005,RN,RN
+17006,MD,Not Specified
+17007,RO,Read Only
+17008,MD,Not Specified
+17009,RN,Not Specified
+17010,RN,RN
+17011,RO,Read Only
+17012,RO,Read Only
+17013,RN,RN
+17014,PCT,PCT/NA
+17015,RN,Not Specified
+17016,RO,Read Only
+17017,RO,Read Only
+17018,RT,Respiratory
+17019,RO,Read Only
+17020,RO,Read Only
+17021,RO,Read Only
+17022,MD,Not Specified
+17023,RN,Not Specified
+17024,RO,Read Only
+17025,CRS,Read Only
+17026,PhaD,Not Specified
+17027,RO,Read Only
+17028,RO,Read Only
+17029,Md,Read Only
+17030,MDs,Resident/Fellow/PA/NP
+17031,MDs,Not Specified
+17032,RO,Read Only
+17033,MD,Read Only
+17034,IMD,IMD
+17035,RO,Read Only
+17036,RO,Read Only
+17037,MD,Not Specified
+17038,MD,Resident/Fellow/PA/NP
+17039,MD,Not Specified
+17040,SRT,Not Specified
+17041,Res,Resident/Fellow/PA/NP
+17042,MDs,Resident/Fellow/PA/NP
+17043,MD,Not Specified
+17044,MD,Resident/Fellow/PA/NP
+17045,RO,Read Only
+17046,RO,Read Only
+17047,MD,Not Specified
+17048,RN,RN
+17049,RO,Read Only
+17050,RRT,Not Specified
+17051,MD,Not Specified
+17052,ISOPS,Administrator
+17053,RN,RN
+17054,MD,Resident/Fellow/PA/NP
+17055,Res,Not Specified
+17056,MD,Not Specified
+17057,MD,Read Only
+17058,RN,RN
+17059,MD,Not Specified
+17060,DietIn,Not Specified
+17061,RO,Read Only
+17062,RN,RN
+17063,RN,RN
+17064,RO,Read Only
+17065,RO,Read Only
+17066,PCA,Read Only
+17067,RO,Read Only
+17068,RN,Not Specified
+17069,RO,Read Only
+17070,RN,Pharmacist
+17071,RO,Read Only
+17072,MD,Not Specified
+17073,RO,Read Only
+17074,MD,Resident/Fellow/PA/NP
+17075,D,Not Specified
+17076,RO,Read Only
+17077,RO,Read Only
+17078,RO,Read Only
+17079,RN,Not Specified
+17080,RO,Read Only
+17081,UCO,Read Only
+17082,RN,Not Specified
+17083,MD,Not Specified
+17084,RN,Not Specified
+17085,MD,Not Specified
+17086,MD,Not Specified
+17087,RN,Not Specified
+17088,RN,RN
+17089,MD,Not Specified
+17090,MD,Not Specified
+17091,SN,Not Specified
+17092,PA,Resident/Fellow/PA/NP
+17093,RO,Read Only
+17094,RN,Not Specified
+17095,RN,Not Specified
+17096,RO,Read Only
+17097,RN,RN
+17098,MDs,Resident/Fellow/PA/NP
+17099,RO,Read Only
+17100,RO,Read Only
+17101,RN,Not Specified
+17102,RN,Not Specified
+17103,RRT,Not Specified
+17104,RO,Read Only
+17105,RO,Read Only
+17106,MD,Not Specified
+17107,RO,Read Only
+17108,MD,Not Specified
+17109,MD,Read Only
+17110,MD,Not Specified
+17111,Not Specified,Not Specified
+17112,MD,Not Specified
+17113,PT,Not Specified
+17114,RN,RN
+17115,Not Specified,Not Specified
+17116,RO,Read Only
+17117,RO,Read Only
+17118,MDs,Resident/Fellow/PA/NP
+17119,RO,Read Only
+17120,RO,Read Only
+17121,RN,Not Specified
+17122,RN,RN
+17123,CoWker,Not Specified
+17124,MDs,Resident/Fellow/PA/NP
+17125,RN,Not Specified
+17126,RO,Read Only
+17127,CCP,Not Specified
+17128,RN,Not Specified
+17129,RO,Read Only
+17130,RN,RN
+17131,MDs,Read Only
+17132,RO,Read Only
+17133,RO,Read Only
+17134,RO,Read Only
+17135,MD,Not Specified
+17136,RN,RN
+17137,RO,Read Only
+17138,RN,Not Specified
+17139,RRT,Resident/Fellow/PA/NP
+17140,CoRN,RN
+17141,RO,Read Only
+17142,MD,Not Specified
+17143,RO,Read Only
+17144,CoWkr,Not Specified
+17145,RO,Read Only
+17146,DI,Dietitian
+17147,RN,Read Only
+17148,RO,Read Only
+17149,DI,Not Specified
+17150,MD,Not Specified
+17151,RO,Read Only
+17152,ReAssi,Not Specified
+17153,MD,Not Specified
+17154,MD,Not Specified
+17155,RN,RN
+17156,RD,Dietitian
+17157,MD,Not Specified
+17158,MS,Not Specified
+17159,LICSW,Not Specified
+17160,RO,Read Only
+17161,MD,Not Specified
+17162,MD,Not Specified
+17163,MD,Not Specified
+17164,MDs,Resident/Fellow/PA/NP
+17165,RO,Read Only
+17166,UA,UCO
+17167,MS,Not Specified
+17168,RO,Read Only
+17169,RRT,Respiratory
+17170,MD,Not Specified
+17171,RRT,Not Specified
+17172,Res,Resident/Fellow/PA/NP
+17173,RO,Read Only
+17174,MD,Not Specified
+17175,MD,Resident/Fellow/PA/NP
+17176,Res,Resident/Fellow/PA/NP
+17177,CoOpSt,PCT/NA
+17178,RO,Read Only
+17179,MD,Not Specified
+17180,RO,Read Only
+17181,RO,Read Only
+17182,RO,Read Only
+17183,RN,RN
+17184,MDs,Not Specified
+17185,MD,Resident/Fellow/PA/NP
+17186,RO,Read Only
+17187,PCT,PCT/NA
+17188,STD,Not Specified
+17189,RN,Not Specified
+17190,RN,RN
+17191,RO,Read Only
+17192,MD,Resident/Fellow/PA/NP
+17193,RN,Not Specified
+17194,RN,Not Specified
+17195,Res,Resident/Fellow/PA/NP
+17196,RN,Not Specified
+17197,RO,Read Only
+17198,Res,Resident/Fellow/PA/NP
+17199,RRT,Read Only
+17200,RO,Read Only
+17201,STD,Read Only
+17202,RO,Read Only
+17203,RO,Read Only
+17204,SRN,Not Specified
+17205,RO,Read Only
+17206,RN,Not Specified
+17207,DPM,Not Specified
+17208,RO,Read Only
+17209,Res,Resident/Fellow/PA/NP
+17210,RN,RN
+17211,RO,Read Only
+17212,Res,Resident/Fellow/PA/NP
+17213,MD,Not Specified
+17214,Res,Resident/Fellow/PA/NP
+17215,RN,Not Specified
+17216,RN,Not Specified
+17217,RN,Not Specified
+17218,RN,Not Specified
+17219,RN,RN
+17220,RO,Read Only
+17221,DietIn,Not Specified
+17222,RN,RN
+17223,MD,Read Only
+17224,SRT,Respiratory
+17225,RD,Dietitian
+17226,Res,Resident/Fellow/PA/NP
+17227,RN,RN
+17228,Rehab,Rehabilitation
+17229,RO,Read Only
+17230,PCA,Not Specified
+17231,RO,Read Only
+17232,RO,Read Only
+17233,RO,Read Only
+17234,Res,Resident/Fellow/PA/NP
+17235,ISSupp,Not Specified
+17236,MD,Not Specified
+17237,Res,Resident/Fellow/PA/NP
+17238,RO,Read Only
+17239,MDs,Resident/Fellow/PA/NP
+17240,RN,Not Specified
+17241,CoWker,Not Specified
+17242,RO,Read Only
+17243,PT,Rehabilitation
+17244,RO,Read Only
+17245,RO,Read Only
+17246,RN,Not Specified
+17247,RD,Not Specified
+17248,RN,RN
+17249,RN,RN
+17250,RN,RN
+17251,RN,RN
+17252,MD,Not Specified
+17253,Studen,Not Specified
+17254,SN,Not Specified
+17255,RN,Not Specified
+17256,RO,Read Only
+17257,RO,Read Only
+17258,RO,Read Only
+17259,RN,Not Specified
+17260,MD,Not Specified
+17261,RO,Read Only
+17262,MD,Not Specified
+17263,RO,Read Only
+17264,RN,Not Specified
+17265,RO,Read Only
+17266,MD,Not Specified
+17267,RN,Not Specified
+17268,MD,Not Specified
+17269,RN,Not Specified
+17270,RN,RN
+17271,MD,Not Specified
+17272,RO,Read Only
+17273,RTS,Not Specified
+17274,RRT,Not Specified
+17275,RRT,Not Specified
+17276,MS,Not Specified
+17277,RRT,Respiratory
+17278,Res,Not Specified
+17279,MD,Resident/Fellow/PA/NP
+17280,MDs,Resident/Fellow/PA/NP
+17281,1390,Resident/Fellow/PA/NP
+17282,Res,Resident/Fellow/PA/NP
+17283,MD,Not Specified
+17284,RO,Read Only
+17285,RO,Read Only
+17286,RN,RN
+17287,MD,Read Only
+17288,MD,Not Specified
+17289,RPh,Not Specified
+17290,RO,Read Only
+17291,RO,Read Only
+17292,MD,Resident/Fellow/PA/NP
+17293,MD,Not Specified
+17294,St,Not Specified
+17295,RN,RN
+17296,MD,Not Specified
+17297,MD,Not Specified
+17298,MD,Not Specified
+17299,MD,Read Only
+17300,Res,Resident/Fellow/PA/NP
+17301,MD,Not Specified
+17302,MDs,Resident/Fellow/PA/NP
+17303,RO,Read Only
+17304,RO,Read Only
+17305,RO,Read Only
+17306,RN,Not Specified
+17307,MD,Not Specified
+17308,RO,Read Only
+17309,MS,Read Only
+17310,MD,Not Specified
+17311,RO,Read Only
+17312,NP,Read Only
+17313,MD,Not Specified
+17314,MedStu,Not Specified
+17315,MD,Not Specified
+17316,PhaStu,Not Specified
+17317,MD,Resident/Fellow/PA/NP
+17318,MD,Read Only
+17319,Std,Resident/Fellow/PA/NP
+17320,MD,Not Specified
+17321,MD,Not Specified
+17322,MD,Resident/Fellow/PA/NP
+17323,MD,Not Specified
+17324,MD,Not Specified
+17325,RO,Read Only
+17326,PA,Not Specified
+17327,RO,Read Only
+17328,RO,Read Only
+17329,MD,Not Specified
+17330,MD,Not Specified
+17331,MDs,Resident/Fellow/PA/NP
+17332,CPhT,Not Specified
+17333,RO,Read Only
+17334,MD,Not Specified
+17335,MD,Not Specified
+17336,MD,Not Specified
+17337,ISSupp,Not Specified
+17338,MD,Attending
+17339,RN,RN
+17340,RT,Respiratory
+17341,Res,Resident/Fellow/PA/NP
+17342,Res,Resident/Fellow/PA/NP
+17343,Res,Resident/Fellow/PA/NP
+17344,RO,Read Only
+17345,Res,Not Specified
+17346,RN,RN
+17347,RO,Read Only
+17348,RO,Read Only
+17349,RO,Read Only
+17350,RO,Read Only
+17351,di,Dietitian
+17352,SW,Social Worker
+17353,MD,Resident/Fellow/PA/NP
+17354,RO,Read Only
+17355,MD,Resident/Fellow/PA/NP
+17356,MD,Not Specified
+17357,RO,Read Only
+17358,MD,Not Specified
+17359,RO,Read Only
+17360,MD,Not Specified
+17361,MDs,Not Specified
+17362,RO,Read Only
+17363,RO,Read Only
+17364,RO,Read Only
+17365,MD,Not Specified
+17366,MD,Not Specified
+17367,MD,Not Specified
+17368,RPh,Read Only
+17369,MD,Not Specified
+17370,MedStu,Resident/Fellow/PA/NP
+17371,MD,Not Specified
+17372,MedRes,Resident/Fellow/PA/NP
+17373,MD,Attending
+17374,Res,Resident/Fellow/PA/NP
+17375,UCO,UCO
+17376,Res,Resident/Fellow/PA/NP
+17377,Res,Resident/Fellow/PA/NP
+17378,RO,Read Only
+17379,MD,Not Specified
+17380,MedSt,Not Specified
+17381,RO,Read Only
+17382,RO,Read Only
+17383,MD,Resident/Fellow/PA/NP
+17384,MDs,Resident/Fellow/PA/NP
+17385,MDs,Resident/Fellow/PA/NP
+17386,MD,Not Specified
+17387,MD,Resident/Fellow/PA/NP
+17388,RO,Read Only
+17389,RO,Read Only
+17390,ms,Not Specified
+17391,CoWork,PCT/NA
+17392,MD,Not Specified
+17393,MD,Not Specified
+17394,MDs,Read Only
+17395,RPH,Pharmacist
+17396,SRN,Not Specified
+17397,RN,RN
+17398,RRT,Not Specified
+17399,RN,Read Only
+17400,MD,Not Specified
+17401,RO,Read Only
+17402,Res,Resident/Fellow/PA/NP
+17403,RO,Read Only
+17404,MD,Not Specified
+17405,MD,Not Specified
+17406,Res,Resident/Fellow/PA/NP
+17407,MD,Attending
+17408,RO,Read Only
+17409,PCT,PCT/NA
+17410,RO,Read Only
+17411,RO,Read Only
+17412,RO,Read Only
+17413,RO,Read Only
+17414,MD,Not Specified
+17415,RO,Read Only
+17416,RO,Read Only
+17417,RO,Read Only
+17418,ms,Resident/Fellow/PA/NP
+17419,MD,Attending
+17420,PCT,Not Specified
+17421,MD,Attending
+17422,Res,Resident/Fellow/PA/NP
+17423,MD,Not Specified
+17424,RO,Read Only
+17425,MD,Not Specified
+17426,Res,Resident/Fellow/PA/NP
+17427,MD,Not Specified
+17428,MDs,Not Specified
+17429,RO,Read Only
+17430,RO,Read Only
+17431,RO,Read Only
+17432,MDs,Not Specified
+17433,MD,Not Specified
+17434,RO,Read Only
+17435,RN,RN
+17436,MD,Read Only
+17437,SW,Social Worker
+17438,NsgSt,Not Specified
+17439,RN,Not Specified
+17440,RN,RN
+17441,NP,Not Specified
+17442,MD,Attending
+17443,RRT,Respiratory
+17444,MS,Read Only
+17445,RO,Read Only
+17446,RN,RN
+17447,Res,Resident/Fellow/PA/NP
+17448,MD,Not Specified
+17449,RO,Read Only
+17450,MD,Attending
+17451,STD,Not Specified
+17452,UA,Not Specified
+17453,RN,Resident/Fellow/PA/NP
+17454,RN,Not Specified
+17455,RO,Read Only
+17456,RO,Read Only
+17457,RN,RN
+17458,RN,Not Specified
+17459,Dr,Not Specified
+17460,MD,Not Specified
+17461,RN,RN
+17462,RO,Read Only
+17463,RO,Read Only
+17464,RN,RN
+17465,MD,Not Specified
+17466,RO,Read Only
+17467,MD,Not Specified
+17468,RO,Read Only
+17469,RO,Read Only
+17470,RO,Read Only
+17471,RO,Read Only
+17472,RN,Not Specified
+17473,UCO,UCO
+17474,RN,RN
+17475,Res,Resident/Fellow/PA/NP
+17476,RN,RN
+17477,RRT,Not Specified
+17478,RN,RN
+17479,RRT,Respiratory
+17480,RN,RN
+17481,RO,Read Only
+17482,RN,Not Specified
+17483,RO,Read Only
+17484,RO,Read Only
+17485,RN,RN
+17486,Not Specified,Not Specified
+17487,RRT,Not Specified
+17488,MD,Not Specified
+17489,MD,Not Specified
+17490,RO,Read Only
+17491,RO,Read Only
+17492,MD,Not Specified
+17493,RTSt,Not Specified
+17494,RO,Read Only
+17495,RN,Not Specified
+17496,RN,Not Specified
+17497,RO,Read Only
+17498,MD,Not Specified
+17499,RN,Not Specified
+17500,RO,Read Only
+17501,RO,Read Only
+17502,RO,Read Only
+17503,Res,Not Specified
+17504,MD,Not Specified
+17505,Coord,Not Specified
+17506,RO,Read Only
+17507,PT,Rehabilitation
+17508,RN,Not Specified
+17509,MD,Not Specified
+17510,MD,Not Specified
+17511,RN,Not Specified
+17512,RN,Not Specified
+17513,RO,Read Only
+17514,Res,Resident/Fellow/PA/NP
+17515,RO,Read Only
+17516,MD,Resident/Fellow/PA/NP
+17517,RN,Not Specified
+17518,RO,Read Only
+17519,PCT,Not Specified
+17520,RN,Case Manager
+17521,DI,Not Specified
+17522,Res,Resident/Fellow/PA/NP
+17523,RO,Read Only
+17524,DR,Not Specified
+17525,RN,RN
+17526,STD,Not Specified
+17527,MD,Resident/Fellow/PA/NP
+17528,STD,Not Specified
+17529,MD,Not Specified
+17530,MD,Not Specified
+17531,RES,Read Only
+17532,RO,Read Only
+17533,RO,Read Only
+17534,RO,Read Only
+17535,RPh,Not Specified
+17536,MS,Resident/Fellow/PA/NP
+17537,RO,Read Only
+17538,Res,Resident/Fellow/PA/NP
+17539,RO,Read Only
+17540,RO,Read Only
+17541,Res,Resident/Fellow/PA/NP
+17542,Res,Resident/Fellow/PA/NP
+17543,MD,Not Specified
+17544,MD,Not Specified
+17545,RO,Read Only
+17546,NuStud,Not Specified
+17547,MD,Not Specified
+17548,Res,Resident/Fellow/PA/NP
+17549,RO,Read Only
+17550,Res,Resident/Fellow/PA/NP
+17551,Res,Resident/Fellow/PA/NP
+17552,MD,Not Specified
+17553,Res,Resident/Fellow/PA/NP
+17554,Co-Ord,UCO
+17555,RO,Read Only
+17556,RO,Read Only
+17557,Res,Resident/Fellow/PA/NP
+17558,SN,Not Specified
+17559,Res,Resident/Fellow/PA/NP
+17560,SW,Social Worker
+17561,Res,Resident/Fellow/PA/NP
+17562,Res,Resident/Fellow/PA/NP
+17563,RPH,Pharmacist
+17564,RO,Read Only
+17565,Res,Resident/Fellow/PA/NP
+17566,RO,Read Only
+17567,Res,Resident/Fellow/PA/NP
+17568,Res,Resident/Fellow/PA/NP
+17569,Res,Resident/Fellow/PA/NP
+17570,Res,Resident/Fellow/PA/NP
+17571,RN,Not Specified
+17572,RO,Read Only
+17573,RRTs,Not Specified
+17574,RN,RN
+17575,PCA,Read Only
+17576,RN,RN
+17577,Res,Resident/Fellow/PA/NP
+17578,RN,RN
+17579,RO,Read Only
+17580,RO,Read Only
+17581,RN,Not Specified
+17582,RN,RN
+17583,SRN,Not Specified
+17584,RN,Not Specified
+17585,RN,Not Specified
+17586,MD,Not Specified
+17587,RN,Not Specified
+17588,RN,Not Specified
+17589,MD,Not Specified
+17590,RN,RN
+17591,RN,Not Specified
+17592,SNP,Not Specified
+17593,MD,Not Specified
+17594,RN,Not Specified
+17595,RPh,Not Specified
+17596,RN,Not Specified
+17597,RN,Not Specified
+17598,UCO,Not Specified
+17599,RPH,Read Only
+17600,Rn,RN
+17601,RO,Read Only
+17602,MDs,Resident/Fellow/PA/NP
+17603,RN,Not Specified
+17604,RN,Read Only
+17605,RO,Read Only
+17606,Res,Resident/Fellow/PA/NP
+17607,Studen,Not Specified
+17608,MD,Not Specified
+17609,RN,RN
+17610,MD,Not Specified
+17611,Coop S,Not Specified
+17612,MD,Not Specified
+17613,RN,RN
+17614,Res,Resident/Fellow/PA/NP
+17615,RN,Not Specified
+17616,RN,RN
+17617,RO,Read Only
+17618,MD,Not Specified
+17619,Res,Resident/Fellow/PA/NP
+17620,RO,Read Only
+17621,CRT,Not Specified
+17622,RN,Not Specified
+17623,PCA,Not Specified
+17624,RN,Not Specified
+17625,PCT,Not Specified
+17626,RO,Read Only
+17627,RO,Read Only
+17628,RN,Not Specified
+17629,Studen,Not Specified
+17630,RO,Read Only
+17631,RO,Read Only
+17632,RO,Read Only
+17633,Res,Read Only
+17634,StNuIV,Not Specified
+17635,SN,Not Specified
+17636,RO,Read Only
+17637,RO,Read Only
+17638,RO,Read Only
+17639,MD,Not Specified
+17640,MDs,Resident/Fellow/PA/NP
+17641,MD,Not Specified
+17642,Not Specified,Not Specified
+17643,RO,Read Only
+17644,RO,Read Only
+17645,RO,Read Only
+17646,MD,Not Specified
+17647,RO,Read Only
+17648,PCT,Not Specified
+17649,RN,Not Specified
+17650,MDs,Resident/Fellow/PA/NP
+17651,RO,Read Only
+17652,DI,Dietitian
+17653,RO,Read Only
+17654,MDs,Resident/Fellow/PA/NP
+17655,RO,Read Only
+17656,RN,Not Specified
+17657,MD,Not Specified
+17658,RN,Not Specified
+17659,NPS,Not Specified
+17660,RO,Read Only
+17661,RN,RN
+17662,RT Stu,Not Specified
+17663,Admin,Not Specified
+17664,UA,UCO
+17665,LICSW,Not Specified
+17666,MD,Not Specified
+17667,RO,Read Only
+17668,RO,Read Only
+17669,RRT,Not Specified
+17670,RN,Not Specified
+17671,RNC,Not Specified
+17672,RN,Not Specified
+17673,RO,Read Only
+17674,RN,Not Specified
+17675,RN,Not Specified
+17676,DirHCQ,Read Only
+17677,RN,Not Specified
+17678,RN,Not Specified
+17679,RN,Read Only
+17680,RN,Not Specified
+17681,RN,Read Only
+17682,RO,Read Only
+17683,MD,Not Specified
+17684,MedStu,Not Specified
+17685,MedSt,Not Specified
+17686,RO,Read Only
+17687,RO,Read Only
+17688,MD,Not Specified
+17689,RN,Not Specified
+17690,RN,Not Specified
+17691,Res,Resident/Fellow/PA/NP
+17692,RO,Read Only
+17693,RN,RN
+17694,MD,Resident/Fellow/PA/NP
+17695,RO,Read Only
+17696,RO,Read Only
+17697,RO,Read Only
+17698,RRT,Respiratory
+17699,RN,RN
+17700,RN,Not Specified
+17701,RN,Not Specified
+17702,RPh,Not Specified
+17703,RPh,Not Specified
+17704,RN,Not Specified
+17705,RN,RN
+17706,RN,Not Specified
+17707,RN,Not Specified
+17708,RO,Read Only
+17709,RD,Dietitian
+17710,RO,Read Only
+17711,RO,Read Only
+17712,SNP,Not Specified
+17713,MSIV,Not Specified
+17714,std,Not Specified
+17715,RPh,Not Specified
+17716,RO,Read Only
+17717,RPH,Pharmacist
+17718,Res,Resident/Fellow/PA/NP
+17719,MD,Attending
+17720,Res,Resident/Fellow/PA/NP
+17721,RO,Read Only
+17722,RO,Read Only
+17723,Res,Resident/Fellow/PA/NP
+17724,MD,Not Specified
+17725,MD,Not Specified
+17726,RO,Read Only
+17727,RO,Read Only
+17728,Res,Resident/Fellow/PA/NP
+17729,MD,Not Specified
+17730,Rehab,Rehabilitation
+17731,Res,Resident/Fellow/PA/NP
+17732,Res,Resident/Fellow/PA/NP
+17733,Res,Resident/Fellow/PA/NP
+17734,PhaStu,Not Specified
+17735,RN,RN
+17736,RN,Read Only
+17737,RPh,Pharmacist
+17738,RRT,Respiratory
+17739,RN,Not Specified
+17740,SW,Social Worker
+17741,RN,RN
+17742,RO,Read Only
+17743,RO,Read Only
+17744,RT,Respiratory
+17745,RN,RN
+17746,RN,Not Specified
+17747,RTS,Not Specified
+17748,RN,Not Specified
+17749,RO,Read Only
+17750,RN,RN
+17751,Res,Resident/Fellow/PA/NP
+17752,Res,Resident/Fellow/PA/NP
+17753,RO,Read Only
+17754,MD,Not Specified
+17755,RO,Read Only
+17756,RN,Read Only
+17757,PCT,PCT/NA
+17758,DI,Not Specified
+17759,Res,Resident/Fellow/PA/NP
+17760,RN,RN
+17761,MDs,Resident/Fellow/PA/NP
+17762,Res,Resident/Fellow/PA/NP
+17763,PT,Not Specified
+17764,PCA,Not Specified
+17765,LICSW,Not Specified
+17766,MD,Not Specified
+17767,RN,Not Specified
+17768,MS,Not Specified
+17769,RN,Not Specified
+17770,RN,RN
+17771,PCS,Not Specified
+17772,RN,Not Specified
+17773,PCA,Not Specified
+17774,RN,Not Specified
+17775,RN,Not Specified
+17776,PCA,Not Specified
+17777,RPh,Not Specified
+17778,UCO,UCO
+17779,DI,Dietitian
+17780,RO,Read Only
+17781,Rehab,Rehabilitation
+17782,RO,Read Only
+17783,RRT,Respiratory
+17784,MD,Not Specified
+17785,CRT,Not Specified
+17786,RO,Read Only
+17787,SRT,Not Specified
+17788,MD,Resident/Fellow/PA/NP
+17789,SW,Social Worker
+17790,RN,RN
+17791,RO,Read Only
+17792,MD,Not Specified
+17793,MD,Not Specified
+17794,MD,Not Specified
+17795,RO,Read Only
+17796,MD,Not Specified
+17797,CM,Case Manager
+17798,Rehab,Rehabilitation
+17799,RN,RN
+17800,Res,Resident/Fellow/PA/NP
+17801,RO,Read Only
+17802,MDs,Resident/Fellow/PA/NP
+17803,Res,Resident/Fellow/PA/NP
+17804,MD,Not Specified
+17805,LPN,Not Specified
+17806,RN,RN
+17807,RN,RN
+17808,RO,Read Only
+17809,PCA,Not Specified
+17810,RO,Read Only
+17811,RO,Read Only
+17812,RO,Read Only
+17813,DI,Not Specified
+17814,OTR/L,Rehabilitation
+17815,Res,Resident/Fellow/PA/NP
+17816,RN,Not Specified
+17817,Res,Resident/Fellow/PA/NP
+17818,RN,Not Specified
+17819,MD,Not Specified
+17820,RO,Read Only
+17821,MD,Resident/Fellow/PA/NP
+17822,RO,Read Only
+17823,MDs,Resident/Fellow/PA/NP
+17824,MD,Not Specified
+17825,RN,Read Only
+17826,MD,Not Specified
+17827,RO,Read Only
+17828,MD,Not Specified
+17829,MD,Not Specified
+17830,RO,Read Only
+17831,RO,Read Only
+17832,MDs,Not Specified
+17833,RO,Read Only
+17834,Res,Resident/Fellow/PA/NP
+17835,RN,RN
+17836,CRA,Read Only
+17837,MD,Attending
+17838,Res,Resident/Fellow/PA/NP
+17839,MD,Attending
+17840,RO,Read Only
+17841,Res,Resident/Fellow/PA/NP
+17842,Res,Resident/Fellow/PA/NP
+17843,Res,Resident/Fellow/PA/NP
+17844,RA,Not Specified
+17845,std,Not Specified
+17846,Res,Resident/Fellow/PA/NP
+17847,Res,Resident/Fellow/PA/NP
+17848,RO,Read Only
+17849,Res,Resident/Fellow/PA/NP
+17850,Res,Resident/Fellow/PA/NP
+17851,Res,Resident/Fellow/PA/NP
+17852,Res,Resident/Fellow/PA/NP
+17853,RO,Read Only
+17854,RA,Research Assistant
+17855,Res,Resident/Fellow/PA/NP
+17856,Res,Resident/Fellow/PA/NP
+17857,RT,Respiratory
+17858,RN,Not Specified
+17859,ms,Not Specified
+17860,RPH,Pharmacist
+17861,RO,Read Only
+17862,RO,Read Only
+17863,Res,Resident/Fellow/PA/NP
+17864,DI,Dietitian
+17865,Res,Resident/Fellow/PA/NP
+17866,Studen,Resident/Fellow/PA/NP
+17867,RN,RN
+17868,respst,Not Specified
+17869,RO,Read Only
+17870,RO,Read Only
+17871,RO,Read Only
+17872,Res,Not Specified
+17873,RN,RN
+17874,RN,Not Specified
+17875,MD,Not Specified
+17876,RO,Read Only
+17877,RN,RN
+17878,MD,Not Specified
+17879,RO,Read Only
+17880,RO,Read Only
+17881,RN,Not Specified
+17882,RO,Read Only
+17883,RT,Respiratory
+17884,DI,Dietitian
+17885,MD,Not Specified
+17886,RO,Read Only
+17887,RO,Read Only
+17888,MD,Resident/Fellow/PA/NP
+17889,MDs,Resident/Fellow/PA/NP
+17890,MDs,Not Specified
+17891,Res,Resident/Fellow/PA/NP
+17892,RN,Not Specified
+17893,OTR/L,Not Specified
+17894,RN,Read Only
+17895,RO,Read Only
+17896,UCO,UCO
+17897,Rehab,Rehabilitation
+17898,MD,Not Specified
+17899,RO,Read Only
+17900,Res,Resident/Fellow/PA/NP
+17901,Res,Resident/Fellow/PA/NP
+17902,SW,Social Worker
+17903,Res,Resident/Fellow/PA/NP
+17904,Rehab,Rehabilitation
+17905,RO,Read Only
+17906,Res,Resident/Fellow/PA/NP
+17907,Res,Resident/Fellow/PA/NP
+17908,Res,Resident/Fellow/PA/NP
+17909,RA,Research Assistant
+17910,MD,Attending
+17911,Res,Resident/Fellow/PA/NP
+17912,RPH,Pharmacist
+17913,Res,Resident/Fellow/PA/NP
+17914,RO,Read Only
+17915,Res,Resident/Fellow/PA/NP
+17916,Res,Resident/Fellow/PA/NP
+17917,std,Not Specified
+17918,Rehab,Rehabilitation
+17919,RN,Not Specified
+17920,Res,Resident/Fellow/PA/NP
+17921,MD,Attending
+17922,Res,Resident/Fellow/PA/NP
+17923,Res,Resident/Fellow/PA/NP
+17924,SW,Social Worker
+17925,Res,Resident/Fellow/PA/NP
+17926,Res,Resident/Fellow/PA/NP
+17927,RO,Read Only
+17928,Rehab,Rehabilitation
+17929,Res,Resident/Fellow/PA/NP
+17930,Res,Resident/Fellow/PA/NP
+17931,MD,Attending
+17932,Res,Resident/Fellow/PA/NP
+17933,RA,Research Assistant
+17934,RO,Read Only
+17935,RT,Respiratory
+17936,Rehab,Rehabilitation
+17937,SW,Social Worker
+17938,MD,Not Specified
+17939,Res,Resident/Fellow/PA/NP
+17940,Res,Resident/Fellow/PA/NP
+17941,RT,Respiratory
+17942,SRT,Not Specified
+17943,RN,Not Specified
+17944,RN,RN
+17945,Res,Not Specified
+17946,RN,RN
+17947,RN,Not Specified
+17948,MS,Resident/Fellow/PA/NP
+17949,RN,Not Specified
+17950,RN,RN
+17951,RO,Read Only
+17952,RO,Read Only
+17953,RN CM,Not Specified
+17954,RN,Not Specified
+17955,RN,Not Specified
+17956,CoWker,Not Specified
+17957,RPHS,Not Specified
+17958,RRT,Not Specified
+17959,RN,Not Specified
+17960,RO,Read Only
+17961,RO,Read Only
+17962,MS,Not Specified
+17963,RO,Read Only
+17964,RN,Not Specified
+17965,NP,Not Specified
+17966,RO,Read Only
+17967,RO,Read Only
+17968,RO,Read Only
+17969,MD,Not Specified
+17970,MD,Not Specified
+17971,RN,RN
+17972,PT,Not Specified
+17973,std,Not Specified
+17974,MD,Resident/Fellow/PA/NP
+17975,RN,RN
+17976,MD,Not Specified
+17977,PCT,PCT/NA
+17978,RO,Read Only
+17979,CoOp S,PCT/NA
+17980,MD,Not Specified
+17981,RO,Read Only
+17982,RN,Not Specified
+17983,DI,Not Specified
+17984,RO,Read Only
+17985,RO,Read Only
+17986,RN,Not Specified
+17987,RO,Read Only
+17988,Res,Resident/Fellow/PA/NP
+17989,RO,Read Only
+17990,Res,Resident/Fellow/PA/NP
+17991,Res,Resident/Fellow/PA/NP
+17992,CM,Case Manager
+17993,RN,RN
+17994,Res,Resident/Fellow/PA/NP
+17995,Res,Resident/Fellow/PA/NP
+17996,Res,Resident/Fellow/PA/NP
+17997,Res,Resident/Fellow/PA/NP
+17998,Res,Resident/Fellow/PA/NP
+17999,RPH,Pharmacist
+18000,MD,Not Specified
+18001,Res,Resident/Fellow/PA/NP
+18002,RO,Read Only
+18003,Res,Resident/Fellow/PA/NP
+18004,RN,RN
+18005,Res,Resident/Fellow/PA/NP
+18006,RN,Not Specified
+18007,RO,Read Only
+18008,RO,Read Only
+18009,MD,Not Specified
+18010,RRT,Read Only
+18011,Md,Read Only
+18012,RN,RN
+18013,Rehab,Rehabilitation
+18014,RN,Not Specified
+18015,RN,RN
+18016,RN,RN
+18017,Res,Resident/Fellow/PA/NP
+18018,Res,Resident/Fellow/PA/NP
+18019,Res,Resident/Fellow/PA/NP
+18020,RD,Dietitian
+18021,Res,Resident/Fellow/PA/NP
+18022,PCT,PCT/NA
+18023,MD,Attending
+18024,RT,Respiratory
+18025,RPH,Pharmacist
+18026,RD,Dietitian
+18027,Res,Resident/Fellow/PA/NP
+18028,RO,Read Only
+18029,Res,Resident/Fellow/PA/NP
+18030,Ph.Stu,Not Specified
+18031,PC,Pastoral Care
+18032,Res,Resident/Fellow/PA/NP
+18033,RO,Read Only
+18034,Res,Resident/Fellow/PA/NP
+18035,Res,Resident/Fellow/PA/NP
+18036,MD,Attending
+18037,RO,Read Only
+18038,RN,Not Specified
+18039,MD,Not Specified
+18040,MD,Not Specified
+18041,RO,Read Only
+18042,Res,Resident/Fellow/PA/NP
+18043,Rehab,Rehabilitation
+18044,Res,Resident/Fellow/PA/NP
+18045,Res,Resident/Fellow/PA/NP
+18046,RPH,Pharmacist
+18047,Rehab,Rehabilitation
+18048,MD,Attending
+18049,RO,Read Only
+18050,RO,Read Only
+18051,RO,Read Only
+18052,MD,Not Specified
+18053,MD,Not Specified
+18054,MD,Not Specified
+18055,RO,Read Only
+18056,MD,Not Specified
+18057,RO,Read Only
+18058,RO,Read Only
+18059,Res,Resident/Fellow/PA/NP
+18060,Res,Resident/Fellow/PA/NP
+18061,Res,Resident/Fellow/PA/NP
+18062,MD,Resident/Fellow/PA/NP
+18063,Coopst,PCT/NA
+18064,RO,Read Only
+18065,MS,Resident/Fellow/PA/NP
+18066,MD,Not Specified
+18067,MedSt,Not Specified
+18068,RO,Read Only
+18069,Res,Resident/Fellow/PA/NP
+18070,CoOpSt,Not Specified
+18071,MD,Not Specified
+18072,RD Int,Not Specified
+18073,RO,Read Only
+18074,MDs,Not Specified
+18075,MD,Not Specified
+18076,RN,RN
+18077,RO,Read Only
+18078,RN,Not Specified
+18079,RN,Not Specified
+18080,RO,Read Only
+18081,RO,Read Only
+18082,MD,Resident/Fellow/PA/NP
+18083,PA,Read Only
+18084,RN,RN
+18085,RO,Read Only
+18086,RO,Read Only
+18087,UC,Not Specified
+18088,Res,Resident/Fellow/PA/NP
+18089,NNP,Not Specified
+18090,PCA,Not Specified
+18091,MD,Read Only
+18092,RO,Read Only
+18093,RTS,Not Specified
+18094,RO,Read Only
+18095,RN,Not Specified
+18096,PC,Read Only
+18097,RA,Read Only
+18098,RO,Read Only
+18099,RO,Read Only
+18100,RO,Read Only
+18101,CoWker,Not Specified
+18102,RN,Not Specified
+18103,RO,Read Only
+18104,DI,Dietitian
+18105,MDs,Resident/Fellow/PA/NP
+18106,MDs,Resident/Fellow/PA/NP
+18107,RO,Read Only
+18108,MD,Not Specified
+18109,RO,Read Only
+18110,RPh,Not Specified
+18111,RO,Read Only
+18112,PCA,Not Specified
+18113,RO,Read Only
+18114,RO,Read Only
+18115,MDs,Resident/Fellow/PA/NP
+18116,RO,Read Only
+18117,RO,Read Only
+18118,RO,Read Only
+18119,MD,Read Only
+18120,MSWint,Not Specified
+18121,RN,RN
+18122,SRT,Not Specified
+18123,CoOp,Pharmacist
+18124,RN,Not Specified
+18125,RN,Read Only
+18126,RN,Not Specified
+18127,ISSupp,Administrator
+18128,MD,Attending
+18129,Res,Resident/Fellow/PA/NP
+18130,Res,Resident/Fellow/PA/NP
+18131,RO,Read Only
+18132,RO,Read Only
+18133,RO,Read Only
+18134,MD,Not Specified
+18135,ISOPS,Administrator
+18136,MD,Not Specified
+18137,PCT,PCT/NA
+18138,Res,Resident/Fellow/PA/NP
+18139,RO,Read Only
+18140,UC,Not Specified
+18141,StNur,Not Specified
+18142,RO,Read Only
+18143,PCT,Not Specified
+18144,RN,RN
+18145,RN,RN
+18146,Res,Resident/Fellow/PA/NP
+18147,RN,RN
+18148,RO,Read Only
+18149,Res,Resident/Fellow/PA/NP
+18150,RN,RN
+18151,Res,Resident/Fellow/PA/NP
+18152,Res,Resident/Fellow/PA/NP
+18153,MedSt,Not Specified
+18154,Res,Resident/Fellow/PA/NP
+18155,Res,Resident/Fellow/PA/NP
+18156,UA,UCO
+18157,Res,Resident/Fellow/PA/NP
+18158,Res,Resident/Fellow/PA/NP
+18159,RD,Dietitian
+18160,Res,Resident/Fellow/PA/NP
+18161,Res,Resident/Fellow/PA/NP
+18162,SRT,Respiratory
+18163,RN,Not Specified
+18164,RRT,Not Specified
+18165,MD,Attending
+18166,SW,Social Worker
+18167,RO,Read Only
+18168,MD,Not Specified
+18169,PCT,PCT/NA
+18170,RN,RN
+18171,RO,Read Only
+18172,RD,Dietitian
+18173,RO,Read Only
+18174,CoWkr,Not Specified
+18175,MD,Read Only
+18176,UA,Not Specified
+18177,PCT,PCT/NA
+18178,Res,Resident/Fellow/PA/NP
+18179,RO,Read Only
+18180,MD,Resident/Fellow/PA/NP
+18181,Res,Resident/Fellow/PA/NP
+18182,MD,Not Specified
+18183,MedStu,Not Specified
+18184,RO,Read Only
+18185,MDs,Not Specified
+18186,MD,Not Specified
+18187,RRT,Not Specified
+18188,CoWker,PCT/NA
+18189,Res,Resident/Fellow/PA/NP
+18190,RRT,Respiratory
+18191,Rehab,Rehabilitation
+18192,RD,Not Specified
+18193,RN,Read Only
+18194,MDs,Read Only
+18195,RO,Read Only
+18196,RPH,Pharmacist
+18197,RN,Not Specified
+18198,R.Ph.,Not Specified
+18199,MTASCP,Not Specified
+18200,RT,Respiratory
+18201,Res,Resident/Fellow/PA/NP
+18202,Res,Resident/Fellow/PA/NP
+18203,Res,Resident/Fellow/PA/NP
+18204,MD,Not Specified
+18205,Res,Resident/Fellow/PA/NP
+18206,Rehab,Rehabilitation
+18207,Res,Resident/Fellow/PA/NP
+18208,Res,Resident/Fellow/PA/NP
+18209,Res,Resident/Fellow/PA/NP
+18210,Res,Resident/Fellow/PA/NP
+18211,RN,RN
+18212,Res,Resident/Fellow/PA/NP
+18213,RO,Read Only
+18214,RD,Dietitian
+18215,RO,Read Only
+18216,Res,Resident/Fellow/PA/NP
+18217,Res,Resident/Fellow/PA/NP
+18218,Rehab,Rehabilitation
+18219,Res,Resident/Fellow/PA/NP
+18220,Not Specified,Not Specified
+18221,Res,Resident/Fellow/PA/NP
+18222,RN,RN
+18223,RN,Not Specified
+18224,RO,Read Only
+18225,CM,Case Manager
+18226,RO,Read Only
+18227,RO,Read Only
+18228,Res,Resident/Fellow/PA/NP
+18229,Res,Resident/Fellow/PA/NP
+18230,Res,Resident/Fellow/PA/NP
+18231,Res,Resident/Fellow/PA/NP
+18232,MD,Not Specified
+18233,RO,Read Only
+18234,RN,RN
+18235,RO,Read Only
+18236,RN,Read Only
+18237,RD,Not Specified
+18238,RRT,Not Specified
+18239,RN,Not Specified
+18240,RN,RN
+18241,RO,Read Only
+18242,RN,Not Specified
+18243,RO,Read Only
+18244,MD,Read Only
+18245,CM,Case Manager
+18246,RN,RN
+18247,RN,Not Specified
+18248,RO,Read Only
+18249,RN,Not Specified
+18250,MD,Not Specified
+18251,RN,Not Specified
+18252,PT,Not Specified
+18253,RN,Not Specified
+18254,MD,Not Specified
+18255,NNP,Not Specified
+18256,CoOpSt,Not Specified
+18257,SNP,Not Specified
+18258,StNurs,Not Specified
+18259,RO,Read Only
+18260,RO,Read Only
+18261,Reside,Read Only
+18262,MDs,Resident/Fellow/PA/NP
+18263,RO,Read Only
+18264,MD,Resident/Fellow/PA/NP
+18265,UCO,Not Specified
+18266,StNuIV,Not Specified
+18267,NS,Not Specified
+18268,MD,Attending
+18269,MDs,Not Specified
+18270,RN,Not Specified
+18271,RO,Read Only
+18272,RN,Not Specified
+18273,RN,Not Specified
+18274,MD,Not Specified
+18275,Res,Resident/Fellow/PA/NP
+18276,MD,Resident/Fellow/PA/NP
+18277,Res,Resident/Fellow/PA/NP
+18278,Res,Resident/Fellow/PA/NP
+18279,MS,Not Specified
+18280,LS,Not Specified
+18281,MDs,Resident/Fellow/PA/NP
+18282,RNStu,Not Specified
+18283,RO,Read Only
+18284,RNCM,Not Specified
+18285,MS,Not Specified
+18286,RN,Not Specified
+18287,PharmD,Not Specified
+18288,RN,Not Specified
+18289,MDs,Resident/Fellow/PA/NP
+18290,CoWker,Not Specified
+18291,PH Stu,Not Specified
+18292,RN,Not Specified
+18293,PT,Rehabilitation
+18294,RO,Read Only
+18295,RN,Not Specified
+18296,RO,Read Only
+18297,CoOPSt,Not Specified
+18298,RO,Read Only
+18299,RO,Read Only
+18300,MD,Not Specified
+18301,RN,RN
+18302,RN,Not Specified
+18303,RO,Read Only
+18304,RO,Read Only
+18305,RN,RN
+18306,RN,Not Specified
+18307,RN,Not Specified
+18308,PA,PCT/NA
+18309,RO,Read Only
+18310,MDs,Read Only
+18311,NP,Not Specified
+18312,RPh,Not Specified
+18313,RO,Read Only
+18314,MD,Not Specified
+18315,MD,Not Specified
+18316,LICSW,Not Specified
+18317,SNNP,Not Specified
+18318,RO,Read Only
+18319,RO,Read Only
+18320,RN,RN
+18321,MD,Not Specified
+18322,RD,Dietitian
+18323,UCO,Not Specified
+18324,Res,Resident/Fellow/PA/NP
+18325,RPH,Pharmacist
+18326,Res,Resident/Fellow/PA/NP
+18327,RN,RN
+18328,RN,RN
+18329,Rehab,Rehabilitation
+18330,Res,Resident/Fellow/PA/NP
+18331,Res,Resident/Fellow/PA/NP
+18332,Res,Resident/Fellow/PA/NP
+18333,Res,Resident/Fellow/PA/NP
+18334,CoWker,Not Specified
+18335,MD,Not Specified
+18336,RO,Read Only
+18337,Res,Resident/Fellow/PA/NP
+18338,Res,Resident/Fellow/PA/NP
+18339,RPH,Pharmacist
+18340,Res,Resident/Fellow/PA/NP
+18341,Res,Resident/Fellow/PA/NP
+18342,NP,Read Only
+18343,RO,Read Only
+18344,Res,Resident/Fellow/PA/NP
+18345,Res,Resident/Fellow/PA/NP
+18346,MS,Not Specified
+18347,PCT,PCT/NA
+18348,MD,Not Specified
+18349,MS,Not Specified
+18350,SW,Social Worker
+18351,RPH,Pharmacist
+18352,Res,Resident/Fellow/PA/NP
+18353,PCT,PCT/NA
+18354,MD,Not Specified
+18355,RO,Read Only
+18356,RN,Not Specified
+18357,RD,Dietitian
+18358,RO,Read Only
+18359,MD,Not Specified
+18360,MD,Not Specified
+18361,RN,Not Specified
+18362,PA,Not Specified
+18363,RO,Read Only
+18364,StNurs,Not Specified
+18365,RN,Not Specified
+18366,RRT,Not Specified
+18367,RN,Resident/Fellow/PA/NP
+18368,RO,Read Only
+18369,RN,RN
+18370,LICSW,Not Specified
+18371,LICSW,Social Worker
+18372,MD,Attending
+18373,CM,Case Manager
+18374,PC,Pastoral Care
+18375,RO,Read Only
+18376,MD,Resident/Fellow/PA/NP
+18377,RO,Read Only
+18378,RO,Read Only
+18379,CoWkr,Not Specified
+18380,MD,Not Specified
+18381,Not Specified,Not Specified
+18382,Res,Resident/Fellow/PA/NP
+18383,Res,Resident/Fellow/PA/NP
+18384,Res,Resident/Fellow/PA/NP
+18385,Res,Resident/Fellow/PA/NP
+18386,RN,RN
+18387,Res,Resident/Fellow/PA/NP
+18388,RTStu,Not Specified
+18389,RN,Not Specified
+18390,RO,Read Only
+18391,RO,Read Only
+18392,MD,Not Specified
+18393,MedSt,Not Specified
+18394,MD,Not Specified
+18395,MD,Not Specified
+18396,MedStu,Not Specified
+18397,Med. S,Not Specified
+18398,RO,Read Only
+18399,MS,Not Specified
+18400,RO,Read Only
+18401,RO,Read Only
+18402,PCA,Not Specified
+18403,RN,RN
+18404,RO,Read Only
+18405,RT,Respiratory
+18406,Res,Resident/Fellow/PA/NP
+18407,MD,Not Specified
+18408,PCT,Not Specified
+18409,MD,Not Specified
+18410,RO,Read Only
+18411,CoWkr,PCT/NA
+18412,RO,Read Only
+18413,MD,Read Only
+18414,Res,Resident/Fellow/PA/NP
+18415,RN,RN
+18416,Res,Resident/Fellow/PA/NP
+18417,RN,RN
+18418,RN,RN
+18419,RO,Read Only
+18420,RO,Read Only
+18421,RO,Read Only
+18422,RN,Not Specified
+18423,RN,Not Specified
+18424,RN,RN
+18425,MDs,Read Only
+18426,SWInt,Not Specified
+18427,UC,Not Specified
+18428,RRT,Respiratory
+18429,RO,Read Only
+18430,RO,Read Only
+18431,RO,Read Only
+18432,RO,Read Only
+18433,RN,Not Specified
+18434,MD,Not Specified
+18435,UCO,Not Specified
+18436,LICSW,Not Specified
+18437,RN,RN
+18438,MD,Resident/Fellow/PA/NP
+18439,RO,Read Only
+18440,Admin,Administrator
+18441,Res,Resident/Fellow/PA/NP
+18442,Res,Resident/Fellow/PA/NP
+18443,RN,RN
+18444,CM,Case Manager
+18445,RN,RN
+18446,RT,Respiratory
+18447,Res,Resident/Fellow/PA/NP
+18448,RN,Not Specified
+18449,Res,Resident/Fellow/PA/NP
+18450,RO,Read Only
+18451,Res,Resident/Fellow/PA/NP
+18452,Res,Resident/Fellow/PA/NP
+18453,Rehab,Rehabilitation
+18454,RO,Read Only
+18455,CM,Case Manager
+18456,RN,RN
+18457,CoWker,Not Specified
+18458,Res,Resident/Fellow/PA/NP
+18459,MS,Not Specified
+18460,MD,Attending
+18461,RN,Not Specified
+18462,RN,RN
+18463,Res,Resident/Fellow/PA/NP
+18464,RN,RN
+18465,UCO,UCO
+18466,MDs,Resident/Fellow/PA/NP
+18467,Res,Resident/Fellow/PA/NP
+18468,SW,Social Worker
+18469,RN,RN
+18470,Res,Resident/Fellow/PA/NP
+18471,IMD,IMD
+18472,RO,Read Only
+18473,MD,Read Only
+18474,SW,Social Worker
+18475,MD,Not Specified
+18476,MD,Attending
+18477,MD,Not Specified
+18478,MD,Attending
+18479,RA,Research Assistant
+18480,MD,Attending
+18481,PC,Pastoral Care
+18482,RO,Read Only
+18483,MDs,Not Specified
+18484,PCT,PCT/NA
+18485,PCA,Not Specified
+18486,MS,Dietitian
+18487,Res,Resident/Fellow/PA/NP
+18488,RN,RN
+18489,Res,Resident/Fellow/PA/NP
+18490,Res,Resident/Fellow/PA/NP
+18491,Res,Resident/Fellow/PA/NP
+18492,MD,Resident/Fellow/PA/NP
+18493,Rehab,Rehabilitation
+18494,RO,Read Only
+18495,Res,Resident/Fellow/PA/NP
+18496,RO,Read Only
+18497,MD,Not Specified
+18498,MD,Resident/Fellow/PA/NP
+18499,RO,Read Only
+18500,RO,Read Only
+18501,MD,Attending
+18502,RRT,Not Specified
+18503,Res,Resident/Fellow/PA/NP
+18504,MDs,Not Specified
+18505,UA,UCO
+18506,Rehab,Rehabilitation
+18507,RN,Not Specified
+18508,RN,RN
+18509,RO,Read Only
+18510,MD,Not Specified
+18511,RO,Read Only
+18512,MD,Not Specified
+18513,RPh,Pharmacist
+18514,MD,Not Specified
+18515,MD,Not Specified
+18516,RO,Read Only
+18517,RO,Read Only
+18518,MedStu,Not Specified
+18519,RO,Read Only
+18520,Res,Resident/Fellow/PA/NP
+18521,PCT,PCT/NA
+18522,RN,RN
+18523,RN,RN
+18524,RN,Not Specified
+18525,RO,Read Only
+18526,Res,Resident/Fellow/PA/NP
+18527,MD,Not Specified
+18528,MD,Resident/Fellow/PA/NP
+18529,MD,Not Specified
+18530,MD,Read Only
+18531,NP,Not Specified
+18532,StNuIV,Read Only
+18533,MD,Not Specified
+18534,RO,Read Only
+18535,MD,Not Specified
+18536,RN,Not Specified
+18537,MDs,Resident/Fellow/PA/NP
+18538,RO,Read Only
+18539,RN,RN
+18540,ISSupp,Not Specified
+18541,RPh,Not Specified
+18542,Rehab,Rehabilitation
+18543,BSMT,Not Specified
+18544,RN,Not Specified
+18545,RN,Not Specified
+18546,MSIV,Not Specified
+18547,PharmD,Pharmacist
+18548,RO,Read Only
+18549,MDs,Read Only
+18550,Not Specified,Not Specified
+18551,RO,Read Only
+18552,RN,Not Specified
+18553,Co-Wk,Not Specified
+18554,rts,Not Specified
+18555,MD,Read Only
+18556,RO,Read Only
+18557,RN,RN
+18558,MD,Not Specified
+18559,RN,Not Specified
+18560,PS,Not Specified
+18561,MedSt,Not Specified
+18562,RO,Read Only
+18563,RO,Read Only
+18564,MSIV,Not Specified
+18565,RN,RN
+18566,RN,RN
+18567,RO,Read Only
+18568,RO,Read Only
+18569,MD,Not Specified
+18570,RO,Read Only
+18571,RO,Read Only
+18572,RN,RN
+18573,RO,Read Only
+18574,RO,Read Only
+18575,RN,Not Specified
+18576,RN,RN
+18577,UC,Not Specified
+18578,RO,Read Only
+18579,RN,RN
+18580,Res,Resident/Fellow/PA/NP
+18581,RN,Not Specified
+18582,RO,Read Only
+18583,RO,Read Only
+18584,PCT,Not Specified
+18585,RN,Not Specified
+18586,UCO,Not Specified
+18587,MD,Not Specified
+18588,MS,Not Specified
+18589,Res,Resident/Fellow/PA/NP
+18590,RO,Read Only
+18591,RO,Read Only
+18592,RN,RN
+18593,MD,Not Specified
+18594,AA,Not Specified
+18595,RPh,Pharmacist
+18596,RO,Read Only
+18597,MD,Not Specified
+18598,RO,Read Only
+18599,MD,Not Specified
+18600,RO,Read Only
+18601,RO,Read Only
+18602,RN,RN
+18603,RPh,Pharmacist
+18604,MD,Not Specified
+18605,RO,Read Only
+18606,RN,RN
+18607,Res,Resident/Fellow/PA/NP
+18608,RO,Read Only
+18609,MD,Not Specified
+18610,NP,Resident/Fellow/PA/NP
+18611,RO,Read Only
+18612,MD,Not Specified
+18613,MD,Not Specified
+18614,MD,Not Specified
+18615,MS,Not Specified
+18616,MD,Not Specified
+18617,MD,Read Only
+18618,RO,Read Only
+18619,MD,Read Only
+18620,RO,Read Only
+18621,MD,Not Specified
+18622,ISOPS,Administrator
+18623,RO,Read Only
+18624,MS,Not Specified
+18625,RO,Read Only
+18626,RRT,Not Specified
+18627,RO,Read Only
+18628,MD,Not Specified
+18629,MD,Read Only
+18630,MD,Not Specified
+18631,MD,Not Specified
+18632,PCT,PCT/NA
+18633,MD,Attending
+18634,Res,Resident/Fellow/PA/NP
+18635,Res,Resident/Fellow/PA/NP
+18636,SRT,Not Specified
+18637,MD,Not Specified
+18638,RRT,Not Specified
+18639,RN,Not Specified
+18640,RO,Read Only
+18641,Res,Resident/Fellow/PA/NP
+18642,RO,Read Only
+18643,RO,Read Only
+18644,RO,Read Only
+18645,RRT,Not Specified
+18646,RPH,Pharmacist
+18647,Res,Resident/Fellow/PA/NP
+18648,RO,Read Only
+18649,MD,Resident/Fellow/PA/NP
+18650,NStude,Not Specified
+18651,RN,Not Specified
+18652,MD,Read Only
+18653,RN,Not Specified
+18654,RN,RN
+18655,RN,Not Specified
+18656,MD,Read Only
+18657,9596,Resident/Fellow/PA/NP
+18658,Res,Resident/Fellow/PA/NP
+18659,MDs,Resident/Fellow/PA/NP
+18660,MD,Not Specified
+18661,RT,Respiratory
+18662,Isops,Read Only
+18663,RPh,Pharmacist
+18664,RO,Read Only
+18665,CRT,Not Specified
+18666,Res,Resident/Fellow/PA/NP
+18667,RT,Respiratory
+18668,Admin,Administrator
+18669,Res,Resident/Fellow/PA/NP
+18670,RRT,Not Specified
+18671,RO,Read Only
+18672,RO,Read Only
+18673,RN,Not Specified
+18674,MD,Not Specified
+18675,RN,RN
+18676,RN,Not Specified
+18677,PT,Not Specified
+18678,MD,Not Specified
+18679,RN,RN
+18680,RO,Read Only
+18681,RO,Read Only
+18682,RO,Read Only
+18683,RO,Read Only
+18684,RN,Not Specified
+18685,RN,Not Specified
+18686,PCT,PCT/NA
+18687,RO,Read Only
+18688,RO,Read Only
+18689,MD,Not Specified
+18690,MDs,Read Only
+18691,MD,Not Specified
+18692,RN,Not Specified
+18693,SRT,Respiratory
+18694,MDs,Resident/Fellow/PA/NP
+18695,RN,RN
+18696,RO,Read Only
+18697,MD,Resident/Fellow/PA/NP
+18698,RO,Read Only
+18699,St,Not Specified
+18700,NP,Read Only
+18701,RN,Not Specified
+18702,RO,Read Only
+18703,RO,Read Only
+18704,PA,Not Specified
+18705,RRT,Read Only
+18706,NNP,Not Specified
+18707,MD,Not Specified
+18708,NP,Not Specified
+18709,RN,Not Specified
+18710,RO,Read Only
+18711,RN,Not Specified
+18712,RN,Not Specified
+18713,ISSupp,Administrator
+18714,MD,Not Specified
+18715,RN,Not Specified
+18716,RO,Read Only
+18717,MD,Not Specified
+18718,RO,Read Only
+18719,RO,Read Only
+18720,RN,Not Specified
+18721,RN,Not Specified
+18722,RRT,Respiratory
+18723,RN,Not Specified
+18724,MD,Not Specified
+18725,RRT,Respiratory
+18726,RO,Read Only
+18727,RO,Read Only
+18728,Rehab,Rehabilitation
+18729,Res,Resident/Fellow/PA/NP
+18730,RN,RN
+18731,Rehab,Rehabilitation
+18732,RN,RN
+18733,PCA,Not Specified
+18734,RRT,Not Specified
+18735,Res,Resident/Fellow/PA/NP
+18736,RO,Read Only
+18737,MD,Not Specified
+18738,MD,Not Specified
+18739,RO,Read Only
+18740,RN,RN
+18741,Res,Resident/Fellow/PA/NP
+18742,MD,Resident/Fellow/PA/NP
+18743,Res,Resident/Fellow/PA/NP
+18744,Res,Resident/Fellow/PA/NP
+18745,MD,Read Only
+18746,MD,Not Specified
+18747,RO,Read Only
+18748,MD,Not Specified
+18749,MD,Not Specified
+18750,MD,Not Specified
+18751,MD,Not Specified
+18752,MD,Not Specified
+18753,MD,Not Specified
+18754,RO,Read Only
+18755,RN,Not Specified
+18756,Med St,Not Specified
+18757,MS,Not Specified
+18758,MD,Resident/Fellow/PA/NP
+18759,RO,Read Only
+18760,MD,Resident/Fellow/PA/NP
+18761,RO,Read Only
+18762,MDs,Resident/Fellow/PA/NP
+18763,MDs,Resident/Fellow/PA/NP
+18764,MDs,Not Specified
+18765,MD,Not Specified
+18766,RO,Read Only
+18767,MDs,Resident/Fellow/PA/NP
+18768,RO,Read Only
+18769,MD,Not Specified
+18770,RO,Read Only
+18771,RES,Not Specified
+18772,MD,Resident/Fellow/PA/NP
+18773,RO,Read Only
+18774,MD,Resident/Fellow/PA/NP
+18775,MDs,Resident/Fellow/PA/NP
+18776,RO,Read Only
+18777,RN,RN
+18778,PCT,PCT/NA
+18779,MDs,Resident/Fellow/PA/NP
+18780,PA,Resident/Fellow/PA/NP
+18781,RO,Read Only
+18782,MD,Not Specified
+18783,RN,Not Specified
+18784,RN,RN
+18785,RN,Not Specified
+18786,LICSW,Social Worker
+18787,RN,RN
+18788,RN,Read Only
+18789,RN,Not Specified
+18790,MD,Not Specified
+18791,RN,Not Specified
+18792,RN,RN
+18793,RN,RN
+18794,RO,Read Only
+18795,RT,Respiratory
+18796,RN,Not Specified
+18798,MD,Not Specified
+18799,RO,Read Only
+18800,RN,Not Specified
+18801,RN,Not Specified
+18802,Res,Resident/Fellow/PA/NP
+18803,MS,Not Specified
+18804,Rn,RN
+18805,Rehab,Rehabilitation
+18806,RO,Read Only
+18807,CoWker,Not Specified
+18808,Res,Resident/Fellow/PA/NP
+18809,CM,Case Manager
+18810,RN,RN
+18811,CM,Case Manager
+18812,SW,Social Worker
+18814,Res,Resident/Fellow/PA/NP
+18815,PC,Pastoral Care
+18816,Res,Resident/Fellow/PA/NP
+18817,RO,Read Only
+18818,Res,Resident/Fellow/PA/NP
+18819,MD,Attending
+18820,RN,RN
+18821,PCT,PCT/NA
+18822,PCT,PCT/NA
+18823,Rehab,Rehabilitation
+18824,RN,RN
+18825,RN,RN
+18826,SW,Social Worker
+18827,Rehab,Rehabilitation
+18828,Res,Resident/Fellow/PA/NP
+18829,Res,Resident/Fellow/PA/NP
+18830,Rehab,Rehabilitation
+18831,CM,Case Manager
+18832,Res,Resident/Fellow/PA/NP
+18833,RO,Read Only
+18834,RO,Read Only
+18835,RN,RN
+18836,Rehab,Rehabilitation
+18837,PCT,PCT/NA
+18838,SNNP,Not Specified
+18839,RO,Read Only
+18840,CM,Case Manager
+18841,RPH,Pharmacist
+18842,RN,RN
+18843,RT,Respiratory
+18844,Rehab,Rehabilitation
+18845,Res,Resident/Fellow/PA/NP
+18846,RN,RN
+18847,Res,Resident/Fellow/PA/NP
+18848,Res,Resident/Fellow/PA/NP
+18849,Res,Resident/Fellow/PA/NP
+18850,RN,Not Specified
+18851,RA,Read Only
+18852,SN,Not Specified
+18853,RO,Read Only
+18854,RO,Read Only
+18855,RN,RN
+18856,RN,Not Specified
+18857,Res,Resident/Fellow/PA/NP
+18858,Not Specified,Not Specified
+18859,Res,Resident/Fellow/PA/NP
+18860,RN,RN
+18861,RN,RN
+18862,MD,Not Specified
+18863,Res,Resident/Fellow/PA/NP
+18864,RO,Read Only
+18865,MDs,Resident/Fellow/PA/NP
+18866,RN,Read Only
+18867,RO,Read Only
+18868,MD,Not Specified
+18869,RN,Not Specified
+18870,RO,Read Only
+18871,Studen,Not Specified
+18872,RO,Read Only
+18873,RN,RN
+18874,MDs,Read Only
+18875,RN,Not Specified
+18876,MD,Not Specified
+18877,RO,Read Only
+18878,MDs,Resident/Fellow/PA/NP
+18879,RO,Read Only
+18880,RN,Not Specified
+18881,mcd,Not Specified
+18882,MS,Not Specified
+18883,RN,Not Specified
+18884,RO,Read Only
+18885,RO,Read Only
+18886,SN,Not Specified
+18887,RN,RN
+18888,Nur-St,Not Specified
+18889,MD,Read Only
+18890,RO,Read Only
+18891,MD,Attending
+18892,Res,Resident/Fellow/PA/NP
+18893,RO,Read Only
+18894,RA,Research Assistant
+18895,Res,Resident/Fellow/PA/NP
+18896,Res,Resident/Fellow/PA/NP
+18897,RO,Read Only
+18898,MD,Attending
+18899,Res,Resident/Fellow/PA/NP
+18900,Res,Resident/Fellow/PA/NP
+18901,RN,RN
+18902,RN,Not Specified
+18903,MD,Not Specified
+18904,MDs,Not Specified
+18905,RO,Read Only
+18906,MD,Resident/Fellow/PA/NP
+18907,MD,Not Specified
+18908,RN Stu,Not Specified
+18909,MD,Not Specified
+18910,RO,Read Only
+18911,MDS,Resident/Fellow/PA/NP
+18912,RO,Read Only
+18913,MD,Not Specified
+18914,RO,Read Only
+18915,RO,Read Only
+18916,DI,Dietitian
+18917,MDs,Attending
+18918,RN,Not Specified
+18919,Res,Resident/Fellow/PA/NP
+18920,RN,Not Specified
+18921,RO,Read Only
+18922,RO,Read Only
+18923,Co-wor,PCT/NA
+18924,RO,Read Only
+18925,RD Int,Not Specified
+18926,RN,Not Specified
+18927,RPh,Pharmacist
+18928,RN,RN
+18929,RN,Not Specified
+18930,RN,Not Specified
+18931,UA,Read Only
+18932,PhStud,Not Specified
+18933,RO,Read Only
+18934,RO,Read Only
+18935,MD,Not Specified
+18936,MD,Not Specified
+18937,RN,Not Specified
+18938,CoOPSt,Not Specified
+18939,PCT,PCT/NA
+18940,RN,Not Specified
+18941,RN,RN
+18942,MD,Read Only
+18943,MDs,Resident/Fellow/PA/NP
+18944,SW Int,Not Specified
+18945,RN,Not Specified
+18946,MS,Resident/Fellow/PA/NP
+18947,RNStu,Not Specified
+18948,RO,Read Only
+18949,RO,Read Only
+18950,RRT,Respiratory
+18951,MD,Resident/Fellow/PA/NP
+18952,MD,Not Specified
+18953,RO,Read Only
+18954,RN,RN
+18955,RN,Not Specified
+18956,Res,Resident/Fellow/PA/NP
+18957,PCT,PCT/NA
+18958,MedSt,Not Specified
+18959,RN,RN
+18960,Res,Resident/Fellow/PA/NP
+18961,Res,Resident/Fellow/PA/NP
+18962,RO,Read Only
+18963,MD,Not Specified
+18964,Res,Resident/Fellow/PA/NP
+18965,RN,Not Specified
+18966,CoOpSt,Not Specified
+18967,RO,Read Only
+18968,MD,Resident/Fellow/PA/NP
+18969,RPh,Not Specified
+18970,RPh,Not Specified
+18971,Res,Resident/Fellow/PA/NP
+18972,SW,Social Worker
+18973,CM,Case Manager
+18974,RPH,Pharmacist
+18975,Res,Resident/Fellow/PA/NP
+18976,RPH,Pharmacist
+18977,Res,Resident/Fellow/PA/NP
+18978,Res,Resident/Fellow/PA/NP
+18979,MSIV,Not Specified
+18980,MD,Not Specified
+18981,MD,Not Specified
+18982,MD,Not Specified
+18983,RO,Read Only
+18984,RO,Read Only
+18985,MDs,Read Only
+18986,MD,Resident/Fellow/PA/NP
+18987,MD,Not Specified
+18988,MD,Not Specified
+18989,MD,Resident/Fellow/PA/NP
+18990,MD,Not Specified
+18991,MD,Attending
+18992,RO,Read Only
+18993,MD,Read Only
+18994,RTStu,Not Specified
+18995,RTStu,Not Specified
+18996,MD,Resident/Fellow/PA/NP
+18997,RN,Not Specified
+18998,RO,Read Only
+18999,RRT,Respiratory
+19000,MD,Resident/Fellow/PA/NP
+19001,RO,Read Only
+19002,STD,Not Specified
+19003,MD,Not Specified
+19004,RPh,Not Specified
+19005,MS,Not Specified
+19006,MD,Attending
+19007,RO,Read Only
+19008,RO,Read Only
+19009,MS,Not Specified
+19010,MD,Not Specified
+19011,RO,Read Only
+19012,MS,Not Specified
+19013,RO,Read Only
+19014,RN,RN
+19015,MedStu,Not Specified
+19016,MD,Read Only
+19017,RO,Read Only
+19018,RO,Read Only
+19019,RO,Read Only
+19020,MD,Not Specified
+19021,MD,Not Specified
+19022,RO,Read Only
+19023,MD,Resident/Fellow/PA/NP
+19024,RO,Read Only
+19025,MD,Resident/Fellow/PA/NP
+19026,UCO,Not Specified
+19027,MD,Not Specified
+19028,RO,Read Only
+19029,Stu,Not Specified
+19030,MD,Not Specified
+19031,MD,Not Specified
+19032,MedStu,PCT/NA
+19033,RO,Read Only
+19034,MD,Not Specified
+19035,MD,Attending
+19036,MD,Not Specified
+19037,MD,Not Specified
+19038,MDs,Resident/Fellow/PA/NP
+19039,RO,Read Only
+19040,RO,Read Only
+19041,RO,Read Only
+19042,MD,Not Specified
+19043,RO,Read Only
+19044,MD,Not Specified
+19045,RPh,Not Specified
+19046,MD,Not Specified
+19047,RN,Not Specified
+19048,NP,Not Specified
+19049,RN,Not Specified
+19050,RN,RN
+19051,NP,Not Specified
+19052,PA-C,Not Specified
+19053,RPh,Not Specified
+19054,RO,Read Only
+19055,RO,Read Only
+19056,RN,RN
+19057,MDs,Not Specified
+19058,MS,Not Specified
+19059,CoWker,Not Specified
+19060,RN,Not Specified
+19061,RO,Read Only
+19062,RN,RN
+19063,RN,RN
+19064,MDs,Resident/Fellow/PA/NP
+19065,RN,Not Specified
+19066,NP,Not Specified
+19067,RN,Not Specified
+19068,SNNP,Not Specified
+19069,CoWork,Not Specified
+19070,PCA,Not Specified
+19071,RN,Not Specified
+19072,PCA,Not Specified
+19073,RO,Read Only
+19074,RO,Read Only
+19075,MD,Read Only
+19076,RO,Read Only
+19077,MD,Not Specified
+19078,RN,Not Specified
+19079,RN,RN
+19080,RO,Read Only
+19081,RO,Read Only
+19082,RO,Read Only
+19083,PCT,PCT/NA
+19084,RO,Read Only
+19085,RN,RN
+19086,RO,Read Only
+19087,RN,Not Specified
+19088,RO,Read Only
+19089,RN,Not Specified
+19090,RN,Not Specified
+19091,RN,Not Specified
+19092,Res,Resident/Fellow/PA/NP
+19093,Res,Resident/Fellow/PA/NP
+19094,Res,Resident/Fellow/PA/NP
+19095,MD,Not Specified
+19096,MD,Not Specified
+19097,RO,Read Only
+19098,Res,Resident/Fellow/PA/NP
+19099,MDs,Resident/Fellow/PA/NP
+19100,Res,Resident/Fellow/PA/NP
+19101,RRT,Respiratory
+19102,RRTs,Not Specified
+19103,RPH,Not Specified
+19104,RO,Read Only
+19105,UCO,UCO
+19106,MD,Not Specified
+19107,RN,RN
+19108,Rehab,Rehabilitation
+19109,RO,Read Only
+19110,MD,Resident/Fellow/PA/NP
+19111,Res,Resident/Fellow/PA/NP
+19112,RO,Read Only
+19113,RO,Read Only
+19114,Rehab,Rehabilitation
+19115,MD,Not Specified
+19116,RN,Not Specified
+19117,RO,Read Only
+19118,RN,Not Specified
+19119,Res,Resident/Fellow/PA/NP
+19120,RO,Read Only
+19121,RN,Not Specified
+19122,MD,Not Specified
+19123,UCO,UCO
+19124,Res,Resident/Fellow/PA/NP
+19125,MD,Not Specified
+19126,CM,Case Manager
+19127,Res,Resident/Fellow/PA/NP
+19128,RO,Read Only
+19129,RO,Read Only
+19130,Res,Resident/Fellow/PA/NP
+19131,MD,Attending
+19132,MD,Read Only
+19133,Res,Resident/Fellow/PA/NP
+19134,RO,Read Only
+19135,MS,Not Specified
+19136,RO,Read Only
+19137,RN,Not Specified
+19138,RO,Read Only
+19139,RD,Dietitian
+19140,RO,Read Only
+19141,RN,RN
+19142,CoWker,Not Specified
+19143,MD,Not Specified
+19144,RO,Read Only
+19145,Res,Resident/Fellow/PA/NP
+19146,RN,RN
+19147,MD,Not Specified
+19148,PS,Not Specified
+19149,PCA,Not Specified
+19150,RN,Not Specified
+19151,MD,Not Specified
+19152,RN,RN
+19153,CoWkr,PCT/NA
+19154,MD,Not Specified
+19155,SNP,Not Specified
+19156,NP,Resident/Fellow/PA/NP
+19157,NNP,Not Specified
+19158,MD,Read Only
+19159,Res,Resident/Fellow/PA/NP
+19160,Res,Resident/Fellow/PA/NP
+19161,Res,Resident/Fellow/PA/NP
+19162,RO,Read Only
+19163,UCO,UCO
+19164,Rehab,Rehabilitation
+19165,Res,Resident/Fellow/PA/NP
+19166,Res,Resident/Fellow/PA/NP
+19167,RPH,Pharmacist
+19168,Res,Resident/Fellow/PA/NP
+19169,RN,RN
+19170,RO,Read Only
+19171,MD,Attending
+19172,Res,Resident/Fellow/PA/NP
+19173,RO,Read Only
+19174,RN,RN
+19175,Res,Resident/Fellow/PA/NP
+19176,RO,Read Only
+19177,Not Specified,Not Specified
+19178,MD,Resident/Fellow/PA/NP
+19179,StuRN,Not Specified
+19180,Res,Resident/Fellow/PA/NP
+19181,CM,Case Manager
+19182,Res,Resident/Fellow/PA/NP
+19183,Res,Resident/Fellow/PA/NP
+19184,Res,Resident/Fellow/PA/NP
+19185,Res,Resident/Fellow/PA/NP
+19186,Res,Resident/Fellow/PA/NP
+19187,RN,RN
+19188,Res,Resident/Fellow/PA/NP
+19189,Res,Resident/Fellow/PA/NP
+19190,Res,Resident/Fellow/PA/NP
+19191,Res,Resident/Fellow/PA/NP
+19192,MD,Attending
+19193,Res,Resident/Fellow/PA/NP
+19194,Res,Resident/Fellow/PA/NP
+19195,MD,Attending
+19196,Rehab,Rehabilitation
+19197,Res,Resident/Fellow/PA/NP
+19198,Res,Resident/Fellow/PA/NP
+19199,MD,Not Specified
+19200,Res,Resident/Fellow/PA/NP
+19201,RT,Respiratory
+19202,Res,Resident/Fellow/PA/NP
+19203,Res,Resident/Fellow/PA/NP
+19204,Res,Resident/Fellow/PA/NP
+19205,Res,Resident/Fellow/PA/NP
+19206,RN,RN
+19207,MD,Attending
+19208,Res,Resident/Fellow/PA/NP
+19209,Res,Not Specified
+19210,RO,Read Only
+19211,MD,Read Only
+19212,Res,Resident/Fellow/PA/NP
+19213,SW,Social Worker
+19214,RT,Respiratory
+19215,MD,Attending
+19216,Res,Resident/Fellow/PA/NP
+19217,RO,Read Only
+19218,Res,Resident/Fellow/PA/NP
+19219,Res,Resident/Fellow/PA/NP
+19220,RN,RN
+19221,RN,RN
+19222,RT,Respiratory
+19223,RD,Dietitian
+19224,CM,Case Manager
+19225,RD,Dietitian
+19226,RN,RN
+19227,RN,RN
+19228,MD,Not Specified
+19229,Res,Resident/Fellow/PA/NP
+19230,RO,Read Only
+19231,RO,Read Only
+19232,SW,Social Worker
+19233,SW,Social Worker
+19234,RPh,Not Specified
+19235,RN,Not Specified
+19236,MD,Not Specified
+19237,MD,Not Specified
+19238,Res,Resident/Fellow/PA/NP
+19239,RO,Read Only
+19240,MD,Read Only
+19241,UC,UCO
+19242,PCT,PCT/NA
+19243,Res,Resident/Fellow/PA/NP
+19244,RO,Read Only
+19245,RO,Read Only
+19246,MedStu,Not Specified
+19247,MD,Attending
+19248,MD,Attending
+19249,RO,Read Only
+19250,RT,Respiratory
+19251,Res,Resident/Fellow/PA/NP
+19252,Res,Resident/Fellow/PA/NP
+19253,RO,Read Only
+19254,RO,Read Only
+19255,RN,Not Specified
+19256,RN,Not Specified
+19257,RO,Read Only
+19258,MD,Not Specified
+19259,RN,Not Specified
+19260,RO,Read Only
+19261,STN,Not Specified
+19262,UC,UCO
+19263,RN,RN
+19264,RHP,Not Specified
+19265,RO,Read Only
+19266,RO,Read Only
+19267,RO,Read Only
+19268,RO,Read Only
+19269,RO,Read Only
+19270,RO,Read Only
+19271,RN,Read Only
+19272,RO,Read Only
+19273,RO,Read Only
+19274,RRT,Not Specified
+19275,RN,Not Specified
+19276,RO,Read Only
+19277,Res,Resident/Fellow/PA/NP
+19278,Res,Resident/Fellow/PA/NP
+19279,RN,RN
+19280,RN,Resident/Fellow/PA/NP
+19281,RPH,Pharmacist
+19282,Res,Resident/Fellow/PA/NP
+19283,MD,Not Specified
+19284,Rehab,Rehabilitation
+19285,RT,Respiratory
+19286,Res,Resident/Fellow/PA/NP
+19287,RRT,Read Only
+19288,RO,Read Only
+19289,RO,Read Only
+19290,RN,Not Specified
+19291,RO,Read Only
+19292,MDs,Resident/Fellow/PA/NP
+19293,MD,Not Specified
+19294,RO,Read Only
+19295,RN,RN
+19296,RN,Not Specified
+19297,RO,Read Only
+19298,RO,Read Only
+19299,PharmD,Pharmacist
+19300,RN,Not Specified
+19301,Res,Resident/Fellow/PA/NP
+19302,MD,Not Specified
+19303,MDS,Resident/Fellow/PA/NP
+19304,Stu,Not Specified
+19305,MD,Attending
+19306,MD,Not Specified
+19307,RO,Read Only
+19308,Res,Resident/Fellow/PA/NP
+19309,Res,Resident/Fellow/PA/NP
+19310,MD,Not Specified
+19311,RO,Read Only
+19312,RN,Not Specified
+19313,MedSt,Not Specified
+19314,RN,RN
+19315,RA,Research Assistant
+19316,RO,Read Only
+19317,MD,Resident/Fellow/PA/NP
+19318,RO,Read Only
+19319,MD,Not Specified
+19320,MD,Not Specified
+19321,RO,Read Only
+19322,MDs,Resident/Fellow/PA/NP
+19323,RO,Read Only
+19324,RO,Read Only
+19325,RN,RN
+19326,RN,RN
+19327,CM,Case Manager
+19328,RN,Not Specified
+19329,Res,Resident/Fellow/PA/NP
+19330,RN,Not Specified
+19331,Res,Resident/Fellow/PA/NP
+19332,Rehab,Rehabilitation
+19333,Reside,Not Specified
+19334,Res,Resident/Fellow/PA/NP
+19335,RN,RN
+19336,RO,Read Only
+19337,RO,Read Only
+19338,Res,Resident/Fellow/PA/NP
+19339,Rehab,Rehabilitation
+19340,MD,Not Specified
+19341,Admin,Administrator
+19342,Not Specified,Not Specified
+19343,Res,Resident/Fellow/PA/NP
+19344,Res,Resident/Fellow/PA/NP
+19345,Res,Resident/Fellow/PA/NP
+19346,MD,Not Specified
+19347,MDs,Resident/Fellow/PA/NP
+19348,RN,RN
+19349,RO,Read Only
+19350,RO,Read Only
+19351,St,Not Specified
+19352,RO,Read Only
+19353,MD,Not Specified
+19354,MD,Not Specified
+19355,MD,Not Specified
+19356,RO,Read Only
+19357,RO,Read Only
+19358,MD,Read Only
+19359,MD,Attending
+19360,RO,Read Only
+19361,MD,Not Specified
+19362,RO,Read Only
+19363,MD,Not Specified
+19364,RN,Not Specified
+19365,Res,Resident/Fellow/PA/NP
+19366,Res,Resident/Fellow/PA/NP
+19367,Res,Resident/Fellow/PA/NP
+19368,MD,Not Specified
+19369,PCT,Not Specified
+19370,RO,Read Only
+19371,RN,Not Specified
+19372,RO,Read Only
+19373,DI,Dietitian
+19374,RN,RN
+19375,RO,Read Only
+19376,RN,Not Specified
+19377,PhStud,Not Specified
+19378,Coordi,Read Only
+19379,MS,Not Specified
+19380,RO,Read Only
+19381,DI,Not Specified
+19382,RN,RN
+19383,RO,Read Only
+19384,RO,Read Only
+19385,RO,Read Only
+19386,MSIV,Not Specified
+19387,RO,Read Only
+19388,RO,Read Only
+19389,MD,Not Specified
+19390,RD,Not Specified
+19391,MS,RD,Not Specified
+19392,Rehab,Rehabilitation
+19393,Res,Resident/Fellow/PA/NP
+19394,Res,Resident/Fellow/PA/NP
+19395,RO,Read Only
+19396,Res,Resident/Fellow/PA/NP
+19397,MDs,Not Specified
+19398,RA,Research Assistant
+19399,Res,Resident/Fellow/PA/NP
+19400,Res,Resident/Fellow/PA/NP
+19401,Rehab,Rehabilitation
+19402,RO,Read Only
+19403,MD,Not Specified
+19404,RO,Read Only
+19405,RO,Read Only
+19406,RO,Read Only
+19407,MD,Not Specified
+19408,RO,Read Only
+19409,MS,Not Specified
+19410,MD,Not Specified
+19411,LICSW,Read Only
+19412,RRT,Read Only
+19413,RN,Not Specified
+19414,MD,Not Specified
+19415,OTR/L,Not Specified
+19416,MD,Not Specified
+19417,MD,Not Specified
+19418,MD,Not Specified
+19419,MD,Not Specified
+19420,MS,Resident/Fellow/PA/NP
+19421,RN,Not Specified
+19422,MD,Resident/Fellow/PA/NP
+19423,RO,Read Only
+19424,RO,Read Only
+19425,MD,Not Specified
+19426,MD,Not Specified
+19427,MD,Attending
+19428,MD,Not Specified
+19429,RN,Not Specified
+19430,RTS,Not Specified
+19431,LICSW,Social Worker
+19432,MD,Resident/Fellow/PA/NP
+19433,Res,Resident/Fellow/PA/NP
+19434,ISCS,Not Specified
+19435,MD,Not Specified
+19436,RO,Read Only
+19437,RPH,Pharmacist
+19438,RO,Read Only
+19439,RO,Read Only
+19440,Res,Resident/Fellow/PA/NP
+19441,Res,Resident/Fellow/PA/NP
+19442,RT,Respiratory
+19443,Res,Resident/Fellow/PA/NP
+19444,RO,Read Only
+19445,Res,Resident/Fellow/PA/NP
+19446,RT,Respiratory
+19447,MD,Read Only
+19448,RN,RN
+19449,MD,Attending
+19450,Res,Resident/Fellow/PA/NP
+19451,RN,Not Specified
+19452,Res,Resident/Fellow/PA/NP
+19453,Res,Resident/Fellow/PA/NP
+19454,MD,Attending
+19455,RN,RN
+19456,RN,RN
+19457,Res,Resident/Fellow/PA/NP
+19458,Res,Resident/Fellow/PA/NP
+19459,RD,Dietitian
+19460,RN,RN
+19461,RPH,Pharmacist
+19462,PCT,PCT/NA
+19463,RN,RN
+19464,Rehab,Rehabilitation
+19465,RRTs,Not Specified
+19466,Res,Resident/Fellow/PA/NP
+19467,MD,Attending
+19468,MDs,Not Specified
+19469,PC,Pastoral Care
+19470,Res,Resident/Fellow/PA/NP
+19471,Res,Resident/Fellow/PA/NP
+19472,Res,Resident/Fellow/PA/NP
+19473,Res,Resident/Fellow/PA/NP
+19474,MD,Not Specified
+19475,MD,Not Specified
+19476,Res,Resident/Fellow/PA/NP
+19477,RO,Read Only
+19478,MDs,Read Only
+19479,MS,Not Specified
+19480,RO,Read Only
+19481,RD,Dietitian
+19482,RO,Read Only
+19483,MD,Read Only
+19484,RO,Read Only
+19485,MD,Not Specified
+19486,MD,Read Only
+19487,Res,Resident/Fellow/PA/NP
+19488,RO,Read Only
+19489,MD,Not Specified
+19490,RO,Read Only
+19491,MedStu,Not Specified
+19492,MDs,Read Only
+19493,RO,Read Only
+19494,Rehab,Rehabilitation
+19495,RT,Respiratory
+19496,RT,Respiratory
+19497,RO,Read Only
+19498,RO,Read Only
+19499,Res,Resident/Fellow/PA/NP
+19500,DietIn,Not Specified
+19501,SW,Social Worker
+19502,UCO,UCO
+19503,Res,Resident/Fellow/PA/NP
+19504,MD,Not Specified
+19505,RO,Read Only
+19506,CM,Case Manager
+19507,Res,Resident/Fellow/PA/NP
+19508,Res,Resident/Fellow/PA/NP
+19509,MS,Not Specified
+19510,RT,Respiratory
+19511,MD,Not Specified
+19512,Res,Not Specified
+19513,Rehab,Rehabilitation
+19514,Rehab,Rehabilitation
+19515,RO,Read Only
+19516,MedSt,Not Specified
+19517,Rehab,Rehabilitation
+19518,Res,Resident/Fellow/PA/NP
+19519,Res,Resident/Fellow/PA/NP
+19520,MS,Not Specified
+19521,SW,Social Worker
+19522,PCT,PCT/NA
+19523,PCT,PCT/NA
+19524,MD,Not Specified
+19525,RN,RN
+19526,RO,Read Only
+19527,PrADM,Not Specified
+19528,RN,Not Specified
+19529,RO,Read Only
+19530,LICSW,Not Specified
+19531,PA-C,Read Only
+19532,RN,Not Specified
+19533,Ph.Stu,Not Specified
+19534,RNCM,Not Specified
+19535,Res,Resident/Fellow/PA/NP
+19536,RO,Read Only
+19537,MD,Not Specified
+19538,MD,Not Specified
+19539,RPH,Pharmacist
+19540,Res,Resident/Fellow/PA/NP
+19541,MD,Not Specified
+19542,Res,Resident/Fellow/PA/NP
+19543,RN,RN
+19544,SW,Social Worker
+19545,Res,Resident/Fellow/PA/NP
+19546,Not Specified,Not Specified
+19547,MD,Attending
+19548,RO,Read Only
+19549,Rehab,Rehabilitation
+19550,Res,Resident/Fellow/PA/NP
+19551,RO,Read Only
+19552,MD,Attending
+19553,Res,Resident/Fellow/PA/NP
+19554,RN,RN
+19555,Res,Resident/Fellow/PA/NP
+19556,Res,Resident/Fellow/PA/NP
+19557,Res,Resident/Fellow/PA/NP
+19558,Res,Resident/Fellow/PA/NP
+19559,Res,Resident/Fellow/PA/NP
+19560,SW,Social Worker
+19561,RN,RN
+19562,RN,RN
+19563,MedStu,Not Specified
+19564,Rehab,Rehabilitation
+19565,Res,Resident/Fellow/PA/NP
+19566,Res,Resident/Fellow/PA/NP
+19567,MD,Not Specified
+19568,StPh,Not Specified
+19569,Rehab,Rehabilitation
+19570,RO,Read Only
+19571,Res,Resident/Fellow/PA/NP
+19572,RD,Not Specified
+19573,Res,Resident/Fellow/PA/NP
+19574,Res,Resident/Fellow/PA/NP
+19575,RO,Read Only
+19576,Res,Resident/Fellow/PA/NP
+19577,Res,Resident/Fellow/PA/NP
+19578,Res,Resident/Fellow/PA/NP
+19579,Res,Resident/Fellow/PA/NP
+19580,Res,Resident/Fellow/PA/NP
+19581,Rehab,Rehabilitation
+19582,Res,Resident/Fellow/PA/NP
+19583,HMS,Not Specified
+19584,RN,Not Specified
+19585,RRT,Not Specified
+19586,RO,Read Only
+19587,RN,UCO
+19588,RN,Not Specified
+19589,RN,RN
+19590,RO,Read Only
+19591,NNP,Not Specified
+19592,RO,Read Only
+19593,RN,RN
+19594,MS,Not Specified
+19595,RN,Not Specified
+19596,RN,RN
+19597,STD,Not Specified
+19598,UCO,Not Specified
+19599,RNC,Read Only
+19600,CoWkr,Not Specified
+19601,RO,Read Only
+19602,MD,Attending
+19603,RN,Not Specified
+19604,RN,Not Specified
+19605,RN,Read Only
+19606,MD,Not Specified
+19607,RO,Read Only
+19608,RO,Read Only
+19609,CoWker,Not Specified
+19610,RN,RN
+19611,RN,RN
+19612,RN,Not Specified
+19613,RN,RN
+19614,RN,Not Specified
+19615,RO,Read Only
+19616,RO,Read Only
+19617,MD,Resident/Fellow/PA/NP
+19618,MD,Not Specified
+19619,MedSt,Not Specified
+19620,MD,Not Specified
+19621,MD,Resident/Fellow/PA/NP
+19622,MD,Not Specified
+19623,RO,Read Only
+19624,PT,Not Specified
+19625,MD,Resident/Fellow/PA/NP
+19626,MD,Not Specified
+19627,Res,Resident/Fellow/PA/NP
+19628,RD,Not Specified
+19629,Res,Resident/Fellow/PA/NP
+19630,RD,Dietitian
+19631,Res,Resident/Fellow/PA/NP
+19632,DI,Not Specified
+19633,MD,Not Specified
+19634,RN,Not Specified
+19635,RPH,Not Specified
+19636,PA,Read Only
+19637,RRT,Respiratory
+19638,MD,Not Specified
+19639,MD,Not Specified
+19640,RN,RN
+19641,RO,Read Only
+19642,MD,Read Only
+19643,RN,Not Specified
+19644,RO,Read Only
+19645,MD,Not Specified
+19646,RN,Not Specified
+19647,RO,Read Only
+19648,RRT,Not Specified
+19649,RN,Read Only
+19650,RN,RN
+19651,RN,Not Specified
+19652,RNs,Not Specified
+19653,RRT,Respiratory
+19654,RO,Read Only
+19655,RPh,Not Specified
+19656,RN,Not Specified
+19657,Res,Resident/Fellow/PA/NP
+19658,Res,Resident/Fellow/PA/NP
+19659,MD,Not Specified
+19660,MD,Not Specified
+19661,Res,Resident/Fellow/PA/NP
+19662,Res,Resident/Fellow/PA/NP
+19663,MD,Not Specified
+19664,RO,Read Only
+19665,MS,Not Specified
+19666,ISSupp,Not Specified
+19667,CoWker,PCT/NA
+19668,RO,Read Only
+19669,MDs,Resident/Fellow/PA/NP
+19670,RPh,Not Specified
+19671,RO,Read Only
+19672,RO,Read Only
+19673,RN,Not Specified
+19674,RD,Dietitian
+19675,Res,Resident/Fellow/PA/NP
+19676,Res,Resident/Fellow/PA/NP
+19677,RO,Read Only
+19678,Res,Resident/Fellow/PA/NP
+19679,Rehab,Rehabilitation
+19680,Res,Resident/Fellow/PA/NP
+19681,RN,RN
+19682,Res,Resident/Fellow/PA/NP
+19683,Rehab,Rehabilitation
+19684,RO,Read Only
+19685,UA,Not Specified
+19686,Res,Resident/Fellow/PA/NP
+19687,Res,Resident/Fellow/PA/NP
+19688,Not Specified,Not Specified
+19689,RN,RN
+19690,Res,Resident/Fellow/PA/NP
+19691,RO,Read Only
+19692,MD,Attending
+19693,RPh,Pharmacist
+19694,RO,Read Only
+19695,MD,Not Specified
+19696,RO,Read Only
+19697,MD,Attending
+19698,MD,Not Specified
+19699,Res,Resident/Fellow/PA/NP
+19700,MD,Not Specified
+19701,MD,Not Specified
+19702,RO,Read Only
+19703,MD,Not Specified
+19704,MD,Read Only
+19705,MD,Not Specified
+19706,MD,Not Specified
+19707,RO,Read Only
+19708,MD,Not Specified
+19709,Res,Resident/Fellow/PA/NP
+19710,RN,RN
+19711,RN,RN
+19712,MD,Not Specified
+19713,RD,Dietitian
+19714,Res,Resident/Fellow/PA/NP
+19715,RO,Read Only
+19716,Res,Resident/Fellow/PA/NP
+19717,Res,Resident/Fellow/PA/NP
+19718,Res,Resident/Fellow/PA/NP
+19719,Res,Resident/Fellow/PA/NP
+19720,Not Specified,Not Specified
+19721,RN,RN
+19722,MedStu,Not Specified
+19723,RO,Read Only
+19724,MD,Not Specified
+19725,RO,Read Only
+19726,Not Specified,Not Specified
+19727,RO,Read Only
+19728,MD,Not Specified
+19729,RO,Read Only
+19730,Res,Resident/Fellow/PA/NP
+19731,Res,Resident/Fellow/PA/NP
+19732,CM,Case Manager
+19733,MD,Not Specified
+19734,Res,Resident/Fellow/PA/NP
+19735,Res,Resident/Fellow/PA/NP
+19736,Rehab,Rehabilitation
+19737,Res,Resident/Fellow/PA/NP
+19738,Res,Resident/Fellow/PA/NP
+19739,MD,Not Specified
+19740,RO,Read Only
+19741,Res,Resident/Fellow/PA/NP
+19742,UCO,UCO
+19743,UCO,UCO
+19744,MD,Attending
+19745,RN,RN
+19746,Res,Resident/Fellow/PA/NP
+19747,RRT,Respiratory
+19748,MD,Attending
+19749,Res,Resident/Fellow/PA/NP
+19750,RO,Read Only
+19751,Res,Resident/Fellow/PA/NP
+19752,Res,Resident/Fellow/PA/NP
+19753,PCT,PCT/NA
+19754,Res,Resident/Fellow/PA/NP
+19755,RT,Respiratory
+19756,MD,Attending
+19757,Rehab,Rehabilitation
+19758,MD,Not Specified
+19759,MD,Attending
+19760,UCO,UCO
+19761,UCO,UCO
+19762,SW,Social Worker
+19763,PCT,PCT/NA
+19764,RN,RN
+19765,CM,Case Manager
+19766,Rehab,Rehabilitation
+19767,PCT,PCT/NA
+19768,Res,Resident/Fellow/PA/NP
+19769,UCO,Not Specified
+19770,Res,Resident/Fellow/PA/NP
+19771,RRT,Not Specified
+19772,RO,Read Only
+19773,MD,Not Specified
+19774,MD,Not Specified
+19775,std,Not Specified
+19776,RT,Respiratory
+19777,MD,Attending
+19778,MD,Not Specified
+19779,MedSt,Not Specified
+19780,MD,Resident/Fellow/PA/NP
+19781,CM,Case Manager
+19782,PCT,PCT/NA
+19783,RN,RN
+19784,STD,Not Specified
+19785,Res,Not Specified
+19786,RN,RN
+19787,Res,Resident/Fellow/PA/NP
+19788,Res,Resident/Fellow/PA/NP
+19789,PC,Pastoral Care
+19790,Res,Resident/Fellow/PA/NP
+19791,MD,Not Specified
+19792,MD,Not Specified
+19793,Res,Resident/Fellow/PA/NP
+19794,RT,Respiratory
+19795,RO,Read Only
+19796,Res,Resident/Fellow/PA/NP
+19797,RN,RN
+19798,Res,Resident/Fellow/PA/NP
+19799,Res,Resident/Fellow/PA/NP
+19800,RN,RN
+19801,MedStu,Not Specified
+19802,RO,Read Only
+19803,RN,RN
+19804,RN,RN
+19805,Res,Resident/Fellow/PA/NP
+19806,PCT,PCT/NA
+19807,Res,Resident/Fellow/PA/NP
+19808,PCT,PCT/NA
+19809,Res,Resident/Fellow/PA/NP
+19810,Res,Resident/Fellow/PA/NP
+19811,RPh,Pharmacist
+19812,RN,Not Specified
+19813,MS,Not Specified
+19814,RO,Read Only
+19815,MD,Not Specified
+19816,MD,Attending
+19817,MDs,Not Specified
+19818,RO,Read Only
+19819,Res,Not Specified
+19820,RO,Read Only
+19821,RN,Not Specified
+19822,MS,Not Specified
+19823,NP,Not Specified
+19824,MD,Not Specified
+19825,RN,Not Specified
+19826,MD,Not Specified
+19827,RO,Read Only
+19828,RO,Read Only
+19829,PCA,Not Specified
+19830,MDs,Resident/Fellow/PA/NP
+19831,MSIV,Not Specified
+19832,RO,Read Only
+19833,RO,Read Only
+19834,MD,Not Specified
+19835,RO,Read Only
+19836,RN,Read Only
+19837,PCT,PCT/NA
+19838,RN,RN
+19839,MD,Not Specified
+19840,Res,Resident/Fellow/PA/NP
+19841,RN,RN
+19842,Res,Resident/Fellow/PA/NP
+19843,Res,Resident/Fellow/PA/NP
+19844,Res,Resident/Fellow/PA/NP
+19845,MD,Not Specified
+19846,Res,Resident/Fellow/PA/NP
+19847,MD,Not Specified
+19848,MD,Not Specified
+19849,MD,Resident/Fellow/PA/NP
+19850,RO,Read Only
+19851,RO,Read Only
+19852,RO,Read Only
+19853,Res,Resident/Fellow/PA/NP
+19854,Res,Resident/Fellow/PA/NP
+19855,MD,Not Specified
+19856,MD,Not Specified
+19857,RD,Dietitian
+19858,MDs,Resident/Fellow/PA/NP
+19859,MD,Not Specified
+19860,RPh,Not Specified
+19861,Res,Resident/Fellow/PA/NP
+19862,MDs,Resident/Fellow/PA/NP
+19863,Res,Resident/Fellow/PA/NP
+19864,RO,Read Only
+19865,MD,Not Specified
+19866,Res,Resident/Fellow/PA/NP
+19867,Res,Resident/Fellow/PA/NP
+19868,Res,Resident/Fellow/PA/NP
+19869,Res,Resident/Fellow/PA/NP
+19870,MD,Not Specified
+19871,MDs,Resident/Fellow/PA/NP
+19872,MDs,Resident/Fellow/PA/NP
+19873,RO,Read Only
+19874,MS,Read Only
+19875,Res,Resident/Fellow/PA/NP
+19876,Res,Resident/Fellow/PA/NP
+19877,RN,RN
+19878,RN,RN
+19879,Res,Resident/Fellow/PA/NP
+19880,Res,Resident/Fellow/PA/NP
+19881,Res,Resident/Fellow/PA/NP
+19882,Res,Resident/Fellow/PA/NP
+19883,RD,Dietitian
+19884,RO,Read Only
+19885,Res,Resident/Fellow/PA/NP
+19886,RO,Read Only
+19887,MD,Attending
+19888,Ms,Not Specified
+19889,RRT,Respiratory
+19890,RRT,Respiratory
+19891,RN,RN
+19892,Res,Resident/Fellow/PA/NP
+19893,RO,Read Only
+19894,MD,Not Specified
+19895,RN,PCT/NA
+19896,PCT,PCT/NA
+19897,RO,Read Only
+19898,RO,Read Only
+19899,Res,Resident/Fellow/PA/NP
+19900,MD,Not Specified
+19901,MD,Not Specified
+19902,RRT,Not Specified
+19903,RN,Not Specified
+19904,MedStu,Not Specified
+19905,RO,Read Only
+19906,StNuIV,Not Specified
+19907,RN,RN
+19908,SRT,Not Specified
+19909,RO,Read Only
+19910,RO,Read Only
+19911,CoWkr,Not Specified
+19912,RO,Read Only
+19913,MD,Not Specified
+19914,RO,Read Only
+19915,RN,Not Specified
+19916,RO,Read Only
+19917,RO,Read Only
+19918,MS,Not Specified
+19919,PT,Not Specified
+19920,MS,Not Specified
+19921,Res,Resident/Fellow/PA/NP
+19922,Res,Resident/Fellow/PA/NP
+19923,Res,Resident/Fellow/PA/NP
+19924,Res,Resident/Fellow/PA/NP
+19925,Res,Resident/Fellow/PA/NP
+19926,SW,Social Worker
+19927,MD,Attending
+19928,RO,Read Only
+19929,MDs,Resident/Fellow/PA/NP
+19930,RO,Read Only
+19931,na,Not Specified
+19932,Res,Resident/Fellow/PA/NP
+19933,Res,Resident/Fellow/PA/NP
+19934,RT,Respiratory
+19935,Res,Resident/Fellow/PA/NP
+19936,Res,Resident/Fellow/PA/NP
+19937,RNs,RN
+19938,Res,Resident/Fellow/PA/NP
+19939,RPh,Not Specified
+19940,RN,Read Only
+19941,MD,Not Specified
+19942,RN,Not Specified
+19943,MD,Not Specified
+19944,RO,Read Only
+19945,RN,Not Specified
+19946,RO,Read Only
+19947,RN,RN
+19948,RO,Read Only
+19949,MD,Not Specified
+19950,RT,Respiratory
+19951,Rehab,Rehabilitation
+19952,Res,Resident/Fellow/PA/NP
+19953,Res,Resident/Fellow/PA/NP
+19954,PCT,PCT/NA
+19955,RT,Respiratory
+19956,Rehab,Rehabilitation
+19957,PCT,PCT/NA
+19958,UCO,UCO
+19959,MDs,Read Only
+19960,CoOPst,Not Specified
+19961,Res,Resident/Fellow/PA/NP
+19962,RO,Read Only
+19963,RN,RN
+19964,UCO,Not Specified
+19965,RO,Read Only
+19966,Admin,Administrator
+19967,MD,Attending
+19968,Res,Resident/Fellow/PA/NP
+19969,RO,Read Only
+19970,RO,Read Only
+19971,OTR/L,Not Specified
+19972,RT Stu,Not Specified
+19973,MD,Read Only
+19974,RO,Read Only
+19975,RO,Read Only
+19976,MD,Not Specified
+19977,Res,Resident/Fellow/PA/NP
+19978,RO,Read Only
+19979,MD,Not Specified
+19980,RN,Not Specified
+19981,RRT,Not Specified
+19982,RO,Read Only
+19983,RO,Read Only
+19984,MD,Attending
+19985,RRT,Not Specified
+19986,RRT,Not Specified
+19987,RO,Read Only
+19988,MD,Not Specified
+19989,RO,Read Only
+19990,Res,Resident/Fellow/PA/NP
+19991,RN,RN
+19992,RO,Read Only
+19993,Res,Resident/Fellow/PA/NP
+19994,MD,Read Only
+19995,MD,Not Specified
+19996,Res,Resident/Fellow/PA/NP
+19997,RO,Read Only
+19998,PC,Pastoral Care
+19999,RPH,Pharmacist
+20000,Res,Resident/Fellow/PA/NP
+20001,RPH,Pharmacist
+20002,Res,Resident/Fellow/PA/NP
+20003,RPh,Pharmacist
+20004,Res,Resident/Fellow/PA/NP
+20005,MD,Read Only
+20006,RO,Read Only
+20007,MD,Not Specified
+20008,MS,Not Specified
+20009,PCT,PCT/NA
+20010,Res,Resident/Fellow/PA/NP
+20011,RO,Read Only
+20012,MD,Resident/Fellow/PA/NP
+20013,Res,Resident/Fellow/PA/NP
+20014,RN,Not Specified
+20015,Res,Resident/Fellow/PA/NP
+20016,RO,Read Only
+20017,MDs,Read Only
+20018,MD,Not Specified
+20019,RO,Read Only
+20020,RRT,Not Specified
+20021,RT,Read Only
+20022,MD,Resident/Fellow/PA/NP
+20023,RO,Read Only
+20024,ISOPS,Not Specified
+20025,MD,Resident/Fellow/PA/NP
+20026,MD,Not Specified
+20027,CoWker,PCT/NA
+20028,RO,Read Only
+20029,RO,Read Only
+20030,RN,RN
+20031,MD,Not Specified
+20032,RO,Read Only
+20033,RO,Read Only
+20034,RN,RN
+20035,MD,Not Specified
+20036,MD,Resident/Fellow/PA/NP
+20037,MD,Not Specified
+20038,MD,Read Only
+20039,MD,Not Specified
+20040,MD,Not Specified
+20041,MD,Not Specified
+20042,RO,Read Only
+20043,RO,Read Only
+20044,RN,Not Specified
+20045,RO,Read Only
+20046,MD,Not Specified
+20047,MD,Attending
+20048,Res,Resident/Fellow/PA/NP
+20049,Res,Resident/Fellow/PA/NP
+20050,PCT,PCT/NA
+20051,Res,Resident/Fellow/PA/NP
+20052,RN,Read Only
+20053,RN,RN
+20054,RN,RN
+20055,RN,Case Manager
+20056,RN,Read Only
+20057,MS,Not Specified
+20058,RO,Read Only
+20059,MedSt,Not Specified
+20060,MDs,Read Only
+20061,RN,RN
+20062,Rehab,Rehabilitation
+20063,RN,RN
+20064,Res,Resident/Fellow/PA/NP
+20065,RO,Read Only
+20066,MD,Attending
+20067,RO,Read Only
+20068,RN,Not Specified
+20069,RO,Read Only
+20070,RN,RN
+20071,Res,Resident/Fellow/PA/NP
+20072,RD,Dietitian
+20073,Rehab,Rehabilitation
+20074,RN,RN
+20075,RO,Read Only
+20076,RO,Read Only
+20077,RO,Read Only
+20078,RRT,Not Specified
+20079,MD,Not Specified
+20080,RO,Read Only
+20081,RN,RN
+20082,Res,Resident/Fellow/PA/NP
+20083,SW,Social Worker
+20084,RO,Read Only
+20085,RO,Read Only
+20086,PCT,PCT/NA
+20087,Res,Resident/Fellow/PA/NP
+20088,RN,RN
+20089,Res,Resident/Fellow/PA/NP
+20090,Rehab,Rehabilitation
+20091,RO,Read Only
+20092,MD,Not Specified
+20093,MD,Not Specified
+20094,RO,Read Only
+20095,MD,Attending
+20096,MD,Attending
+20097,Res,Resident/Fellow/PA/NP
+20098,Res,Resident/Fellow/PA/NP
+20099,SW,Social Worker
+20100,RO,Read Only
+20101,UC,UCO
+20102,RO,Read Only
+20103,MD,Attending
+20104,NP,Not Specified
+20105,MD,Attending
+20106,Rn,RN
+20107,MS,Not Specified
+20108,PCT,PCT/NA
+20109,RO,Read Only
+20110,Res,Resident/Fellow/PA/NP
+20111,RRT,Respiratory
+20112,RN,Not Specified
+20113,RTStu,Not Specified
+20114,RN,RN
+20115,RN,Read Only
+20116,RO,Read Only
+20117,RN,RN
+20118,Res,Resident/Fellow/PA/NP
+20119,Res,Resident/Fellow/PA/NP
+20120,Rehab,Rehabilitation
+20121,Res,Resident/Fellow/PA/NP
+20122,Res,Resident/Fellow/PA/NP
+20123,MSIV,Not Specified
+20124,CoWker,Not Specified
+20125,Par,Pharmacist
+20126,RD,Dietitian
+20127,Res,Resident/Fellow/PA/NP
+20128,StuNur,Not Specified
+20129,Res,Resident/Fellow/PA/NP
+20130,RT,Respiratory
+20131,RN,RN
+20132,RO,Read Only
+20133,MS,Not Specified
+20134,RPh,Pharmacist
+20135,Res,Resident/Fellow/PA/NP
+20136,RN,Not Specified
+20137,RPH,Pharmacist
+20138,Res,Resident/Fellow/PA/NP
+20139,Res,Resident/Fellow/PA/NP
+20140,RN,RN
+20141,RO,Read Only
+20142,Res,Resident/Fellow/PA/NP
+20143,Res,Resident/Fellow/PA/NP
+20144,Res,Resident/Fellow/PA/NP
+20145,MD,Resident/Fellow/PA/NP
+20146,RO,Read Only
+20147,RO,Read Only
+20148,RN,RN
+20149,MD,Not Specified
+20150,RN,RN
+20151,MD,Not Specified
+20152,RO,Read Only
+20153,Res,Resident/Fellow/PA/NP
+20154,RN,Not Specified
+20155,RO,Read Only
+20156,RN,Not Specified
+20157,RD/LDN,Dietitian
+20158,Ph.Stu,Not Specified
+20159,Res,Resident/Fellow/PA/NP
+20160,PCT,PCT/NA
+20161,RN,RN
+20162,RO,Read Only
+20163,MD,Not Specified
+20164,MD,Read Only
+20165,RN,RN
+20166,Rehab,Rehabilitation
+20167,RO,Read Only
+20168,RO,Read Only
+20169,RO,Read Only
+20170,Res,Resident/Fellow/PA/NP
+20171,RN,RN
+20172,RN,RN
+20173,Res,Resident/Fellow/PA/NP
+20174,RO,Read Only
+20175,Res,Resident/Fellow/PA/NP
+20176,Res,Resident/Fellow/PA/NP
+20177,RO,Read Only
+20178,RO,Read Only
+20179,MDs,Read Only
+20180,MS,Not Specified
+20181,RO,Read Only
+20182,RO,Read Only
+20183,HMSIV,Not Specified
+20184,RO,Read Only
+20185,RO,Read Only
+20186,RO,Read Only
+20187,MDs,Resident/Fellow/PA/NP
+20188,Res,Resident/Fellow/PA/NP
+20189,RPH,Pharmacist
+20190,RO,Read Only
+20191,RO,Read Only
+20192,MD,Not Specified
+20193,RN,RN
+20194,SW,Social Worker
+20195,MS,Resident/Fellow/PA/NP
+20196,RO,Read Only
+20197,MD,Not Specified
+20198,MD,Resident/Fellow/PA/NP
+20199,Res,Resident/Fellow/PA/NP
+20200,MD,Not Specified
+20201,RO,Read Only
+20202,Res,Resident/Fellow/PA/NP
+20203,Res,Resident/Fellow/PA/NP
+20204,MD,Not Specified
+20205,MedSt,Not Specified
+20206,Res,Resident/Fellow/PA/NP
+20207,Res,Resident/Fellow/PA/NP
+20208,Rehab,Rehabilitation
+20209,MD,Resident/Fellow/PA/NP
+20210,RO,Read Only
+20211,RRT,Not Specified
+20212,Res,Resident/Fellow/PA/NP
+20213,MSV,Not Specified
+20214,RN,RN
+20215,Res,Resident/Fellow/PA/NP
+20216,RO,Read Only
+20217,MD,Not Specified
+20218,RN,RN
+20219,CoWkr,Not Specified
+20220,RN,RN
+20221,RN,Not Specified
+20222,RO,Read Only
+20223,MD,Not Specified
+20224,CoWker,Not Specified
+20225,RO,Read Only
+20226,Res,Resident/Fellow/PA/NP
+20227,MedStu,Not Specified
+20228,MD,Not Specified
+20229,MD,Not Specified
+20230,MD,Not Specified
+20231,RO,Read Only
+20232,PCA,Not Specified
+20233,STD,Not Specified
+20234,RO,Read Only
+20235,MSIV,Not Specified
+20236,MD,Not Specified
+20237,MD,Not Specified
+20238,RO,Read Only
+20239,RD,Dietitian
+20240,RRT,Not Specified
+20241,MD,Resident/Fellow/PA/NP
+20242,St,Not Specified
+20243,RO,Read Only
+20244,RRT,Not Specified
+20245,RO,Read Only
+20246,Res,Resident/Fellow/PA/NP
+20247,MD,Not Specified
+20248,DI,Not Specified
+20249,RD,Dietitian
+20250,Res,Resident/Fellow/PA/NP
+20251,MD,Attending
+20252,MD,Not Specified
+20253,MD,Not Specified
+20254,RO,Read Only
+20255,Rehab,Rehabilitation
+20256,RN,Not Specified
+20257,RN,Not Specified
+20258,NP,Read Only
+20259,Admin,Not Specified
+20260,RO,Read Only
+20261,MD,Resident/Fellow/PA/NP
+20262,RN,Not Specified
+20263,RO,Read Only
+20264,RN,Not Specified
+20265,RO,Read Only
+20266,MD,Not Specified
+20267,RO,Read Only
+20268,MS,Read Only
+20269,PCT,PCT/NA
+20270,Res,Resident/Fellow/PA/NP
+20271,MS,Not Specified
+20272,MD,Resident/Fellow/PA/NP
+20273,MD,Not Specified
+20274,MD,Not Specified
+20275,MD,Not Specified
+20276,Rehab,Rehabilitation
+20277,PCT,PCT/NA
+20278,UCO,UCO
+20279,Res,Resident/Fellow/PA/NP
+20280,PCT,PCT/NA
+20281,MD,Not Specified
+20282,RN,Not Specified
+20283,MD,Not Specified
+20284,PCT,PCT/NA
+20285,MD,Not Specified
+20286,RO,Read Only
+20287,RO,Read Only
+20288,RPH,Not Specified
+20289,DI,Dietitian
+20290,RRT,Respiratory
+20291,MD,Not Specified
+20292,PCA,Not Specified
+20293,MD,Resident/Fellow/PA/NP
+20294,MD,Not Specified
+20295,RN,Not Specified
+20296,RN,Not Specified
+20297,RN,Not Specified
+20298,RO,Read Only
+20299,RN,Not Specified
+20300,RO,Read Only
+20301,MDs,Resident/Fellow/PA/NP
+20302,MD,Not Specified
+20303,MD,Not Specified
+20304,RN,RN
+20305,MDs,Not Specified
+20306,RPH,Pharmacist
+20307,RO,Read Only
+20308,RO,Read Only
+20309,RN,Not Specified
+20310,MedStu,Not Specified
+20311,RN,Not Specified
+20312,MD,Not Specified
+20313,RO,Read Only
+20314,RRT,Respiratory
+20315,RT,Not Specified
+20316,RO,Read Only
+20317,MD,Not Specified
+20318,RN,Not Specified
+20319,HMS IV,Not Specified
+20320,RN,Read Only
+20321,Not Specified,Not Specified
+20322,SW,Social Worker
+20323,RO,Read Only
+20324,MDs,Resident/Fellow/PA/NP
+20325,RO,Read Only
+20326,CoOpst,Not Specified
+20327,DI,Not Specified
+20328,RRTs,Not Specified
+20329,RD,Not Specified
+20330,RD,Not Specified
+20331,Res,Resident/Fellow/PA/NP
+20332,MD,Not Specified
+20333,MD,Not Specified
+20334,SW,Social Worker
+20335,RN,RN
+20336,RO,Read Only
+20337,MD,Read Only
+20338,MD,Read Only
+20339,Studen,Not Specified
+20340,RO,Read Only
+20341,SW,Social Worker
+20342,RO,Read Only
+20343,Res,Resident/Fellow/PA/NP
+20344,MD,Not Specified
+20345,RN,RN
+20346,RN,RN
+20347,MD,Not Specified
+20348,CM,Case Manager
+20349,Rehab,Rehabilitation
+20350,RD,Dietitian
+20351,MD,Attending
+20352,RPH,Pharmacist
+20353,MD,Attending
+20354,Res,Resident/Fellow/PA/NP
+20355,Res,Resident/Fellow/PA/NP
+20356,Res,Resident/Fellow/PA/NP
+20357,RN,RN
+20358,MD,Attending
+20359,Res,Resident/Fellow/PA/NP
+20360,Res,Resident/Fellow/PA/NP
+20361,MD,Attending
+20362,RO,Read Only
+20363,SW,Social Worker
+20364,Res,Resident/Fellow/PA/NP
+20365,MD,Attending
+20366,SW,Social Worker
+20367,Res,Resident/Fellow/PA/NP
+20368,PCT,PCT/NA
+20369,Res,Resident/Fellow/PA/NP
+20370,SW,Social Worker
+20371,Res,Resident/Fellow/PA/NP
+20372,Res,Resident/Fellow/PA/NP
+20373,RO,Read Only
+20374,Res,Resident/Fellow/PA/NP
+20375,CM,Case Manager
+20376,MD,Read Only
+20377,RO,Read Only
+20378,UCO,UCO
+20379,RO,Read Only
+20380,RO,Read Only
+20381,MD,Not Specified
+20382,RO,Read Only
+20383,MD,Not Specified
+20384,MD,Attending
+20385,Res,Resident/Fellow/PA/NP
+20386,MDs,Read Only
+20387,MD,Not Specified
+20388,RO,Read Only
+20389,RRT,Respiratory
+20390,MD,Not Specified
+20391,IMD,IMD
+20392,RN,Not Specified
+20393,MedStu,Not Specified
+20394,MD,Not Specified
+20395,MD,Attending
+20396,Not Specified,Not Specified
+20397,PCT,PCT/NA
+20398,RN,RN
+20399,MD,Resident/Fellow/PA/NP
+20400,RPh,Pharmacist
+20401,MD,Attending
+20402,RO,Read Only
+20403,RN,RN
+20404,RO,Read Only
+20405,Res,Resident/Fellow/PA/NP
+20406,RO,Read Only
+20407,MD,Not Specified
+20408,MD,Not Specified
+20409,MD,Not Specified
+20410,MD,Not Specified
+20411,MS,Not Specified
+20412,MS,Not Specified
+20413,Res,Resident/Fellow/PA/NP
+20414,RO,Read Only
+20415,Res,Resident/Fellow/PA/NP
+20416,Res,Resident/Fellow/PA/NP
+20417,PCA,Not Specified
+20418,RO,Read Only
+20419,Res,Resident/Fellow/PA/NP
+20420,Res,Resident/Fellow/PA/NP
+20421,RN,RN
+20422,MD,Attending
+20423,RN,RN
+20424,Res,Resident/Fellow/PA/NP
+20425,MD,Not Specified
+20426,Res,Resident/Fellow/PA/NP
+20427,Res,Resident/Fellow/PA/NP
+20428,MD,Read Only
+20429,Admin,Read Only
+20430,RO,Read Only
+20431,MS,Not Specified
+20432,Res,Resident/Fellow/PA/NP
+20433,MD,Not Specified
+20434,RO,Read Only
+20435,MD,Not Specified
+20436,RN,Not Specified
+20437,RO,Read Only
+20438,MD,Not Specified
+20439,MD,Attending
+20440,StNurs,Not Specified
+20441,MD,Not Specified
+20442,RO,Read Only
+20443,MD,Resident/Fellow/PA/NP
+20444,Res,Resident/Fellow/PA/NP
+20445,MDs,Not Specified
+20446,Res,Resident/Fellow/PA/NP
+20447,MD,Not Specified
+20448,Res,Resident/Fellow/PA/NP
+20449,Res,Resident/Fellow/PA/NP
+20450,Res,Resident/Fellow/PA/NP
+20451,Res,Resident/Fellow/PA/NP
+20452,Res,Resident/Fellow/PA/NP
+20453,Res,Resident/Fellow/PA/NP
+20454,MD,Attending
+20455,Res,Resident/Fellow/PA/NP
+20456,Res,Resident/Fellow/PA/NP
+20457,Res,Resident/Fellow/PA/NP
+20458,Res,Resident/Fellow/PA/NP
+20459,MD,Attending
+20460,RO,Read Only
+20461,RF,Resident/Fellow/PA/NP
+20462,UCO,PCT/NA
+20463,MedStu,Not Specified
+20464,Rehab,Rehabilitation
+20465,RO,Read Only
+20466,RO,Read Only
+20467,RN,Not Specified
+20468,RN,Not Specified
+20469,St,Not Specified
+20470,RO,Read Only
+20471,RO,Read Only
+20472,RO,Read Only
+20473,Res,Resident/Fellow/PA/NP
+20474,RN,Not Specified
+20475,Res,Resident/Fellow/PA/NP
+20476,MD,Not Specified
+20477,MDs,Resident/Fellow/PA/NP
+20478,RN,Not Specified
+20479,RPh,Not Specified
+20480,RRT,Respiratory
+20481,MD,Not Specified
+20482,RN,RN
+20483,MD,Not Specified
+20484,PCA,Not Specified
+20485,RN,RN
+20486,RO,Read Only
+20487,RO,Read Only
+20488,NP,Resident/Fellow/PA/NP
+20489,Res,Resident/Fellow/PA/NP
+20490,RRTs,Not Specified
+20491,Res,Resident/Fellow/PA/NP
+20492,MDs,Resident/Fellow/PA/NP
+20493,Res,Resident/Fellow/PA/NP
+20494,RO,Read Only
+20495,CoWker,Not Specified
+20496,STD,Not Specified
+20497,PCT,PCT/NA
+20498,RO,Read Only
+20499,RO,Read Only
+20500,MS,Not Specified
+20501,RO,Read Only
+20502,UA,Not Specified
+20503,RO,Read Only
+20504,MDs,Read Only
+20505,SN,Read Only
+20506,MD,Not Specified
+20507,RPH,Not Specified
+20508,RN,Read Only
+20509,RO,Read Only
+20510,RN,Not Specified
+20511,RN,RN
+20512,RO,Read Only
+20513,RN,Not Specified
+20514,Res,Resident/Fellow/PA/NP
+20515,PT,Not Specified
+20516,Rph,Not Specified
+20517,DI,Not Specified
+20518,UCO,UCO
+20519,RRT,Respiratory
+20520,MD,Not Specified
+20521,RO,Read Only
+20522,RN,Read Only
+20523,MD,Read Only
+20524,Res,Resident/Fellow/PA/NP
+20525,MDs,Not Specified
+20526,Medica,Not Specified
+20527,Res,Resident/Fellow/PA/NP
+20528,std,Not Specified
+20529,MD,Not Specified
+20530,RO,Read Only
+20531,MD,Not Specified
+20532,RRT,Respiratory
+20533,RN,Not Specified
+20534,RN,Not Specified
+20535,MD,Not Specified
+20536,MDs,Not Specified
+20537,RO,Read Only
+20538,Res,Resident/Fellow/PA/NP
+20539,RO,Read Only
+20540,MDs,Not Specified
+20541,MD,Not Specified
+20542,UCO,UCO
+20543,MD,Read Only
+20544,RO,Read Only
+20545,MD,Attending
+20546,MD,Read Only
+20547,Res,Resident/Fellow/PA/NP
+20548,CoWker,Not Specified
+20549,Rehab,Rehabilitation
+20550,RN,RN
+20551,SW,Social Worker
+20552,SPG,Not Specified
+20553,RO,Read Only
+20554,Res,Resident/Fellow/PA/NP
+20555,Res,Resident/Fellow/PA/NP
+20556,Res,Resident/Fellow/PA/NP
+20557,Res,Resident/Fellow/PA/NP
+20558,RO,Read Only
+20559,MD,Not Specified
+20560,Res,Resident/Fellow/PA/NP
+20561,Res,Resident/Fellow/PA/NP
+20562,CM,Case Manager
+20563,Res,Resident/Fellow/PA/NP
+20564,Res,Resident/Fellow/PA/NP
+20565,Res,Resident/Fellow/PA/NP
+20566,MD,Not Specified
+20567,MS,Not Specified
+20568,RO,Read Only
+20569,RO,Read Only
+20570,Res,Resident/Fellow/PA/NP
+20571,MDs,Read Only
+20572,RO,Read Only
+20573,Res,Resident/Fellow/PA/NP
+20574,Res,Resident/Fellow/PA/NP
+20575,SW,Social Worker
+20576,RO,Read Only
+20577,Res,Resident/Fellow/PA/NP
+20578,Res,Resident/Fellow/PA/NP
+20579,Res,Resident/Fellow/PA/NP
+20580,Res,Resident/Fellow/PA/NP
+20581,RN,RN
+20582,MD,Not Specified
+20583,RO,Read Only
+20584,RO,Read Only
+20585,Res,Resident/Fellow/PA/NP
+20586,MS V,Not Specified
+20587,PCT,PCT/NA
+20588,Res,Resident/Fellow/PA/NP
+20589,PCT,PCT/NA
+20590,Res,Resident/Fellow/PA/NP
+20591,RN,RN
+20592,RN,RN
+20593,Res,Resident/Fellow/PA/NP
+20594,RO,Read Only
+20595,Res,Resident/Fellow/PA/NP
+20596,PCT,PCT/NA
+20597,Rehab,Rehabilitation
+20598,Res,Resident/Fellow/PA/NP
+20599,RT,Respiratory
+20600,Res,Resident/Fellow/PA/NP
+20601,Res,Resident/Fellow/PA/NP
+20602,PC,Pastoral Care
+20603,RO,Read Only
+20604,MD,Not Specified
+20605,RO,Read Only
+20606,RO,Read Only
+20607,RO,Read Only
+20608,RRT,Not Specified
+20609,PCT,PCT/NA
+20610,Res,Resident/Fellow/PA/NP
+20611,SW,Social Worker
+20612,IMD,IMD
+20613,MD,Not Specified
+20614,RO,Read Only
+20615,RO,Read Only
+20616,Res,Resident/Fellow/PA/NP
+20617,Res,Resident/Fellow/PA/NP
+20618,PCT,PCT/NA
+20619,Res,Resident/Fellow/PA/NP
+20620,Res,Resident/Fellow/PA/NP
+20621,Rehab,Rehabilitation
+20622,RN,RN
+20623,MD,Resident/Fellow/PA/NP
+20624,RN,RN
+20625,Ph.Stu,Not Specified
+20626,MD,Not Specified
+20627,PHaD,Not Specified
+20628,MD,Not Specified
+20629,RO,Read Only
+20630,Res,Resident/Fellow/PA/NP
+20631,Res,Resident/Fellow/PA/NP
+20632,Res,Resident/Fellow/PA/NP
+20633,RO,Read Only
+20634,RN,Not Specified
+20635,RO,Read Only
+20636,Res,Resident/Fellow/PA/NP
+20637,RO,Read Only
+20638,RPH,Not Specified
+20639,RO,Read Only
+20640,UA,UCO
+20641,RO,Read Only
+20642,RO,Read Only
+20643,RO,Read Only
+20644,MD,Not Specified
+20645,Admin,Administrator
+20646,RO,Read Only
+20647,MD,Not Specified
+20648,RN,RN
+20649,RO,Read Only
+20650,RO,Read Only
+20651,PCT,PCT/NA
+20652,RT,Respiratory
+20653,Rehab,Rehabilitation
+20654,Res,Resident/Fellow/PA/NP
+20655,Res,Resident/Fellow/PA/NP
+20656,Res,Resident/Fellow/PA/NP
+20657,UCO,UCO
+20658,RO,Read Only
+20659,Res,Resident/Fellow/PA/NP
+20660,Res,Resident/Fellow/PA/NP
+20661,RO,Read Only
+20662,Res,Resident/Fellow/PA/NP
+20663,MS,Not Specified
+20664,MD,Not Specified
+20665,Res,Resident/Fellow/PA/NP
+20666,RO,Read Only
+20667,PT,Rehabilitation
+20668,MD,Not Specified
+20669,CoOpst,Not Specified
+20670,RN,Not Specified
+20671,RO,Read Only
+20672,RN,RN
+20673,LDN,Read Only
+20674,RN,Not Specified
+20675,RN,RN
+20676,MD,Not Specified
+20677,RN,Not Specified
+20678,Res,Resident/Fellow/PA/NP
+20679,RO,Read Only
+20680,RN,Read Only
+20681,DI,Dietitian
+20682,Res,Resident/Fellow/PA/NP
+20683,Res,Resident/Fellow/PA/NP
+20684,PCT,PCT/NA
+20685,RN,RN
+20686,MD,Attending
+20687,Res,Resident/Fellow/PA/NP
+20688,PCA,Not Specified
+20689,Res,Resident/Fellow/PA/NP
+20690,Co-Wkr,PCT/NA
+20691,MD,Not Specified
+20692,MD,Not Specified
+20693,RN,Not Specified
+20694,Res,Resident/Fellow/PA/NP
+20695,RPH,Pharmacist
+20696,StPh,Not Specified
+20697,RO,Read Only
+20698,Res,Resident/Fellow/PA/NP
+20699,Res,Resident/Fellow/PA/NP
+20700,MD,Not Specified
+20701,RN,RN
+20702,RO,Read Only
+20703,RO,Read Only
+20704,RN,RN
+20705,RN,RN
+20706,RN,RN
+20707,StuNur,Not Specified
+20708,MDs,Resident/Fellow/PA/NP
+20709,RO,Read Only
+20710,RN,Not Specified
+20711,RN,RN
+20712,MedSt,Not Specified
+20713,PCA,Read Only
+20714,RN,RN
+20715,Res,Resident/Fellow/PA/NP
+20716,RO,Read Only
+20717,RA,Not Specified
+20718,MD,Not Specified
+20719,RO,Read Only
+20720,RN,Not Specified
+20721,RN,Not Specified
+20722,RPH,Not Specified
+20723,MDs,Not Specified
+20724,MD,Resident/Fellow/PA/NP
+20725,MD,Not Specified
+20726,MD,Not Specified
+20727,Res,Resident/Fellow/PA/NP
+20728,RO,Read Only
+20729,RO,Read Only
+20730,RPh,Pharmacist
+20731,RRT,Read Only
+20732,MDs,Resident/Fellow/PA/NP
+20733,MD,Not Specified
+20734,RO,Read Only
+20735,MD,Not Specified
+20736,RO,Read Only
+20737,RO,Read Only
+20738,MD,Resident/Fellow/PA/NP
+20739,RO,Read Only
+20740,MD,Not Specified
+20741,RO,Read Only
+20742,MS,Not Specified
+20743,Rehab,Rehabilitation
+20744,MD,Attending
+20745,RPH,Read Only
+20746,IS,Administrator
+20747,RN,Read Only
+20748,MedSt,Attending
+20749,MD,Not Specified
+20750,ISSupp,Not Specified
+20751,RO,Read Only
+20752,RO,Read Only
+20753,RO,Read Only
+20754,MD,Not Specified
+20755,MD,Read Only
+20756,RRT,Not Specified
+20757,MDs,Read Only
+20758,CM,Case Manager
+20759,MD,Read Only
+20760,RO,Read Only
+20761,Res,Resident/Fellow/PA/NP
+20762,Res,Resident/Fellow/PA/NP
+20763,MD,Attending
+20764,RT,Respiratory
+20765,Res,Resident/Fellow/PA/NP
+20766,Res,Resident/Fellow/PA/NP
+20767,Res,Resident/Fellow/PA/NP
+20768,MD,Not Specified
+20769,IS,Not Specified
+20770,Res,Resident/Fellow/PA/NP
+20771,Res,Not Specified
+20772,RO,Read Only
+20773,MD,Not Specified
+20774,RO,Read Only
+20775,RO,Read Only
+20776,RO,Read Only
+20777,MD,Not Specified
+20778,Res,Resident/Fellow/PA/NP
+20779,RN,Not Specified
+20780,RN,Not Specified
+20781,RN,Not Specified
+20782,RN,Not Specified
+20783,RO,Read Only
+20784,Res,Resident/Fellow/PA/NP
+20785,MD,Not Specified
+20786,RO,Read Only
+20787,MD,Attending
+20788,RRT,Respiratory
+20789,CoWker,PCT/NA
+20790,MDs,Resident/Fellow/PA/NP
+20791,RO,Read Only
+20792,MDs,Resident/Fellow/PA/NP
+20793,IS Int,Not Specified
+20794,RN,Not Specified
+20795,RO,Read Only
+20796,MD,Not Specified
+20797,Res,Resident/Fellow/PA/NP
+20798,MD,Not Specified
+20799,MD,Not Specified
+20800,MD,Not Specified
+20801,MD,Not Specified
+20802,MD,Resident/Fellow/PA/NP
+20803,RRT,Respiratory
+20804,RO,Read Only
+20805,Res,Resident/Fellow/PA/NP
+20806,Res,Resident/Fellow/PA/NP
+20807,MD,Not Specified
+20808,RN,RN
+20809,RN,Read Only
+20810,RN,Not Specified
+20811,RO,Read Only
+20812,RN,Not Specified
+20813,RO,Read Only
+20814,RN,Not Specified
+20815,RO,Read Only
+20816,RN,RN
+20817,HMSIV,Not Specified
+20818,RN,RN
+20819,RO,Read Only
+20820,MD,Read Only
+20821,RN,Not Specified
+20822,RN,Not Specified
+20823,RN,RN
+20824,RPh,Not Specified
+20825,RN,Not Specified
+20826,RO,Read Only
+20827,MD,Resident/Fellow/PA/NP
+20828,RO,Read Only
+20829,RD,Not Specified
+20830,RO,Read Only
+20831,RN,RN
+20832,RRT,Not Specified
+20833,RO,Read Only
+20834,RN,Not Specified
+20835,NNP,Not Specified
+20836,LICSW,Read Only
+20837,RO,Read Only
+20838,MD,Not Specified
+20839,RO,Read Only
+20840,RN,Not Specified
+20841,RO,Read Only
+20842,std,Not Specified
+20843,RN,Not Specified
+20844,MD,Not Specified
+20845,RO,Read Only
+20846,RNC,Read Only
+20847,NP,Not Specified
+20848,RN,Not Specified
+20849,MDs,Not Specified
+20850,RO,Read Only
+20851,RO,Read Only
+20852,MD,Not Specified
+20853,MD,Resident/Fellow/PA/NP
+20854,Res,Resident/Fellow/PA/NP
+20855,RN,RN
+20856,RN,RN
+20857,Res,Resident/Fellow/PA/NP
+20858,MD,Read Only
+20859,MD,Read Only
+20860,RO,Read Only
+20861,RN,RN
+20862,Co-Wkr,Not Specified
+20863,MD,Not Specified
+20864,RN,Not Specified
+20865,RO,Read Only
+20866,RN,RN
+20867,MD,Not Specified
+20868,RN,RN
+20869,RO,Read Only
+20870,PT,Not Specified
+20871,RN,RN
+20872,RO,Read Only
+20873,MD,Resident/Fellow/PA/NP
+20874,RPh,Not Specified
+20875,MD,Not Specified
+20876,RO,Read Only
+20877,RN,RN
+20878,PCT,PCT/NA
+20879,Rehab,Rehabilitation
+20880,RPh,Pharmacist
+20881,RO,Read Only
+20882,RN,RN
+20883,RO,Read Only
+20884,Res,Resident/Fellow/PA/NP
+20885,RO,Read Only
+20886,MD,Not Specified
+20887,RN,Case Manager
+20888,MD,Not Specified
+20889,IMD,IMD
+20890,RN,RN
+20891,Res,Resident/Fellow/PA/NP
+20892,Rehab,Rehabilitation
+20893,MS,Not Specified
+20894,Res,Resident/Fellow/PA/NP
+20895,RO,Read Only
+20896,MD,Not Specified
+20897,RO,Read Only
+20898,MD,Not Specified
+20899,RO,Read Only
+20900,RO,Read Only
+20901,Res,Resident/Fellow/PA/NP
+20902,Res,Resident/Fellow/PA/NP
+20903,MDs,Read Only
+20904,MS,Not Specified
+20905,RO,Read Only
+20906,Not Specified,Not Specified
+20907,DietIn,Not Specified
+20908,CoWker,Not Specified
+20909,MD,Not Specified
+20910,MS,Not Specified
+20911,Res,Resident/Fellow/PA/NP
+20912,Res,Resident/Fellow/PA/NP
+20913,RO,Read Only
+20914,RRT,Not Specified
+20915,RO,Read Only
+20916,SNP,Not Specified
+20917,RO,Read Only
+20918,Res,Resident/Fellow/PA/NP
+20919,Res,Resident/Fellow/PA/NP
+20920,Res,Resident/Fellow/PA/NP
+20921,MD,Not Specified
+20922,RN,RN
+20923,Res,Resident/Fellow/PA/NP
+20924,RN,RN
+20925,Res,Resident/Fellow/PA/NP
+20926,RPH,Not Specified
+20927,RO,Read Only
+20928,MD,Not Specified
+20929,MDs,Resident/Fellow/PA/NP
+20930,RO,Read Only
+20931,RN,Not Specified
+20932,MD,Not Specified
+20933,Res,Resident/Fellow/PA/NP
+20934,MD,Not Specified
+20935,RO,Read Only
+20936,RO,Read Only
+20937,MD,Not Specified
+20938,Rehab,Rehabilitation
+20939,RN,RN
+20940,MD,Not Specified
+20941,Res,Resident/Fellow/PA/NP
+20942,RN,RN
+20943,RO,Read Only
+20944,CM,Case Manager
+20945,Res,Not Specified
+20946,Res,Resident/Fellow/PA/NP
+20947,RO,Read Only
+20948,RN,Not Specified
+20949,Unit A,Not Specified
+20950,Res,Resident/Fellow/PA/NP
+20951,RN,RN
+20952,Res,Resident/Fellow/PA/NP
+20953,Res,Resident/Fellow/PA/NP
+20954,RO,Read Only
+20955,Not Specified,Not Specified
+20956,Res,Resident/Fellow/PA/NP
+20957,RPh,Not Specified
+20958,Res,Resident/Fellow/PA/NP
+20959,Res,Resident/Fellow/PA/NP
+20960,ms,Not Specified
+20961,taf,Read Only
+20962,RN,Not Specified
+20963,RN,Not Specified
+20964,RRT,Not Specified
+20965,tap,Read Only
+20966,RN,Not Specified
+20967,MD,Not Specified
+20968,MD,Not Specified
+20969,RO,Read Only
+20970,RRT,Respiratory
+20971,RN,RN
+20972,MD,Not Specified
+20973,RN,RN
+20974,RPH,Pharmacist
+20975,RPH,Pharmacist
+20976,RN,Not Specified
+20977,UA,Attending
+20978,MDs,Read Only
+20979,Res,Resident/Fellow/PA/NP
+20980,MD,Not Specified
+20981,RO,Read Only
+20982,MD,Not Specified
+20983,Res,Resident/Fellow/PA/NP
+20984,Res,Resident/Fellow/PA/NP
+20985,Res,Resident/Fellow/PA/NP
+20986,MD,Read Only
+20987,MD,Not Specified
+20988,RN,Not Specified
+20989,RO,Read Only
+20990,RN,Not Specified
+20991,RO,Read Only
+20992,RN,Not Specified
+20993,RO,Read Only
+20994,RO,Read Only
+20995,RO,Read Only
+20996,RO,Read Only
+20997,RO,Read Only
+20998,MS,Not Specified
+20999,RO,Read Only
+21000,RO,Read Only
+21001,UCO,Not Specified
+21002,RN,Read Only
+21003,Rehab,Rehabilitation
+21004,StPHa,Not Specified
+21005,RRT,Not Specified
+21006,RN,RN
+21007,RO,Read Only
+21008,MD,Not Specified
+21009,RO,Read Only
+21010,SW,Social Worker
+21011,MS,Not Specified
+21012,Res,Resident/Fellow/PA/NP
+21013,RO,Read Only
+21014,MD,Not Specified
+21015,MD,Resident/Fellow/PA/NP
+21016,RO,Read Only
+21017,MD,Not Specified
+21018,RO,Read Only
+21019,RO,Read Only
+21020,RN,RN
+21021,RO,Read Only
+21022,Res,Resident/Fellow/PA/NP
+21023,MS,Not Specified
+21024,MD,Not Specified
+21025,RN,RN
+21026,RO,Read Only
+21027,RO,Read Only
+21028,RO,Read Only
+21029,RO,Read Only
+21030,ms,Not Specified
+21031,RO,Read Only
+21032,Stn MD,Not Specified
+21033,RN,Not Specified
+21034,RO,Read Only
+21035,RN,Not Specified
+21036,PA,Not Specified
+21037,MD,Not Specified
+21038,Res,Resident/Fellow/PA/NP
+21039,Res,Resident/Fellow/PA/NP
+21040,RPh,Not Specified
+21041,Res,Resident/Fellow/PA/NP
+21042,RRT,Not Specified
+21043,RO,Read Only
+21044,MedSt,Not Specified
+21045,MD,Not Specified
+21046,RN,Not Specified
+21047,PSt,Not Specified
+21048,MD,Not Specified
+21049,MD,Not Specified
+21050,RN,RN
+21051,RRT,Not Specified
+21052,RN,Not Specified
+21053,RRT,Not Specified
+21054,PCT,PCT/NA
+21055,MD,Not Specified
+21056,RN,RN
+21057,RO,Read Only
+21058,RN,RN
+21059,Res,Resident/Fellow/PA/NP
+21060,Res,Resident/Fellow/PA/NP
+21061,RO,Read Only
+21062,RN,RN
+21063,Res,Resident/Fellow/PA/NP
+21064,Res,Resident/Fellow/PA/NP
+21065,MD,Not Specified
+21066,RPh,Not Specified
+21067,RO,Read Only
+21068,RO,Read Only
+21069,MD,Read Only
+21070,MD,Attending
+21071,MD,Not Specified
+21072,RO,Read Only
+21073,RO,Read Only
+21074,RPh,Not Specified
+21075,Rehab,Rehabilitation
+21076,RO,Read Only
+21077,MD,Not Specified
+21078,PS,Not Specified
+21079,MDs,Not Specified
+21080,RO,Read Only
+21081,PracSt,Not Specified
+21082,MD,Not Specified
+21083,NP,Not Specified
+21084,RRt,Respiratory
+21085,RO,Read Only
+21086,RO,Read Only
+21087,RO,Read Only
+21088,UCO,Not Specified
+21089,Res,Resident/Fellow/PA/NP
+21090,MD,Not Specified
+21091,Res,Resident/Fellow/PA/NP
+21092,RO,Read Only
+21093,RN,Not Specified
+21094,MS,Not Specified
+21095,RN,Not Specified
+21096,RN,Not Specified
+21097,RRT,Not Specified
+21098,RN,RN
+21099,RO,Read Only
+21100,RO,Read Only
+21101,RO,Read Only
+21102,MDS,Resident/Fellow/PA/NP
+21103,RO,Read Only
+21104,RPH,Pharmacist
+21105,Rehab,Rehabilitation
+21106,RN,RN
+21107,Res,Resident/Fellow/PA/NP
+21108,RN,RN
+21109,RO,Read Only
+21110,RD,Not Specified
+21111,Res,Resident/Fellow/PA/NP
+21112,PCT,PCT/NA
+21113,Res,Resident/Fellow/PA/NP
+21114,Res,Resident/Fellow/PA/NP
+21115,MD,Not Specified
+21116,RN,RN
+21117,RD,Not Specified
+21118,RRT,Not Specified
+21119,RN,RN
+21120,Res,Resident/Fellow/PA/NP
+21121,MD,Attending
+21122,RRTs,Not Specified
+21123,MDs,Read Only
+21124,Rehab,Rehabilitation
+21125,MD,Resident/Fellow/PA/NP
+21126,MD,Not Specified
+21127,MD,Attending
+21128,CM,Case Manager
+21129,Res,Resident/Fellow/PA/NP
+21130,Res,Resident/Fellow/PA/NP
+21131,RPH,Not Specified
+21132,MD,Attending
+21133,Rehab,Rehabilitation
+21134,Res,Resident/Fellow/PA/NP
+21135,Res,Resident/Fellow/PA/NP
+21136,RN,Not Specified
+21137,MD,Not Specified
+21138,RO,Read Only
+21139,RO,Read Only
+21140,MS,Resident/Fellow/PA/NP
+21141,RO,Read Only
+21142,MedStu,Not Specified
+21143,RN,RN
+21144,RO,Read Only
+21145,MD,Read Only
+21146,RO,Read Only
+21147,RO,Read Only
+21148,MD,PhD,Not Specified
+21149,RN,RN
+21150,Res,Resident/Fellow/PA/NP
+21151,RPH,Not Specified
+21152,RO,Read Only
+21153,RO,Read Only
+21154,UCO,Not Specified
+21155,MD,Not Specified
+21156,Res,Resident/Fellow/PA/NP
+21157,RO,Read Only
+21158,MDs,Not Specified
+21159,UCO,UCO
+21160,PCT,Not Specified
+21161,MD,Resident/Fellow/PA/NP
+21162,RO,Read Only
+21163,MDs,Not Specified
+21164,RN,RN
+21165,RN,RN
+21166,Res,Resident/Fellow/PA/NP
+21167,CoWkr,Not Specified
+21168,RO,Read Only
+21169,RO,Read Only
+21170,RT,Respiratory
+21171,Res,Resident/Fellow/PA/NP
+21172,Res,Resident/Fellow/PA/NP
+21173,MD,Attending
+21174,RO,Read Only
+21175,Rehab,Rehabilitation
+21176,Res,Resident/Fellow/PA/NP
+21177,MD,Attending
+21178,Res,Resident/Fellow/PA/NP
+21179,SW,Social Worker
+21180,RO,Read Only
+21181,RO,Read Only
+21182,MD,Not Specified
+21183,MD,Resident/Fellow/PA/NP
+21184,RN,Not Specified
+21185,RO,Read Only
+21186,Rehab,Rehabilitation
+21187,RO,Read Only
+21188,RN,Not Specified
+21189,RN,RN
+21190,res,Not Specified
+21191,Res,Resident/Fellow/PA/NP
+21192,Res,Resident/Fellow/PA/NP
+21193,RPH,Pharmacist
+21194,Res,Resident/Fellow/PA/NP
+21195,RO,Read Only
+21196,RO,Read Only
+21197,RRT,Not Specified
+21198,RN,RN
+21199,MD,Not Specified
+21200,MedSt,Not Specified
+21201,MD,Not Specified
+21202,Rn,RN
+21203,MD,Resident/Fellow/PA/NP
+21204,RN,RN
+21205,RN,RN
+21206,UA,UCO
+21207,MD,Not Specified
+21208,Res,Resident/Fellow/PA/NP
+21209,MD,Not Specified
+21210,MD,Not Specified
+21211,VS,Not Specified
+21212,MedStu,Not Specified
+21213,Res,Resident/Fellow/PA/NP
+21214,MD,Not Specified
+21215,MD,Read Only
+21216,MD,Not Specified
+21217,Res,Resident/Fellow/PA/NP
+21218,RN,Not Specified
+21219,MD,Not Specified
+21220,MS,Read Only
+21221,RO,Read Only
+21222,MD,Read Only
+21223,RD,Dietitian
+21224,Res,Resident/Fellow/PA/NP
+21225,RN,Not Specified
+21226,RN,Not Specified
+21227,Res,Resident/Fellow/PA/NP
+21228,MD,Not Specified
+21229,RO,Read Only
+21230,RN,Not Specified
+21231,RN,Not Specified
+21232,RN,Read Only
+21233,RD,Dietitian
+21234,MS,Not Specified
+21235,RO,Read Only
+21236,PCT,PCT/NA
+21237,Admin,Administrator
+21238,MD,Not Specified
+21239,MD,Not Specified
+21240,MD,Not Specified
+21241,RO,Read Only
+21242,MDs,Resident/Fellow/PA/NP
+21243,Rehab,Rehabilitation
+21244,RO,Read Only
+21245,Res,Resident/Fellow/PA/NP
+21246,RO,Read Only
+21247,RO,Read Only
+21248,Res,Resident/Fellow/PA/NP
+21249,SW,Social Worker
+21250,RO,Read Only
+21251,Rehab,Rehabilitation
+21252,Res,Resident/Fellow/PA/NP
+21253,UCO,UCO
+21254,MD,Not Specified
+21255,RPH,Pharmacist
+21256,Res,Resident/Fellow/PA/NP
+21257,RN,RN
+21258,RRT,Not Specified
+21259,MD,Read Only
+21260,MD,Read Only
+21261,RPh,Not Specified
+21262,Res,Resident/Fellow/PA/NP
+21263,RO,Read Only
+21264,MD,Not Specified
+21265,Res,Resident/Fellow/PA/NP
+21266,MD,Not Specified
+21267,Res,Resident/Fellow/PA/NP
+21268,Rehab,Rehabilitation
+21269,RPh,Read Only
+21270,MD,Attending
+21271,Res,Resident/Fellow/PA/NP
+21272,Rehab,Rehabilitation
+21273,Res,Resident/Fellow/PA/NP
+21274,Rehab,Rehabilitation
+21275,RPH,Pharmacist
+21276,Res,Resident/Fellow/PA/NP
+21277,Res,Resident/Fellow/PA/NP
+21278,Res,Resident/Fellow/PA/NP
+21279,MD,Not Specified
+21280,Res,Resident/Fellow/PA/NP
+21281,CM,Case Manager
+21282,Res,Resident/Fellow/PA/NP
+21283,Res,Resident/Fellow/PA/NP
+21284,MD,Attending
+21285,Res,Resident/Fellow/PA/NP
+21286,CM,Case Manager
+21287,CM,Case Manager
+21288,RN,RN
+21289,Res,Resident/Fellow/PA/NP
+21290,RN,RN
+21291,RN,RN
+21292,Ph Stu,Not Specified
+21293,St,Not Specified
+21294,RTS,Not Specified
+21295,MD,Read Only
+21296,RN,Not Specified
+21297,RN,RN
+21298,RO,Read Only
+21299,MD,Not Specified
+21300,SRT,Not Specified
+21301,Res,Resident/Fellow/PA/NP
+21302,Res,Resident/Fellow/PA/NP
+21303,CM,Case Manager
+21304,RN,RN
+21305,RN,RN
+21306,Res,Resident/Fellow/PA/NP
+21307,CM,Case Manager
+21308,RN,RN
+21309,CM,Case Manager
+21310,CM,Case Manager
+21311,Admin,Administrator
+21312,Res,Resident/Fellow/PA/NP
+21313,Rehab,Rehabilitation
+21314,Rehab,Rehabilitation
+21315,RN,RN
+21316,Rehab,Rehabilitation
+21317,RO,Read Only
+21318,RN,RN
+21319,MS,Respiratory
+21320,Res,Resident/Fellow/PA/NP
+21321,RN,RN
+21322,RT,Respiratory
+21323,RN,Not Specified
+21324,PCT,PCT/NA
+21325,RO,Read Only
+21326,RN,RN
+21327,RN,RN
+21328,MD,Attending
+21329,ISSupp,Not Specified
+21330,RO,Read Only
+21331,MD,Not Specified
+21332,ISOPS,Administrator
+21333,RO,Read Only
+21334,MD,Not Specified
+21335,RN,RN
+21336,RNs,RN
+21337,RO,Read Only
+21338,RO,Read Only
+21339,MD,Read Only
+21340,Res,Resident/Fellow/PA/NP
+21341,RN,RN
+21342,MS,Not Specified
+21343,RO,Read Only
+21344,MD,Not Specified
+21345,RO,Read Only
+21346,MD,Not Specified
+21347,PCT,Not Specified
+21348,RO,Read Only
+21349,MD,Not Specified
+21350,Not Specified,PCT/NA
+21351,MD,Not Specified
+21352,RN,Not Specified
+21353,RO,Read Only
+21354,MDs,Resident/Fellow/PA/NP
+21355,RRT,Read Only
+21356,RO,Read Only
+21357,RO,Read Only
+21358,Res,Resident/Fellow/PA/NP
+21359,SW,Social Worker
+21360,Res,Resident/Fellow/PA/NP
+21361,PCT,PCT/NA
+21362,PC,Pastoral Care
+21363,RO,Read Only
+21364,MD,Not Specified
+21365,Res,Resident/Fellow/PA/NP
+21366,Res,Resident/Fellow/PA/NP
+21367,RT,Respiratory
+21368,MD,Read Only
+21369,Rehab,Rehabilitation
+21370,Intern,Resident/Fellow/PA/NP
+21371,RO,Read Only
+21372,Res,Resident/Fellow/PA/NP
+21373,RD,Dietitian
+21374,Res,Resident/Fellow/PA/NP
+21375,Res,Resident/Fellow/PA/NP
+21376,Res,Resident/Fellow/PA/NP
+21377,Res,Resident/Fellow/PA/NP
+21378,RO,Read Only
+21379,RPH,Pharmacist
+21380,RD,Dietitian
+21381,MD,Not Specified
+21382,SW,Social Worker
+21383,Res,Resident/Fellow/PA/NP
+21384,Rehab,Rehabilitation
+21385,RO,Read Only
+21386,RN,RN
+21387,Res,Resident/Fellow/PA/NP
+21388,Res,Resident/Fellow/PA/NP
+21389,Res,Resident/Fellow/PA/NP
+21390,Res,Resident/Fellow/PA/NP
+21391,MD,Not Specified
+21392,Res,Resident/Fellow/PA/NP
+21393,MD,Read Only
+21394,RO,Read Only
+21395,Res,Resident/Fellow/PA/NP
+21396,MD,Not Specified
+21397,Res,Resident/Fellow/PA/NP
+21398,Res,Resident/Fellow/PA/NP
+21399,RN,RN
+21400,RO,Read Only
+21401,MedSt,Not Specified
+21402,Res,Resident/Fellow/PA/NP
+21403,RO,Read Only
+21404,RO,Read Only
+21405,Res,Resident/Fellow/PA/NP
+21406,RD,Dietitian
+21407,RO,Read Only
+21408,RO,Read Only
+21409,RO,Read Only
+21410,RO,Read Only
+21411,Res,Resident/Fellow/PA/NP
+21412,MS,Resident/Fellow/PA/NP
+21413,RD,Dietitian
+21414,RO,Read Only
+21415,Res,Resident/Fellow/PA/NP
+21416,MDs,Not Specified
+21417,RO,Read Only
+21418,CoWker,PCT/NA
+21419,PC,Pastoral Care
+21420,MD,Not Specified
+21421,UA,UCO
+21422,RN,Not Specified
+21423,RO,Read Only
+21424,MS,Not Specified
+21425,MD,Not Specified
+21426,MDs,Not Specified
+21427,MD,Read Only
+21428,Res,Resident/Fellow/PA/NP
+21429,RO,Read Only
+21430,RO,Read Only
+21431,Res,Resident/Fellow/PA/NP
+21432,Res,Resident/Fellow/PA/NP
+21433,Res,Resident/Fellow/PA/NP
+21434,Res,Resident/Fellow/PA/NP
+21435,RN,RN
+21436,Res,Resident/Fellow/PA/NP
+21437,PCT,PCT/NA
+21438,MD,Not Specified
+21439,MDs,Not Specified
+21440,RO,Read Only
+21441,MD,Resident/Fellow/PA/NP
+21442,Res,Resident/Fellow/PA/NP
+21443,Res,Resident/Fellow/PA/NP
+21444,RPH,Read Only
+21445,RO,Read Only
+21446,RO,Read Only
+21447,MDs,Resident/Fellow/PA/NP
+21448,RO,Read Only
+21449,RO,Read Only
+21450,Res,Resident/Fellow/PA/NP
+21451,RPH,Not Specified
+21452,RN,RN
+21453,RO,Read Only
+21454,RO,Read Only
+21455,MD,Not Specified
+21456,RN,Not Specified
+21457,Rehab,Rehabilitation
+21458,Rehab,Rehabilitation
+21459,RN,RN
+21460,Res,Resident/Fellow/PA/NP
+21461,RO,Read Only
+21462,CM,Case Manager
+21463,RO,Read Only
+21464,RPH,Pharmacist
+21465,Res,Resident/Fellow/PA/NP
+21466,Res,Resident/Fellow/PA/NP
+21467,Res,Resident/Fellow/PA/NP
+21468,Res,Resident/Fellow/PA/NP
+21469,MD,Attending
+21470,STD,Not Specified
+21471,Res,Resident/Fellow/PA/NP
+21472,RN,RN
+21473,RN,RN
+21474,Res,Resident/Fellow/PA/NP
+21475,Rehab,Rehabilitation
+21476,RN,RN
+21477,RO,Read Only
+21478,Res,Resident/Fellow/PA/NP
+21479,RO,Read Only
+21480,RPH,Pharmacist
+21481,Res,Resident/Fellow/PA/NP
+21482,Res,Resident/Fellow/PA/NP
+21483,RO,Read Only
+21484,Res,Resident/Fellow/PA/NP
+21485,MDs,Read Only
+21486,Res,Resident/Fellow/PA/NP
+21487,Rehab,Rehabilitation
+21488,RT,Respiratory
+21489,RO,Read Only
+21490,Res,Resident/Fellow/PA/NP
+21491,MD,Attending
+21492,RN,RN
+21493,Res,Resident/Fellow/PA/NP
+21494,Res,Resident/Fellow/PA/NP
+21495,Res,Resident/Fellow/PA/NP
+21496,Res,Resident/Fellow/PA/NP
+21497,Rehab,Rehabilitation
+21498,Res,Resident/Fellow/PA/NP
+21499,RN,RN
+21500,RO,Read Only
+21501,Res,Resident/Fellow/PA/NP
+21502,RO,Read Only
+21503,Res,Resident/Fellow/PA/NP
+21504,SW,Social Worker
+21505,CM,Case Manager
+21506,RPH,Pharmacist
+21507,Res,Resident/Fellow/PA/NP
+21508,Not Specified,Not Specified
+21509,md,Not Specified
+21510,md,Not Specified
+21511,RO,Read Only
+21512,IMD,IMD
+21513,rrt,Not Specified
+21514,Rehab,Rehabilitation
+21515,MD,Not Specified
+21516,Not Specified,Not Specified
+21517,Not Specified,Not Specified
+21518,Not Specified,Not Specified
+21519,Not Specified,Not Specified
+21520,Not Specified,Not Specified
+21521,RN,RN
+21522,CRT,Not Specified
+21523,Not Specified,Not Specified
+21524,IMD,IMD
+21525,IMD,IMD
+21526,md,Not Specified
+21527,md,Not Specified
+21528,md,Not Specified
+21529,nnp,Not Specified
+21530,Not Specified,Not Specified
+21531,md,Not Specified
+21532,Not Specified,Not Specified
+21533,MDS,Not Specified
+21534,Not Specified,Not Specified
+21535,MD,Not Specified
+21536,MDs,Resident/Fellow/PA/NP
+21537,MDs,Resident/Fellow/PA/NP
+21538,RN,Not Specified
+21539,MedSt,Not Specified
+21540,CO-Op,Not Specified
+21541,UA,UCO
+21542,Not Specified,Not Specified
+21543,RO,Read Only
+21544,MDs,Resident/Fellow/PA/NP
+21545,MS,RN
+21546,MDs,Not Specified
+21547,Res,Resident/Fellow/PA/NP
+21548,DO,Read Only
+21549,Not Specified,Not Specified
+21550,RN,Not Specified
+21551,Res,Resident/Fellow/PA/NP
+21552,Not Specified,Not Specified
+21553,Not Specified,Not Specified
+21554,Not Specified,Not Specified
+21555,Not Specified,Not Specified
+21556,cda,Not Specified
+21557,Not Specified,Not Specified
+21558,RN,Not Specified
+21559,RO,Read Only
+21560,Not Specified,Not Specified
+21561,Res,Resident/Fellow/PA/NP
+21562,rrt,Not Specified
+21563,RN,Not Specified
+21564,RN,Not Specified
+21565,Not Specified,Not Specified
+21566,MD,Not Specified
+21567,Res,Resident/Fellow/PA/NP
+21568,Rehab,Rehabilitation
+21569,MDs,Not Specified
+21570,Not Specified,Not Specified
