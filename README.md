@@ -93,7 +93,7 @@ bash Scripts/Run_Pipeline.sh
 
 ---
 
-## 📊 **GAME-CHANGING ANALYTICS RESULTS**
+## 📊 **ANALYTICS RESULTS**
 
 <div align="center">
 
