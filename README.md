@@ -69,7 +69,7 @@ graph TB
 
 ---
 
-## 🚀 **INSTANT SETUP - Get Started in 60 Seconds!**
+## 🚀 **INSTANT SETUP**
 
 <div align="center">
 
@@ -78,15 +78,15 @@ graph TB
 </div>
 
 ```bash
-# 🔥 CLONE AND START THE MAGIC
+# CLONE AND START 
 git clone [https://github.com/your-repo/mimic-analytics.git](https://github.com/OmarMeligi/MIMIC-DataFlow.git)
 cd mimic-analytics
 
-# ⚡ ONE-CLICK DOCKER DEPLOYMENT
+# DOCKER DEPLOYMENT
 cd "Docker Image"
 docker-compose up -d
 
-# 🚀 RUN THE COMPLETE PIPELINE
+# RUN THE COMPLETE PIPELINE
 bash Scripts/Run_Pipeline.sh
 ```
 
@@ -132,7 +132,7 @@ bash Scripts/Run_Pipeline.sh
 
 ---
 
-## 🛠️ **BATTLE-TESTED TECHNOLOGY STACK**
+## 🛠️ **TECHNOLOGY STACK**
 
 <div align="center">
 
@@ -184,7 +184,7 @@ bash Scripts/Run_Pipeline.sh
 
 ---
 
-## 🎯 **PROJECT STRUCTURE - PERFECTLY ORGANIZED**
+## 🎯 **PROJECT STRUCTURE**
 
 <details>
 <summary>🔥 <strong>CLICK TO EXPLORE THE COMPLETE STRUCTURE</strong></summary>
@@ -476,19 +476,6 @@ hdfs dfs -cat output/age-stats/part-r-00000
 </div>
 
 ---
-
-
-### 🚀 **HOW TO CONTRIBUTE**
-
-1. 🍴 **Fork** this repository
-2. 🌟 **Star** if you find it valuable
-3. 🔧 **Create** your feature branch (`git checkout -b feature/HealthcareInsight`)
-4. 💫 **Commit** your changes (`git commit -m 'Add new healthcare insight'`)
-5. 🚀 **Push** to the branch (`git push origin feature/HealthcareInsight`)
-6. 🎯 **Open** a Pull Request
-
----
-
 
 
 ## 📄 **LICENSE**
