@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### ** ANALYTICS PIPELINE**
+### **ANALYTICS PIPELINE**
 
 ```mermaid
 graph TB
@@ -67,7 +67,7 @@ graph TB
     style E1 fill:#feca57,stroke:#ff9800,stroke-width:3px,color:#fff
 ```
 
-### ** DATA WAREHOUSE PIPELINE**
+### **DATA WAREHOUSE PIPELINE**
 
 ```mermaid
 graph TB
