@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### **🔄 ANALYTICS PIPELINE**
+### ** ANALYTICS PIPELINE**
 
 ```mermaid
 graph TB
@@ -85,7 +85,7 @@ graph TB
         G3[ Data Quality Checks<br/>Validation Layer]
     end
     
-    subgraph "🌟 STAR SCHEMA DWH"
+    subgraph " STAR SCHEMA DWH"
         H1[ FACT_PATIENT_VISITS<br/>Central Fact Table]
         H2[ DIM_PATIENT<br/>Patient Dimension]
         H3[ DIM_ADMISSION<br/>Admission Dimension]
