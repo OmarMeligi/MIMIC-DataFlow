@@ -7,15 +7,9 @@
 
 </div>
 
----
 
 
-
----
-
----
-
-## 🏗️ **REVOLUTIONARY ARCHITECTURE**
+## 🏗️ **ARCHITECTURE**
 
 <div align="center">
 
@@ -82,15 +76,15 @@ graph TB
 </div>
 
 ```bash
-# 🔥 CLONE AND START THE MAGIC
+#  CLONE AND START 
 git clone https://github.com/your-repo/mimic-analytics.git
 cd mimic-analytics
 
-# ⚡ ONE-CLICK DOCKER DEPLOYMENT
+# ONE-CLICK DOCKER DEPLOYMENT
 cd "Docker Image"
 docker-compose up -d
 
-# 🚀 RUN THE COMPLETE PIPELINE
+# RUN THE COMPLETE PIPELINE
 bash Scripts/Run_Pipeline.sh
 ```
 
