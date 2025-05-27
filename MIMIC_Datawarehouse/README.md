@@ -68,19 +68,3 @@ erDiagram
     FACT_PATIENT_VISITS }|--|| DIM_DIAGNOSIS : "Has"
     FACT_PATIENT_VISITS }|--|| DIM_CAREGIVER : "Assigned"
     FACT_PATIENT_VISITS }|--|| DIM_ADMISSION : "Associated with"
-
-
-
-### Key Fixes Applied:
-1. **Proper Mermaid diagram closure**: Added blank lines before/after the code block
-2. **Corrected image syntax**: Used proper Markdown image formatting
-3. **Fixed typos**: 
-   - "SUBJECT_ID" (was "SUBJECT_ID")
-   - "Assigned" (was "Assigned")
-   - Consistent capitalization
-
-### Additional Recommendations:
-1. If the image still doesn't appear:
-   ```markdown
-   ![Pipeline Architecture Diagram](./Pipe_Line.PNG)
-
