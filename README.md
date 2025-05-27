@@ -477,18 +477,6 @@ hdfs dfs -cat output/age-stats/part-r-00000
 
 ---
 
-## 🤝 **JOIN THE HEALTHCARE REVOLUTION**
-
-<div align="center">
-
-### 🌟 **BE PART OF SOMETHING MEANINGFUL**
-
-[![Contributors](https://img.shields.io/github/contributors/username/repo?style=for-the-badge&color=brightgreen)](https://github.com/username/repo/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/username/repo?style=for-the-badge&color=blue)](https://github.com/username/repo/network/members)
-[![Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&color=yellow)](https://github.com/username/repo/stargazers)
-[![Issues](https://img.shields.io/github/issues/username/repo?style=for-the-badge&color=red)](https://github.com/username/repo/issues)
-
-</div>
 
 ### 🚀 **HOW TO CONTRIBUTE**
 
@@ -501,22 +489,7 @@ hdfs dfs -cat output/age-stats/part-r-00000
 
 ---
 
-## 🎉 **WHAT'S NEXT?**
 
-<div align="center">
-
-### 🚀 **HEALTHCARE ANALYTICS ROADMAP**
-
-</div>
-
-- 🧬 **Genomic Data Integration** - Expand beyond clinical records
-- 🤖 **Machine Learning Models** - Predictive analytics for patient outcomes  
-- 📱 **Real-time Dashboards** - Live hospital metrics monitoring
-- 🌐 **Multi-Hospital Support** - Scale to multiple MIMIC datasets
-- 🔗 **API Development** - RESTful endpoints for healthcare insights
-- 🏥 **EHR Integration** - Direct electronic health record connectivity
-
----
 
 ## 📄 **LICENSE**
 
