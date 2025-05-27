@@ -284,7 +284,7 @@ bash Scripts/Run_Pipeline.sh
 </div>
 
 <details>
-<summary> <strong>CLICK TO REVEAL MIND-BLOWING HEALTHCARE INSIGHTS</strong></summary>
+<summary> < HEALTHCARE INSIGHTS</strong></summary>
 
 <br>
 
