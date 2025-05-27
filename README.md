@@ -284,7 +284,7 @@ bash Scripts/Run_Pipeline.sh
 </div>
 
 <details>
-<summary> < HEALTHCARE INSIGHTS</strong></summary>
+<summary>  HEALTHCARE INSIGHTS</strong></summary>
 
 <br>
 
