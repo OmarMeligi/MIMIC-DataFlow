@@ -17,36 +17,36 @@
 
 ```mermaid
 graph TB
-    subgraph "📊 MIMIC-III DATA SOURCES"
-        A1[👥 PATIENTS_T.csv<br/>Patient Demographics]
-        A2[🏥 ADMISSIONS_T.xlsx<br/>Hospital Admissions]
-        A3[🩺 DIAGNOSES_ICD_T.xlsx<br/>Medical Diagnoses]
-        A4[🏥 ICUSTAYS_T.xlsx<br/>ICU Records]
-        A5[📋 D_ICD_DIAGNOSES_T.xlsx<br/>Diagnosis Codes]
+    subgraph " MIMIC-III DATA SOURCES"
+        A1[ PATIENTS_T.csv<br/>Patient Demographics]
+        A2[ ADMISSIONS_T.xlsx<br/>Hospital Admissions]
+        A3[ DIAGNOSES_ICD_T.xlsx<br/>Medical Diagnoses]
+        A4[ ICUSTAYS_T.xlsx<br/>ICU Records]
+        A5[ D_ICD_DIAGNOSES_T.xlsx<br/>Diagnosis Codes]
     end
     
-    subgraph "🧹 DATA CLEANSING LAYER"
-        B1[🐍 Python ETL Scripts<br/>Data Transformation]
-        B2[📊 Parquet Conversion<br/>Optimized Storage]
-        B3[✅ Data Validation<br/>Quality Assurance]
+    subgraph " DATA CLEANSING LAYER"
+        B1[ Python ETL Scripts<br/>Data Transformation]
+        B2[ Parquet Conversion<br/>Optimized Storage]
+        B3[ Data Validation<br/>Quality Assurance]
     end
     
-    subgraph "🗄️ HADOOP ECOSYSTEM"
-        C1[🐘 HDFS Storage<br/>Distributed File System]
-        C2[🐝 Hive Tables<br/>Data Warehouse]
-        C3[🗺️ MapReduce Jobs<br/>Custom Analytics]
+    subgraph "🗄 HADOOP ECOSYSTEM"
+        C1[ HDFS Storage<br/>Distributed File System]
+        C2[ Hive Tables<br/>Data Warehouse]
+        C3[ MapReduce Jobs<br/>Custom Analytics]
     end
     
-    subgraph "📈 ANALYTICS & INSIGHTS"
-        D1[📊 Hospital Length of Stay<br/>Per Diagnosis Analysis]
-        D2[🔄 ICU Readmissions<br/>Pattern Recognition]
-        D3[💀 Mortality Analysis<br/>Risk Assessment]
+    subgraph " ANALYTICS & INSIGHTS"
+        D1[ Hospital Length of Stay<br/>Per Diagnosis Analysis]
+        D2[ ICU Readmissions<br/>Pattern Recognition]
+        D3[ Mortality Analysis<br/>Risk Assessment]
     end
     
-    subgraph "🐳 DEPLOYMENT"
-        E1[🐳 Docker Containers<br/>Isolated Services]
-        E2[📋 Nginx Load Balancer<br/>Traffic Management]
-        E3[📊 Excel Reports<br/>Business Intelligence]
+    subgraph " DEPLOYMENT"
+        E1[ Docker Containers<br/>Isolated Services]
+        E2[ Nginx Load Balancer<br/>Traffic Management]
+        E3[ Excel Reports<br/>Business Intelligence]
     end
     
     A1 & A2 & A3 & A4 & A5 --> B1
