@@ -136,7 +136,7 @@ bash Scripts/Run_Pipeline.sh
 
 <div align="center">
 
-### 🚀 **BUILT WITH PROVEN BIG DATA TECHNOLOGIES**
+### **BIG DATA TECHNOLOGIES**
 
 <img src="https://skillicons.dev/icons?i=python,java,docker,hadoop,linux,bash,nginx&perline=7" />
 
@@ -146,7 +146,7 @@ bash Scripts/Run_Pipeline.sh
 <tr>
 <td align="center">
 
-### 🐍 **DATA PROCESSING**
+###  **DATA PROCESSING**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -155,7 +155,7 @@ bash Scripts/Run_Pipeline.sh
 </td>
 <td align="center">
 
-### 🐘 **BIG DATA ECOSYSTEM**
+###  **BIG DATA ECOSYSTEM**
 ![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![HDFS](https://img.shields.io/badge/HDFS-FF6B35?style=for-the-badge&logo=apache&logoColor=white)
@@ -166,14 +166,14 @@ bash Scripts/Run_Pipeline.sh
 <tr>
 <td align="center">
 
-### ☕ **ENTERPRISE JAVA**
+###  **ENTERPRISE JAVA**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </td>
 <td align="center">
 
-### 🐳 **CONTAINERIZATION**
+###  **CONTAINERIZATION**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -184,7 +184,7 @@ bash Scripts/Run_Pipeline.sh
 
 ---
 
-## 🎯 **PROJECT STRUCTURE**
+##  **PROJECT STRUCTURE**
 
 <details>
 <summary> <strong>CLICK TO EXPLORE THE COMPLETE STRUCTURE</strong></summary>
@@ -281,7 +281,7 @@ bash Scripts/Run_Pipeline.sh
 
 ---
 
-## 📈 **SPECTACULAR REAL RESULTS**
+##  **SPECTACULAR REAL RESULTS**
 
 <div align="center">
 
