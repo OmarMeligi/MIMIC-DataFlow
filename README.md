@@ -227,14 +227,12 @@ python Transforming.py
 ![Star Schema](https://img.shields.io/badge/Star_Schema-9B59B6?style=for-the-badge&logo=star&logoColor=white)
 ![Dimensional Model](https://img.shields.io/badge/Dimensional_Model-E74C3C?style=for-the-badge&logo=sitemap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-2ECC71?style=for-the-badge&logo=chart-line&logoColor=white)
 
 </td>
 <td align="center">
 
 ###  **ENTERPRISE JAVA**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </td>
 </tr>
@@ -242,9 +240,7 @@ python Transforming.py
 <td colspan="2" align="center">
 
 ###  **CONTAINERIZATION**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </td>
 </tr>
@@ -339,7 +335,7 @@ python Transforming.py
 │   ├──  template/                  # Configuration templates
 │   └──  worker/                    # Worker node setup
 │
-└── 📖 README.md                       # This amazing documentation!
+└──  README.md                       # This amazing documentation!
 ```
 
 </details>
@@ -369,7 +365,7 @@ python Transforming.py
 ###  **HOSPITAL LENGTH OF STAY**
 ![Chart](https://img.shields.io/badge/Cardiac_Surgery-12.4_Days-red?style=for-the-badge&logo=heart)
 
-**Longest average stays: Cardiac procedures & Neurological conditions**
+**Longest average stays**
 
 </td>
 <td align="center">
@@ -387,15 +383,11 @@ python Transforming.py
 ###  **MORTALITY RISK FACTORS**
 ![Chart](https://img.shields.io/badge/Age_85+-34%25_Mortality-darkred?style=for-the-badge&logo=trending-up)
 
-**Age and comorbidity count are strongest predictors**
-
 </td>
 <td align="center">
 
 ###  **DATA PROCESSING SPEED**
 ![Chart](https://img.shields.io/badge/58K_Records-Under_10_Minutes-brightgreen?style=for-the-badge&logo=zap)
-
-**Complete ETL pipeline processes full dataset in <10 minutes**
 
 </td>
 </tr>
@@ -421,56 +413,15 @@ FROM icustays
 WHERE intime - outtime < INTERVAL '30 days';
 ```
 
-</details>
 
-<details>
-<summary>🌟 <strong>DATA WAREHOUSE INSIGHTS</strong></summary>
 
-<br>
 
-<table>
-<tr>
-<td align="center">
 
-###  **PATIENT CARE ANALYSIS**
-![Chart](https://img.shields.io/badge/Patient_Outcomes-Tracked-green?style=for-the-badge&logo=heart-pulse)
-
-**Track demographics, outcomes, and mortality patterns**
-
-</td>
-<td align="center">
-
-###  **CLINICAL OPERATIONS**
-![Chart](https://img.shields.io/badge/Care_Efficiency-Optimized-blue?style=for-the-badge&logo=activity)
-
-**Monitor delivery efficiency and resource utilization**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-###  **QUALITY METRICS**
-![Chart](https://img.shields.io/badge/Performance_KPIs-Measured-purple?style=for-the-badge&logo=chart-bar)
-
-**Hospital performance and care coordination metrics**
-
-</td>
-<td align="center">
-
-###  **BUSINESS INTELLIGENCE**
-![Chart](https://img.shields.io/badge/Star_Schema-Optimized-orange?style=for-the-badge&logo=star)
-
-**Dimensional model supports complex analytics**
-
-</td>
-</tr>
-</table>
 
 ###  **SAMPLE DATA WAREHOUSE QUERIES**
 
 ```sql
--- 🌟 Patient Visit Analysis with Demographics
+--  Patient Visit Analysis with Demographics
 SELECT 
     dp.GENDER,
     AVG(fpv.Hosp_LOS) as avg_hospital_stay,
@@ -479,7 +430,7 @@ FROM FACT_PATIENT_VISITS fpv
 JOIN DIM_PATIENT dp ON fpv.SUBJECT_ID = dp.SUBJECT_ID
 GROUP BY dp.GENDER;
 
--- 🌟 Seasonal Admission Patterns
+-- Seasonal Admission Patterns
 SELECT 
     dd.QUARTER,
     dd.MONTH,
@@ -489,7 +440,7 @@ JOIN DIM_DATE dd ON fpv.ADMIT_DATE_ID = dd.DATE_ID
 GROUP BY dd.QUARTER, dd.MONTH
 ORDER BY dd.QUARTER, dd.MONTH;
 
--- 🌟 Diagnosis Outcome Analysis
+--  Diagnosis Outcome Analysis
 SELECT 
     dd.SHORT_TITLE as diagnosis,
     AVG(fpv.Hosp_LOS) as avg_los,
@@ -638,10 +589,10 @@ ORDER BY avg_los DESC;
 </details>
 
 <details>
-<summary>🌟 <strong>STAR SCHEMA IMPLEMENTATION</strong></summary>
+<summary> <strong>STAR SCHEMA IMPLEMENTATION</strong></summary>
 
 ```sql
--- 🌟 Create Fact Table
+--  Create Fact Table
 CREATE EXTERNAL TABLE IF NOT EXISTS FACT_PATIENT_VISITS (
     SUBJECT_ID INT,
     VISIT_SK INT,
@@ -660,7 +611,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS FACT_PATIENT_VISITS (
 STORED AS PARQUET
 LOCATION '/user/hive/warehouse/fact_patient_visits';
 
--- 🌟 Create Patient Dimension
+--  Create Patient Dimension
 CREATE EXTERNAL TABLE IF NOT EXISTS DIM_PATIENT (
     SUBJECT_ID INT,
     GENDER STRING,
@@ -672,7 +623,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS DIM_PATIENT (
 STORED AS PARQUET
 LOCATION '/user/hive/warehouse/dim_patient';
 
--- 🌟 Complex Business Intelligence Query
+--  Complex Business Intelligence Query
 SELECT 
     dp.GENDER,
     da.ADMISSION_TYPE,
@@ -720,7 +671,6 @@ hdfs dfs -cat output/age-stats/part-r-00000
 [![ ETL Documentation](https://img.shields.io/badge/_ETL_Documentation-Read_Now-blue?style=for-the-badge)](Documentation/ETL_documentation.md)
 [![ Architecture Guide](https://img.shields.io/badge/_Architecture_Guide-View_Now-green?style=for-the-badge)](Documentation/project_overview.md)
 [![🌟 DWH Documentation](https://img.shields.io/badge/_Data_Warehouse_Guide-Explore_Now-purple?style=for-the-badge)](MIMIC_Datawarehouse/README.md)
-[![ Technical Stack](https://img.shields.io/badge/_Technical_Stack-Explore_Now-orange?style=for-the-badge)](Documentation/Technology%20Stack.PNG)
 
 </div>
 
