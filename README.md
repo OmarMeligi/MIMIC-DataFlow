@@ -278,40 +278,6 @@ bash Scripts/Run_Pipeline.sh
 
 ---
 
-## 🚀 **REVOLUTIONARY PIPELINE WORKFLOW**
-
-<div align="center">
-
-### ⚡ **FROM RAW HEALTHCARE DATA TO INSIGHTS IN MINUTES**
-
-</div>
-
-```mermaid
-gantt
-    title 🚀 MIMIC-III Processing Pipeline Timeline
-    dateFormat  X
-    axisFormat %s
-    
-    section 📥 Data Ingestion
-    Load MIMIC-III Files    :done, ingestion, 0, 30s
-    Data Validation        :done, validation, 30s, 60s
-    
-    section 🧹 ETL Processing
-    Python Transformation  :done, transform, 60s, 180s
-    Parquet Conversion    :done, parquet, 180s, 240s
-    
-    section 🐘 Hadoop Processing
-    HDFS Upload           :done, hdfs, 240s, 300s
-    Hive Table Creation   :done, hive, 300s, 360s
-    
-    section 🗺️ Analytics
-    MapReduce Jobs        :done, mapreduce, 360s, 480s
-    Insight Generation    :done, insights, 480s, 540s
-    
-    section 📊 Results
-    Excel Report Creation :done, reports, 540s, 600s
-    Dashboard Update      :done, dashboard, 600s, 630s
-```
 
 ---
 
