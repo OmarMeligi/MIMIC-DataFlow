@@ -499,17 +499,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### 🌟 **STAR THIS REPO TO ADVANCE HEALTHCARE ANALYTICS!** 🌟
-
-![Thank You](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=65)
-
-[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social&label=Star&maxAge=2592000)](https://github.com/username/repo/stargazers)
-[![GitHub followers](https://img.shields.io/github/followers/username?style=social&label=Follow&maxAge=2592000)](https://github.com/username)
-
-**💡 Every star helps advance healthcare through better data analytics!**
-
----
-
-*Made with ❤️ by passionate healthcare data engineers using MIMIC-III clinical database*
-
-</div>
