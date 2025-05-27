@@ -11,9 +11,11 @@
 
 ---
 
-##  **ARCHITECTURE**
+##  **DUAL PIPELINE ARCHITECTURE**
 
 <div align="center">
+
+### **🔄 ANALYTICS PIPELINE**
 
 ```mermaid
 graph TB
@@ -65,6 +67,54 @@ graph TB
     style E1 fill:#feca57,stroke:#ff9800,stroke-width:3px,color:#fff
 ```
 
+### **🏗 DATA WAREHOUSE PIPELINE**
+
+```mermaid
+graph TB
+    subgraph " RAW DATA SOURCES"
+        F1[ PATIENTS_T.csv<br/>Demographics]
+        F2[ ADMISSIONS_T.xlsx<br/>Admissions]
+        F3[ DIAGNOSES_ICD_T.xlsx<br/>Diagnoses]
+        F4[ ICUSTAYS_T.xlsx<br/>ICU Stays]
+        F5[ D_ICD_DIAGNOSES_T.xlsx<br/>Diagnosis Codes]
+    end
+    
+    subgraph " DIMENSIONAL MODELING"
+        G1[ Star Schema Design<br/>Fact & Dimensions]
+        G2[ Data Transformation<br/>Business Rules]
+        G3[ Data Quality Checks<br/>Validation Layer]
+    end
+    
+    subgraph "🌟 STAR SCHEMA DWH"
+        H1[ FACT_PATIENT_VISITS<br/>Central Fact Table]
+        H2[ DIM_PATIENT<br/>Patient Dimension]
+        H3[ DIM_ADMISSION<br/>Admission Dimension]
+        H4[ DIM_DATE<br/>Time Dimension]
+        H5[ DIM_DIAGNOSIS<br/>Diagnosis Dimension]
+        H6[ DIM_CAREGIVER<br/>Caregiver Dimension]
+    end
+    
+    subgraph " BUSINESS INTELLIGENCE"
+        I1[ Patient Care Analysis<br/>Outcome Tracking]
+        I2[ Clinical Operations<br/>Efficiency Metrics]
+        I3[ Quality Metrics<br/>Performance KPIs]
+        I4[ Research Applications<br/>Evidence-Based Insights]
+    end
+    
+    F1 & F2 & F3 & F4 & F5 --> G1
+    G1 --> G2
+    G2 --> G3
+    G3 --> H1
+    H1 --> H2 & H3 & H4 & H5 & H6
+    H2 & H3 & H4 & H5 & H6 --> I1 & I2 & I3 & I4
+    
+    style F1 fill:#ff6b6b,stroke:#ff5722,stroke-width:3px,color:#fff
+    style G1 fill:#9b59b6,stroke:#8e44ad,stroke-width:3px,color:#fff
+    style H1 fill:#e74c3c,stroke:#c0392b,stroke-width:3px,color:#fff
+    style H2 fill:#3498db,stroke:#2980b9,stroke-width:3px,color:#fff
+    style I1 fill:#2ecc71,stroke:#27ae60,stroke-width:3px,color:#fff
+```
+
 </div>
 
 ---
@@ -86,8 +136,13 @@ cd mimic-analytics
 cd "Docker Image"
 docker-compose up -d
 
-# RUN THE COMPLETE PIPELINE
+# RUN THE ANALYTICS PIPELINE
 bash Scripts/Run_Pipeline.sh
+
+# RUN THE DATA WAREHOUSE PIPELINE
+cd MIMIC_Datawarehouse
+bash HDFS-Uploading.bash
+python Transforming.py
 ```
 
 
@@ -103,7 +158,7 @@ bash Scripts/Run_Pipeline.sh
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ###  **LENGTH OF STAY**
 <img src="https://img.shields.io/badge/Average-7.2_Days-brightgreen?style=for-the-badge&logo=hospital" alt="LOS"/>
@@ -111,7 +166,7 @@ bash Scripts/Run_Pipeline.sh
 **Analyzed 58,976 admissions across 38 diagnosis categories**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ###  **ICU READMISSIONS**
 <img src="https://img.shields.io/badge/Rate-14.3%25-orange?style=for-the-badge&logo=refresh" alt="Readmissions"/>
@@ -119,12 +174,20 @@ bash Scripts/Run_Pipeline.sh
 **Identified patterns in 61,532 ICU stays**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ###  **MORTALITY ANALYSIS**
 <img src="https://img.shields.io/badge/Hospital_Mortality-11.2%25-red?style=for-the-badge&logo=heart" alt="Mortality"/>
 
 **Risk factors across 46,520 patients**
+
+</td>
+<td align="center" width="25%">
+
+###  **STAR SCHEMA**
+<img src="https://img.shields.io/badge/Dimensional_Model-6_Tables-purple?style=for-the-badge&logo=database" alt="DWH"/>
+
+**Optimized for clinical analytics & BI reporting**
 
 </td>
 </tr>
@@ -160,12 +223,23 @@ bash Scripts/Run_Pipeline.sh
 <tr>
 <td align="center">
 
+###  **DATA WAREHOUSE**
+![Star Schema](https://img.shields.io/badge/Star_Schema-9B59B6?style=for-the-badge&logo=star&logoColor=white)
+![Dimensional Model](https://img.shields.io/badge/Dimensional_Model-E74C3C?style=for-the-badge&logo=sitemap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-2ECC71?style=for-the-badge&logo=chart-line&logoColor=white)
+
+</td>
+<td align="center">
+
 ###  **ENTERPRISE JAVA**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </td>
-<td align="center">
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ###  **CONTAINERIZATION**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -203,7 +277,7 @@ bash Scripts/Run_Pipeline.sh
 │   ├──  mimic-iii-clinical-database-demo-1.4.zip  # Demo dataset
 │   └──  PATIENTS_T.csv              # Patient demographic data
 │
-├──  MIMIC_Datawarehouse/             # Star schema implementation
+├──  MIMIC_Datawarehouse/             #⭐ Star schema implementation
 │   ├──  Data_Modeling_StarSchema.PNG # Data model visualization
 │   ├──  Data_Source/                # Source data management
 │   ├──  Data_Transforming/          # Transformation scripts
@@ -284,7 +358,7 @@ bash Scripts/Run_Pipeline.sh
 </div>
 
 <details>
-<summary>  HEALTHCARE INSIGHTS</strong></summary>
+<summary>  ANALYTICS PIPELINE INSIGHTS</strong></summary>
 
 <br>
 
@@ -349,12 +423,106 @@ WHERE intime - outtime < INTERVAL '30 days';
 
 </details>
 
+<details>
+<summary>🌟 <strong>DATA WAREHOUSE INSIGHTS</strong></summary>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+###  **PATIENT CARE ANALYSIS**
+![Chart](https://img.shields.io/badge/Patient_Outcomes-Tracked-green?style=for-the-badge&logo=heart-pulse)
+
+**Track demographics, outcomes, and mortality patterns**
+
+</td>
+<td align="center">
+
+###  **CLINICAL OPERATIONS**
+![Chart](https://img.shields.io/badge/Care_Efficiency-Optimized-blue?style=for-the-badge&logo=activity)
+
+**Monitor delivery efficiency and resource utilization**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+###  **QUALITY METRICS**
+![Chart](https://img.shields.io/badge/Performance_KPIs-Measured-purple?style=for-the-badge&logo=chart-bar)
+
+**Hospital performance and care coordination metrics**
+
+</td>
+<td align="center">
+
+###  **BUSINESS INTELLIGENCE**
+![Chart](https://img.shields.io/badge/Star_Schema-Optimized-orange?style=for-the-badge&logo=star)
+
+**Dimensional model supports complex analytics**
+
+</td>
+</tr>
+</table>
+
+###  **SAMPLE DATA WAREHOUSE QUERIES**
+
+```sql
+-- 🌟 Patient Visit Analysis with Demographics
+SELECT 
+    dp.GENDER,
+    AVG(fpv.Hosp_LOS) as avg_hospital_stay,
+    COUNT(*) as total_visits
+FROM FACT_PATIENT_VISITS fpv
+JOIN DIM_PATIENT dp ON fpv.SUBJECT_ID = dp.SUBJECT_ID
+GROUP BY dp.GENDER;
+
+-- 🌟 Seasonal Admission Patterns
+SELECT 
+    dd.QUARTER,
+    dd.MONTH,
+    COUNT(fpv.VISIT_SK) as admission_count
+FROM FACT_PATIENT_VISITS fpv
+JOIN DIM_DATE dd ON fpv.ADMIT_DATE_ID = dd.DATE_ID
+GROUP BY dd.QUARTER, dd.MONTH
+ORDER BY dd.QUARTER, dd.MONTH;
+
+-- 🌟 Diagnosis Outcome Analysis
+SELECT 
+    dd.SHORT_TITLE as diagnosis,
+    AVG(fpv.Hosp_LOS) as avg_los,
+    SUM(fpv.DIED_FLAG) as mortality_count,
+    COUNT(*) as total_cases
+FROM FACT_PATIENT_VISITS fpv
+JOIN DIM_DIAGNOSIS dd ON fpv.DIAGNOSIS_SK = dd.DIAG_SK
+GROUP BY dd.SHORT_TITLE
+ORDER BY mortality_count DESC;
+```
+
+</details>
+
 ---
 
-
+##  **PIPELINE SETUP GUIDE**
 
 <details>
-<summary> <strong>STEP 2: DATA PROCESSING</strong></summary>
+<summary> <strong>STEP 1: ENVIRONMENT SETUP</strong></summary>
+
+```bash
+#  Start Docker environment
+cd "Docker Image"
+docker-compose up -d
+
+#  Verify Hadoop cluster is running
+docker ps | grep hadoop
+```
+
+</details>
+
+<details>
+<summary> <strong>STEP 2: ANALYTICS PIPELINE</strong></summary>
 
 ```bash
 #  Run Python ETL transformation
@@ -365,19 +533,50 @@ bash Scripts/HDFS-Uploading.bash
 
 #  Create Hive tables
 hive -f Hive/Hive_Loading.sql
+
+#  Execute analytics pipeline
+bash Scripts/Run_Pipeline.sh
 ```
 
 </details>
 
 <details>
-<summary> <strong>STEP 3: EXECUTE PIPELINE</strong></summary>
+<summary>🌟 <strong>STEP 3: DATA WAREHOUSE PIPELINE</strong></summary>
 
 ```bash
-#  Run the complete analytics pipeline
-bash Scripts/Run_Pipeline.sh
+#  Navigate to DWH directory
+cd MIMIC_Datawarehouse
 
-#  Check generated results
+#  Run data transformation for star schema
+python Transforming.py
+
+#  Upload dimensional data to HDFS
+bash HDFS-Uploading.bash
+
+#  Create star schema tables
+hive -f DWH_Creation_Queries.sql
+
+#  Execute business intelligence queries
+hive -f Insights_Queries.sql
+
+#  Check generated reports
+ls -la Results_Insights/
+```
+
+</details>
+
+<details>
+<summary> <strong>STEP 4: VERIFY RESULTS</strong></summary>
+
+```bash
+#  Check analytics results
 ls -la Results/
+
+#  Check data warehouse insights
+ls -la MIMIC_Datawarehouse/Results_Insights/
+
+#  View HDFS data
+hdfs dfs -ls /user/hive/warehouse/
 ```
 
 </details>
@@ -439,6 +638,61 @@ ORDER BY avg_los DESC;
 </details>
 
 <details>
+<summary>🌟 <strong>STAR SCHEMA IMPLEMENTATION</strong></summary>
+
+```sql
+-- 🌟 Create Fact Table
+CREATE EXTERNAL TABLE IF NOT EXISTS FACT_PATIENT_VISITS (
+    SUBJECT_ID INT,
+    VISIT_SK INT,
+    ICUSTAY_ID INT,
+    HADM_ID INT,
+    DIAGNOSIS_SK INT,
+    CG_SK INT,
+    Hosp_LOS FLOAT,
+    ICU_LOS FLOAT,
+    Death_Date STRING,
+    DIED_FLAG INT,
+    ADMIT_DATE_ID INT,
+    DISCHARGE_DATE_ID INT,
+    ICU_ADMIT_DATE_ID INT
+)
+STORED AS PARQUET
+LOCATION '/user/hive/warehouse/fact_patient_visits';
+
+-- 🌟 Create Patient Dimension
+CREATE EXTERNAL TABLE IF NOT EXISTS DIM_PATIENT (
+    SUBJECT_ID INT,
+    GENDER STRING,
+    DOB STRING,
+    MARITAL_STATUS STRING,
+    LANGUAGE STRING,
+    RELIGION STRING
+)
+STORED AS PARQUET
+LOCATION '/user/hive/warehouse/dim_patient';
+
+-- 🌟 Complex Business Intelligence Query
+SELECT 
+    dp.GENDER,
+    da.ADMISSION_TYPE,
+    dd.SHORT_TITLE as DIAGNOSIS,
+    AVG(fpv.Hosp_LOS) as avg_hospital_stay,
+    AVG(fpv.ICU_LOS) as avg_icu_stay,
+    COUNT(*) as visit_count,
+    SUM(fpv.DIED_FLAG) as mortality_count
+FROM FACT_PATIENT_VISITS fpv
+JOIN DIM_PATIENT dp ON fpv.SUBJECT_ID = dp.SUBJECT_ID
+JOIN DIM_ADMISSION da ON fpv.HADM_ID = da.HADM_SK
+JOIN DIM_DIAGNOSIS dd ON fpv.DIAGNOSIS_SK = dd.DIAG_SK
+GROUP BY dp.GENDER, da.ADMISSION_TYPE, dd.SHORT_TITLE
+HAVING visit_count > 10
+ORDER BY mortality_count DESC, avg_hospital_stay DESC;
+```
+
+</details>
+
+<details>
 <summary> <strong>MAPREDUCE PROCESSING</strong></summary>
 
 ```bash
@@ -465,6 +719,7 @@ hdfs dfs -cat output/age-stats/part-r-00000
 
 [![ ETL Documentation](https://img.shields.io/badge/_ETL_Documentation-Read_Now-blue?style=for-the-badge)](Documentation/ETL_documentation.md)
 [![ Architecture Guide](https://img.shields.io/badge/_Architecture_Guide-View_Now-green?style=for-the-badge)](Documentation/project_overview.md)
+[![🌟 DWH Documentation](https://img.shields.io/badge/_Data_Warehouse_Guide-Explore_Now-purple?style=for-the-badge)](MIMIC_Datawarehouse/README.md)
 [![ Technical Stack](https://img.shields.io/badge/_Technical_Stack-Explore_Now-orange?style=for-the-badge)](Documentation/Technology%20Stack.PNG)
 
 </div>
