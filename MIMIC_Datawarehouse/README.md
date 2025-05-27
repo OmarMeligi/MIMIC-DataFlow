@@ -68,3 +68,7 @@ erDiagram
     FACT_PATIENT_VISITS }|--|| DIM_DIAGNOSIS : "Has"
     FACT_PATIENT_VISITS }|--|| DIM_CAREGIVER : "Assigned"
     FACT_PATIENT_VISITS }|--|| DIM_ADMISSION : "Associated with"
+
+
+### Architecture Diagram
+![Architecture Diagram](Pipe_Line.PNG)
