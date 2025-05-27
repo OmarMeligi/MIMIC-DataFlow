@@ -77,7 +77,7 @@ graph TB
 
 ```bash
 #  CLONE AND START 
-git clone https://github.com/your-repo/mimic-analytics.git
+git clone [https://github.com/your-repo/mimic-analytics.git](https://github.com/OmarMeligi/MIMIC-DataFlow.git)
 cd mimic-analytics
 
 # ONE-CLICK DOCKER DEPLOYMENT
