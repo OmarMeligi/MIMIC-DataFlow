@@ -9,34 +9,7 @@
 
 ---
 
-## 🎯 **What Makes This Project INCREDIBLE?**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 **MIND-BLOWING FEATURES**
-- 🚀 **Complete ETL Pipeline** for MIMIC-III data
-- 🧠 **Star Schema** data warehouse design
-- 📊 **Real-time** Hive analytics queries
-- 🔒 **HIPAA-Ready** data processing
-- 🌐 **Dockerized** entire ecosystem
-- 📱 **Production-Ready** deployment
-
-</td>
-<td width="50%">
-
-### 💎 **ENTERPRISE-GRADE TECH**
-- ⚡ **Apache Hadoop** distributed processing
-- 🐝 **Apache Hive** data warehousing
-- 🗺️ **MapReduce** custom analytics jobs
-- 🐳 **Docker** containerization
-- 🐍 **Python** ETL automation
-- 📊 **Parquet** optimized storage
-
-</td>
-</tr>
-</table>
 
 ---
 
