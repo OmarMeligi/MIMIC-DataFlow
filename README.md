@@ -300,7 +300,7 @@ bash Scripts/Run_Pipeline.sh
 </td>
 <td align="center">
 
-### 🔄 **ICU READMISSION PATTERNS**
+###  **ICU READMISSION PATTERNS**
 ![Chart](https://img.shields.io/badge/Within_48hrs-23%25-orange?style=for-the-badge&logo=refresh)
 
 **Nearly 1 in 4 patients readmitted within 48 hours**
@@ -310,7 +310,7 @@ bash Scripts/Run_Pipeline.sh
 <tr>
 <td align="center">
 
-### 💀 **MORTALITY RISK FACTORS**
+###  **MORTALITY RISK FACTORS**
 ![Chart](https://img.shields.io/badge/Age_85+-34%25_Mortality-darkred?style=for-the-badge&logo=trending-up)
 
 **Age and comorbidity count are strongest predictors**
@@ -339,7 +339,7 @@ GROUP BY d.short_title
 ORDER BY avg_length_of_stay DESC
 LIMIT 10;
 
--- 🔄 ICU Readmission Analysis
+--  ICU Readmission Analysis
 SELECT 
   COUNT(*) as total_readmissions,
   AVG(los) as avg_readmission_stay
@@ -354,7 +354,7 @@ WHERE intime - outtime < INTERVAL '30 days';
 
 
 <details>
-<summary>🧹 <strong>STEP 2: DATA PROCESSING</strong></summary>
+<summary> <strong>STEP 2: DATA PROCESSING</strong></summary>
 
 ```bash
 # 🐍 Run Python ETL transformation
@@ -439,7 +439,7 @@ ORDER BY avg_los DESC;
 </details>
 
 <details>
-<summary>🗺️ <strong>MAPREDUCE PROCESSING</strong></summary>
+<summary> <strong>MAPREDUCE PROCESSING</strong></summary>
 
 ```bash
 #  Compile MapReduce job
@@ -470,13 +470,3 @@ hdfs dfs -cat output/age-stats/part-r-00000
 </div>
 
 ---
-
-
-## 📄 **LICENSE**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
