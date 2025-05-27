@@ -357,31 +357,7 @@ WHERE intime - outtime < INTERVAL '30 days';
 
 ---
 
-## 🎮 **QUICK START GUIDE**
 
-<div align="center">
-
-### 🔥 **GET RUNNING IN 3 SIMPLE STEPS**
-
-</div>
-
-<details>
-<summary>⚡ <strong>STEP 1: ENVIRONMENT SETUP</strong></summary>
-
-```bash
-# 📦 Clone the repository
-git clone https://github.com/your-repo/mimic-analytics.git
-cd mimic-analytics
-
-# 🐳 Start Docker services
-cd "Docker Image"
-docker-compose up -d
-
-# ✅ Verify all services are running
-docker ps
-```
-
-</details>
 
 <details>
 <summary>🧹 <strong>STEP 2: DATA PROCESSING</strong></summary>
