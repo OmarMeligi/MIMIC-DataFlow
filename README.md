@@ -366,7 +366,7 @@ WHERE intime - outtime < INTERVAL '30 days';
 # 🐍 Run Python ETL transformation
 python Scripts/Transforming.py
 
-# 📤 Upload cleaned data to HDFS  
+#  Upload cleaned data to HDFS  
 bash Scripts/HDFS-Uploading.bash
 
 # 🐝 Create Hive tables
@@ -376,13 +376,13 @@ hive -f Hive/Hive_Loading.sql
 </details>
 
 <details>
-<summary>🚀 <strong>STEP 3: EXECUTE PIPELINE</strong></summary>
+<summary> <strong>STEP 3: EXECUTE PIPELINE</strong></summary>
 
 ```bash
-# 🚀 Run the complete analytics pipeline
+#  Run the complete analytics pipeline
 bash Scripts/Run_Pipeline.sh
 
-# 📊 Check generated results
+#  Check generated results
 ls -la Results/
 ```
 
