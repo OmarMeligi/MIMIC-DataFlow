@@ -134,13 +134,7 @@ bash Scripts/Run_Pipeline.sh
 
 ## **TECHNOLOGY STACK**
 
-<div align="center">
 
-### **BIG DATA TECHNOLOGIES**
-
-<img src="https://skillicons.dev/icons?i=python,java,docker,hadoop,linux,bash,nginx&perline=7" />
-
-</div>
 
 <table>
 <tr>
