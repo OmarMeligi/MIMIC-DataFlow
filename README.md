@@ -113,7 +113,7 @@ bash Scripts/Run_Pipeline.sh
 </td>
 <td align="center" width="33%">
 
-### 🔄 **ICU READMISSIONS**
+###  **ICU READMISSIONS**
 <img src="https://img.shields.io/badge/Rate-14.3%25-orange?style=for-the-badge&logo=refresh" alt="Readmissions"/>
 
 **Identified patterns in 61,532 ICU stays**
@@ -121,7 +121,7 @@ bash Scripts/Run_Pipeline.sh
 </td>
 <td align="center" width="33%">
 
-### 💀 **MORTALITY ANALYSIS**
+###  **MORTALITY ANALYSIS**
 <img src="https://img.shields.io/badge/Hospital_Mortality-11.2%25-red?style=for-the-badge&logo=heart" alt="Mortality"/>
 
 **Risk factors across 46,520 patients**
@@ -357,13 +357,13 @@ WHERE intime - outtime < INTERVAL '30 days';
 <summary> <strong>STEP 2: DATA PROCESSING</strong></summary>
 
 ```bash
-# 🐍 Run Python ETL transformation
+#  Run Python ETL transformation
 python Scripts/Transforming.py
 
 #  Upload cleaned data to HDFS  
 bash Scripts/HDFS-Uploading.bash
 
-# 🐝 Create Hive tables
+#  Create Hive tables
 hive -f Hive/Hive_Loading.sql
 ```
 
