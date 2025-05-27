@@ -86,17 +86,6 @@ docker-compose up -d
 
 # RUN THE COMPLETE PIPELINE
 bash Scripts/Run_Pipeline.sh
-```
-
-<div align="center">
-
-[![Clone Repository](https://img.shields.io/badge/Clone-Repository-FF9900?style=for-the-badge&logo=git&logoColor=white)](https://github.com/your-repo/mimic-analytics)
-[![Docker Hub](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/mimic/analytics)
-[![Quick Start](https://img.shields.io/badge/Quick-Start-4CAF50?style=for-the-badge&logo=rocket&logoColor=white)](#quick-start)
-
-</div>
-
----
 
 ## 📊 **GAME-CHANGING ANALYTICS RESULTS**
 
