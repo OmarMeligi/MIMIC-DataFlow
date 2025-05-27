@@ -30,11 +30,11 @@ erDiagram
     DIM_DATE {
         BIGINT DATE_ID PK
         date DATE_VALUE
-        number DAY
-        number MONTH
-        number YEAR
-        number QUARTER
-        number WEEK
+        int DAY
+        int MONTH
+        int YEAR
+        int QUARTER
+        int WEEK
     }
 
     DIM_DIAGNOSIS {
