@@ -7,17 +7,7 @@
 
 
 </div>
----
 
-## 🌟 **LIVE ARCHITECTURE - See The Magic!**
-
-<div align="center">
-
-[![View Architecture](https://img.shields.io/badge/🏗️_VIEW_ARCHITECTURE-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#architecture)
-[![Download Results](https://img.shields.io/badge/📊_DOWNLOAD_RESULTS-00D4AA?style=for-the-badge&logo=download&logoColor=white)](#results)
-[![Explore Code](https://img.shields.io/badge/💻_EXPLORE_CODE-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](#structure)
-
-</div>
 
 ---
 
