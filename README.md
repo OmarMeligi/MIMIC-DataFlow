@@ -492,7 +492,7 @@ bash Scripts/Run_Pipeline.sh
 </details>
 
 <details>
-<summary>🌟 <strong>STEP 3: DATA WAREHOUSE PIPELINE</strong></summary>
+<summary> <strong>STEP 3: DATA WAREHOUSE PIPELINE</strong></summary>
 
 ```bash
 #  Navigate to DWH directory
@@ -670,7 +670,7 @@ hdfs dfs -cat output/age-stats/part-r-00000
 
 [![ ETL Documentation](https://img.shields.io/badge/_ETL_Documentation-Read_Now-blue?style=for-the-badge)](Documentation/ETL_documentation.md)
 [![ Architecture Guide](https://img.shields.io/badge/_Architecture_Guide-View_Now-green?style=for-the-badge)](Documentation/project_overview.md)
-[![🌟 DWH Documentation](https://img.shields.io/badge/_Data_Warehouse_Guide-Explore_Now-purple?style=for-the-badge)](MIMIC_Datawarehouse/README.md)
+[![ DWH Documentation](https://img.shields.io/badge/_Data_Warehouse_Guide-Explore_Now-purple?style=for-the-badge)](MIMIC_Datawarehouse/README.md)
 
 </div>
 
