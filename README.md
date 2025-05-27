@@ -463,16 +463,6 @@ hdfs dfs -cat output/age-stats/part-r-00000
 
 ---
 
-## 🏆 **PROJECT ACHIEVEMENTS**
-
-<div align="center">
-
-![Achievement](https://img.shields.io/badge/🏥_Healthcare_Impact-Proven-brightgreen?style=for-the-badge)
-![Achievement](https://img.shields.io/badge/📊_Data_Processed-58K+_Records-blue?style=for-the-badge)
-![Achievement](https://img.shields.io/badge/⚡_Processing_Speed-<10_Minutes-yellow?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 📚 **COMPREHENSIVE DOCUMENTATION**
