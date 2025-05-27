@@ -69,5 +69,3 @@ erDiagram
     FACT_PATIENT_VISITS }|--|| DIM_CAREGIVER : "Assigned"
     FACT_PATIENT_VISITS }|--|| DIM_ADMISSION : "Associated with"
 
-### Data Pipeline Architecture
-![Pipeline Architecture Diagram](Pipe_Line.PNG)
